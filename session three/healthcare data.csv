@@ -1,0 +1,501 @@
+Patient_ID,Age,Gender,Hospital,Department,Primary_Condition,Admission_Date,Length_Of_Stay,Insurance_Type,Treatment_Cost,Readmission_30Days,Satisfaction_Score,Doctor_ID,Discharge_Status
+PAT1000,50.0,Other,Regional General Hospital,Emergency,Fracture,2023-12-27 18:45:18.949904,28,PPO,2779.81,0,1.2,DOC3080,Transferred
+PAT1001,50.0,Female,Regional General Hospital,Cardiology,Hypertension,2023-12-27 18:45:18.949904,1,Private Insurance,40499.92,0,3.2,DOC7089,Stable
+PAT1002,78.0,Male,City Health Clinic,Radiology,Asthma,2023-12-27 18:45:18.949904,8,Medicare,9305.46,0,0.0,DOC8396,Stable
+PAT1003,68.0,Female,North Valley Hospital,Cardiology,Depression,2023-12-30 18:45:18.949904,37,PPO,25976.84,0,4.3,DOC8797,Stable
+PAT1004,60.0,Female,Regional General Hospital,Oncology,Pneumonia,2023-12-30 18:45:18.949904,32,Private Insurance,40509.63,0,2.4,DOC1861,Improved
+PAT1005,0.0,Male,Sunrise Medical Complex,Psychiatry,Pneumonia,2024-01-03 18:45:18.949904,43,Private Insurance,13064.14,0,4.7,DOC9346,Stable
+PAT1006,84.0,Other,nan,Surgery,Pneumonia,2024-01-08 18:45:18.949904,37,Medicare,12667.47,0,3.3,DOC4494,Recovered
+PAT1007,82.0,Other,Veterans Health Center,Pediatrics,Arthritis,2024-01-09 18:45:18.949904,4,Private Insurance,20436.84,0,1.7,DOC1904,Stable
+PAT1008,50.0,Male,Sunrise Medical Complex,Oncology,Depression,2024-01-09 18:45:18.949904,30,Medicaid,44784.82,0,1.6,DOC2269,Transferred
+PAT1009,57.0,Other,City Health Clinic,Pediatrics,Diabetes Type 2,2024-01-10 18:45:18.949904,6,Medicare,521.92,0,3.3,DOC1404,Stable
+PAT1010,91.0,Male,Sunrise Medical Complex,Pediatrics,Asthma,2024-01-11 18:45:18.949904,19,Private Insurance,45118.46,0,4.0,DOC2184,Improved
+PAT1011,60.0,Male,Veterans Health Center,Surgery,Pneumonia,2024-01-12 18:45:18.949904,32,HMO,8113.45,0,4.1,DOC9938,Improved
+PAT1012,61.0,Male,St. Mary Hospital,Neurology,Heart Disease,2024-01-14 18:45:18.949904,9,PPO,49509.28,0,2.1,DOC2725,Recovered
+PAT1013,46.0,Other,City Health Clinic,Cardiology,Depression,2024-01-15 18:45:18.949904,12,Private Insurance,47764.93,0,1.8,DOC9462,Improved
+PAT1014,30.0,Male,St. Mary Hospital,Orthopedics,Arthritis,2024-01-15 18:45:18.949904,11,PRIVATE,24986.42,0,1.1,DOC6811,Stable
+PAT1015,29.0,Female,Central Medical Center,Internal Medicine,Depression,2024-01-16 18:45:18.949904,16,Self-Pay,25879.65,0,3.7,DOC6606,Transferred
+PAT1016,63.0,Other,St. Mary Hospital,Pediatrics,Asthma,2024-01-16 18:45:18.949904,1,Private Insurance,24336.69,0,1.3,DOC4956,Improved
+PAT1017,19.0,Other,Central Medical Center,Psychiatry,Arthritis,2024-01-17 18:45:18.949904,21,Self-Pay,31954.46,0,2.7,DOC1171,Recovered
+PAT1018,52.0,Other,Central Medical Center,Oncology,Asthma,2024-01-21 18:45:18.949904,30,HMO,4990.72,1,3.4,DOC9465,Stable
+PAT1019,25.0,Other,St. Mary Hospital,Neurology,Depression,2024-01-22 18:45:18.949904,13,Private Insurance,2114.59,0,4.7,DOC3306,Recovered
+PAT1020,43.0,Female,City Health Clinic,Pediatrics,Diabetes Type 2,2024-01-22 18:45:18.949904,0,Medicare,3356.29,0,2.2,DOC1421,Improved
+PAT1021,91.0,male,North Valley Hospital,Neurology,Asthma,2024-01-27 18:45:18.949904,4,Self-Pay,22496.08,0,2.0,DOC6540,Improved
+PAT1021,91.0,male,North Valley Hospital,Neurology,Asthma,2024-01-27 18:45:18.949904,4,Self-Pay,22496.08,0,2.0,DOC6540,Improved
+PAT1023,24.0,Male,Sunrise Medical Complex,Pediatrics,Arthritis,2024-01-29 18:45:18.949904,38,Medicare,31290.96,0,0.0,DOC7748,Stable
+PAT1024,85.0,Other,Sunrise Medical Complex,Emergency,Asthma,2024-01-30 18:45:18.949904,31,Medicare,49625.89,0,2.3,DOC7103,Improved
+PAT1025,75.0,Female,Veterans Health Center,Radiology,Infection,2024-01-30 18:45:18.949904,27,Medicare,19623.0,0,4.7,DOC2473,Transferred
+PAT1025,75.0,Female,Veterans Health Center,Radiology,Infection,2024-01-30 18:45:18.949904,27,Medicare,19623.0,0,4.7,DOC2473,Transferred
+PAT1027,46.0,Female,Downtown Medical Associates,Orthopedics,Infection,2024-01-31 18:45:18.949904,25,Private Insurance,21072.39,0,1.9,DOC3181,Stable
+PAT1027,46.0,Female,Downtown Medical Associates,Orthopedics,Infection,2024-01-31 18:45:18.949904,25,Private Insurance,21072.39,0,1.9,DOC3181,Stable
+PAT1029,38.0,Other,Central Medical Center,Psychiatry,Depression,2024-02-02 18:45:18.949904,33,Private Insurance,45160.7,1,3.0,DOC7646,Recovered
+PAT1030,53.0,Other,City Health Clinic,Emergency,Cardias,2024-02-04 18:45:18.949904,4,Private Insurance,43929.1,0,4.1,DOC6882,Improved
+PAT1031,27.0,Female,Regional General Hospital,Orthopedics,Hypertension,2024-02-04 18:45:18.949904,25,HMO,48731.43,0,1.2,DOC6982,Improved
+PAT1032,90.0,Female,St. Mary Hospital,Neurology,Asthma,2024-02-09 18:45:18.949904,20,HMO,1862.2,0,3.8,DOC6798,Stable
+PAT1033,41.0,Other,Central Medical Center,Surgery,Infection,2024-02-10 18:45:18.949904,34,PPO,42070.9,0,3.6,DOC9415,Recovered
+PAT1034,81.0,Female,Sunrise Medical Complex,oncology,Diabetes Type 2,2024-02-10 18:45:18.949904,26,HMO,37712.72,0,1.9,DOC9411,Stable
+PAT1035,66.0,Male,City Health Clinic,Cardiology,Asthma,2024-02-11 18:45:18.949904,5,Medicaid,11820.37,0,3.7,DOC9456,Improved
+PAT1036,53.0,Female,St. Mary Hospital,Orthopedics,Asthma,2024-02-12 18:45:18.949904,35,PPO,-754.3177424876721,0,4.8,DOC5524,Transferred
+PAT1037,41.0,Female,City Health Clinic,psychiatry,Diabetes Type 2,2024-02-14 18:45:18.949904,28,HMO,7834.81,1,1.2,DOC7559,Improved
+PAT1038,40.0,Male,St. Mary Hospital,Surgery,Asthma,2024-02-16 18:45:18.949904,29,PPO,34137.72,0,2.3,DOC8620,Stable
+PAT1039,79.0,Male,St. Mary Hospital,Pediatrics,Pneumonia,2024-02-16 18:45:18.949904,9,Private Insurance,11632.07,0,2.8,DOC3774,Transferred
+PAT1040,54.0,Other,Veterans Health Center,Radiology,Hypertension,2024-02-16 18:45:18.949904,38,Private Insurance,-268.44660592345355,0,4.6,DOC6673,Stable
+PAT1041,29.0,Other,Central Medical Center,Psychiatry,Heart Disease,2024-02-17 18:45:18.949904,6,PPO,36098.41,0,4.8,DOC4124,Stable
+PAT1042,72.0,Male,North Valley Hospital,Neurology,Hypertension,2024-02-17 18:45:18.949904,19,Unknown,28384.57,0,2.8,DOC9671,Recovered
+PAT1043,30.0,Male,City Health Clinic,Radiology,Asthma,2024-02-21 18:45:18.949904,44,Medicaid,21661.34,0,4.0,DOC2353,Transferred
+PAT1044,40.0,Other,North Valley Hospital,Oncology,Pneumonia,2026-01-21 18:45:18.999610,11,PPO,16653.75,0,3.1,DOC4854,Improved
+PAT1045,47.0,M,City Health Clinic,Oncology,Depression,2024-02-22 18:45:18.949904,2,HMO,42063.15,0,3.2,DOC9134,Stable
+PAT1046,34.0,Male,Veterans Health Center,Emergency,Asthma,2024-02-26 18:45:18.949904,44,Self-Pay,-2015.4953915216952,0,2.1,DOC1924,Improved
+PAT1047,79.0,Other,Sunrise Medical Complex,Internal Medicine,Infection,2024-02-28 18:45:18.949904,0,Medicaid,21790.09,0,1.9,DOC3170,Recovered
+PAT1048,30.0,Female,North Valley Hospital,Emergency,Pneumonia,2024-03-03 18:45:18.949904,9,Medicare,-1840.8914737609207,0,2.2,DOC6506,Recovered
+PAT1049,999.0,Male,Sunrise Medical Complex,Surgery,Diabetes Type 2,2024-03-06 18:45:18.949904,21,Private Insurance,42369.55,0,3.2,DOC3395,Transferred
+PAT1050,36.0,Female,Downtown Medical Associates,Radiology,Pneumonia,2024-03-10 18:45:18.949904,24,PPO,20346.62,0,1.1,DOC9220,Recovered
+PAT1051,66.0,Other,Central Medical Center,Internal Medicine,Diabetes Type 2,2024-03-15 18:45:18.949904,34,Medicare,-3282.8244331091128,0,4.6,DOC9226,Recovered
+PAT1052,29.0,Male,Central Medical Center,Pediatrics,Fracture,2024-03-15 18:45:18.949904,22,PPO,41246.46,0,1.6,DOC6515,Improved
+PAT1053,78.0,FEMALE,Regional General Hospital,Neurology,Heart Disease,2024-03-20 18:45:18.949904,3,Private Insurance,44499.93,0,1.9,DOC3670,Recovered
+PAT1054,150.0,Male,Veterans Health Center,Radiology,Migraine,2024-03-20 18:45:18.949904,12,Private Insurance,27453.04,1,3.1,DOC4365,Recovered
+PAT1055,93.0,Female,Sunrise Medical Complex,Emergency,Pneumonia,2024-03-22 18:45:18.949904,28,Medicaid,10620.81,0,3.8,DOC1588,Stable
+PAT1056,26.0,Other,St. Mary Hospital,Cardiology,Arthritis,2024-03-26 18:45:18.949904,30,Medicaid,13137.8,0,1.4,DOC4138,Recovered
+PAT1057,88.0,Other,City Health Clinic,Internal Medicine,Infection,2024-03-26 18:45:18.949904,26,Medicare,15136.89,0,2.3,DOC7663,Stable
+PAT1058,45.0,Male,Central Medical Center,Internal Medicine,Asthma,2024-03-28 18:45:18.949904,21,medicare,29893.22,0,4.9,DOC5086,Recovered
+PAT1059,69.0,Female,North Valley Hospital,neurology,Infection,2024-03-30 18:45:18.949904,28,Private Insurance,2124.08,0,2.0,DOC9531,Recovered
+PAT1060,33.0,Male,City Health Clinic,Orthopedics,Hypertension,2024-03-30 18:45:18.949904,26,Medicare,31984.1,0,2.3,DOC5270,Transferred
+PAT1061,999.0,Male,City Health Clinic,Oncology,Migraine,2024-04-02 18:45:18.949904,33,Self-Pay,18535.53,0,4.3,DOC7019,Transferred
+PAT1062,29.0,Female,Regional General Hospital,Oncology,Hypertension,2024-04-02 18:45:18.949904,21,Medicare,15114.47,0,1.2,DOC1556,Stable
+PAT1063,42.0,Female,Sunrise Medical Complex,Cardiology,Fracture,2024-04-02 18:45:18.949904,35,HMO,44035.08,1,2.9,DOC9022,Recovered
+PAT1064,69.0,Female,Central Medical Center,Surgery,Migraine,2024-04-02 18:45:18.949904,34,Medicare,23270.12,0,2.5,DOC6452,Improved
+PAT1064,69.0,Female,Central Medical Center,Surgery,Migraine,2024-04-02 18:45:18.949904,34,Medicare,23270.12,0,2.5,DOC6452,Improved
+PAT1066,40.0,Male,Central Medical Center,Pediatrics,Hypertension,2024-04-03 18:45:18.949904,-5,HMO,41423.97,1,2.1,DOC4899,Improved
+PAT1067,33.0,Male,St. Mary Hospital,Radiology,Diabetes Type 2,2024-04-03 18:45:18.949904,11,HMO,2858.24,0,1.4,DOC7477,Transferred
+PAT1068,74.0,Other,Regional General Hospital,Psychiatry,Hypertension,2024-04-06 18:45:18.949904,23,Self-Pay,36474.09,0,2.3,DOC8500,Transferred
+PAT1069,56.0,Female,St. Mary Hospital,Orthopedics,Infection,2024-04-06 18:45:18.949904,22,Medicare,38808.36,0,1.2,DOC2016,Recovered
+PAT1070,70.0,Other,Central Medical Center,Emergency,Diabetes Type 2,2024-04-07 18:45:18.949904,17,Medicare,17953.83,0,4.1,DOC7470,Transferred
+PAT1071,59.0,Other,Downtown Medical Associates,Psychiatry,Infection,2024-04-07 18:45:18.949904,5,Self-Pay,41327.0,0,2.6,DOC3062,Improved
+PAT1072,75.0,OTHER,North Valley Hospital,psychiatry,Fracture,2024-04-09 18:45:18.949904,44,Private Insurance,26025.14,0,2.8,DOC5321,Transferred
+PAT1073,56.0,Male,Central Medical Center,Internal Medicine,Asthma,2024-04-09 18:45:18.949904,11,Medicaid,23433.04,0,4.6,DOC4496,Stable
+PAT1074,31.0,Other,Sunrise Medical Complex,Cardiology,Depression,2024-04-10 18:45:18.949904,30,Medicare,2747.46,0,3.6,DOC2813,Recovered
+PAT1075,22.0,Male,City Health Clinic,Oncology,Diabetes Type 2,2024-04-15 18:45:18.949904,15,Medicaid,14856.45,0,1.0,DOC7256,Recovered
+PAT1076,52.0,Male,City Health Clinic,Pediatrics,Fracture,2024-04-16 18:45:18.949904,27,PPO,46584.99,0,4.8,DOC3313,Stable
+PAT1077,92.0,Male,St. Mary Hospital,Surgery,Arthritis,2024-04-16 18:45:18.949904,35,PPO,19895.29,0,1.9,DOC2231,Stable
+PAT1078,35.0,FEMALE,North Valley Hospital,cardiology,Fracture,2024-04-16 18:45:18.949904,33,Self-Pay,27561.68,1,1.4,DOC6831,Stable
+PAT1079,93.0,Male,Regional General Hospital,Internal Medicine,Hypertension,2024-04-19 18:45:18.949904,20,PPO,26835.07,0,4.1,DOC3999,Transferred
+PAT1080,26.0,Male,Downtown Medical Associates,Emergency,Hypertension,2024-04-20 18:45:18.949904,16,PPO,29726.34,1,3.0,DOC4440,Recovered
+PAT1081,91.0,Female,Veterans Health Center,Pediatrics,Depression,2024-04-21 18:45:18.949904,34,Private Insurance,3535.88,1,2.7,DOC5056,Stable
+PAT1082,75.0,Male,North Valley Hospital,Internal Medicine,Fracture,2024-04-23 18:45:18.949904,2,Private Insurance,18427.72,0,2.0,DOC1305,Transferred
+PAT1083,34.0,Other,City Health Clinic,Oncology,Heart Disease,2024-04-23 18:45:18.949904,35,Private Insurance,36294.85,0,3.2,DOC2689,Stable
+PAT1084,24.0,Other,Sunrise Medical Complex,Oncology,Asthma,2024-04-25 18:45:18.949904,40,PPO,10427.73,0,2.1,DOC4917,Improved
+PAT1085,63.0,Male,North Valley Hospital,Oncology,Hypertension,2024-04-26 18:45:18.949904,28,Self-Pay,10577.13,0,4.6,DOC8080,Improved
+PAT1086,30.0,Female,St. Mary Hospital,Cardiology,Fractur,2024-04-27 18:45:18.949904,39,HMO,999.49,0,1.9,DOC9611,Recovered
+PAT1087,57.0,Other,St. Mary Hospital,Cardiology,Asthma,2024-04-28 18:45:18.949904,6,HMO,22155.36,0,4.5,DOC3936,Transferred
+PAT1088,59.0,Female,Veterans Health Center,Surgery,Fracture,2024-04-30 18:45:18.949904,9,Medicaid,44195.35,0,3.2,DOC4862,Improved
+PAT1089,26.0,Female,Sunrise Medical Complex,Surgery,Fracture,2024-05-01 18:45:18.949904,20,HMO,3069.1,1,4.3,DOC6649,Improved
+PAT1090,67.0,OTHER,Regional General Hospital,emergency,Migraine,2024-05-02 18:45:18.949904,1,HMO,9960.38,1,3.9,DOC4261,Transferred
+PAT1091,44.0,Female,North Valley Hospital,Pediatrics,Depression,2024-05-03 18:45:18.949904,8,Private Insurance,15849.18,0,6.0,DOC2819,Stable
+PAT1092,83.0,Other,Sunrise Medical Complex,Neurology,Hypertension,2024-05-04 18:45:18.949904,23,Private Insurance,36720.37,0,2.3,DOC2342,Transferred
+PAT1092,83.0,Other,Sunrise Medical Complex,Neurology,Hypertension,2024-05-04 18:45:18.949904,23,Private Insurance,36720.37,0,2.3,DOC2342,Transferred
+PAT1094,46.0,Other,Sunrise Medical Complex,Internal Medicine,Fracture,2024-05-04 18:45:18.949904,4,Medicaid,21089.22,0,1.8,DOC3226,Improved
+PAT1095,54.0,Male,Sunrise Medical Complex,Oncology,Heart Disease,2024-05-08 18:45:18.949904,25,Medicare,38073.91,0,4.4,DOC2079,Improved
+PAT1096,-5.0,Other,Central Medical Center,Pediatrics,Fracture,2024-05-08 18:45:18.949904,38,Medicaid,30676.74,0,4.3,DOC5206,Improved
+PAT1097,25.0,Other,St. Mary Hospital,Psychiatry,Hypertension,2024-05-12 18:45:18.949904,15,Medicaid,44854.02,0,2.8,DOC7280,Recovered
+PAT1098,82.0,Other,North Valley Hospital,Cardiology,Asthma,2024-05-16 18:45:18.949904,21,Self-Pay,40992.32,1,1.5,DOC8235,Recovered
+PAT1099,34.0,Other,Sunrise Medical Complex,Radiology,Pneumonia,2024-05-17 18:45:18.949904,35,PPO,-732.5223561980628,0,2.5,DOC1813,Recovered
+PAT1100,88.0,Female,North Valley Hospital,Orthopedics,Asthma,2024-05-17 18:45:18.949904,14,Self-Pay,13936.21,0,3.5,DOC6089,Transferred
+PAT1101,62.0,Male,Veterans Health Center,emergency,Fracture,2024-05-20 18:45:18.949904,36,Medicaid,6705.15,0,2.8,DOC3031,Improved
+PAT1102,21.0,Other,Sunrise Medical Complex,Oncology,Infection,2024-05-21 18:45:18.949904,12,Medicaid,17179.75,0,4.1,DOC9514,Improved
+PAT1103,53.0,Female,City Health Clinic,Oncology,Pneumonia,2024-05-23 18:45:18.949904,17,Medicaid,49977.42,0,5.0,DOC6911,Transferred
+PAT1104,87.0,Male,St. Mary Hospital,Oncology,Pneumonia,2024-05-24 18:45:18.949904,39,HMO,20584.68,1,1.8,DOC3653,Recovered
+PAT1105,48.0,Male,City Health Clinic,Cardiology,Heart Disease,2024-05-25 18:45:18.949904,9,Self-Pay,11414.18,0,2.8,DOC4340,Transferred
+PAT1106,36.0,Male,North Valley Hospital,Cardiology,Depression,2024-05-26 18:45:18.949904,35,None,38242.9,0,2.7,DOC8876,Recovered
+PAT1107,78.0,Male,North Valley Hospital,Orthopedics,Heart Disease,2024-05-27 18:45:18.949904,13,Private Insurance,27352.31,0,2.2,DOC2141,Improved
+PAT1108,71.0,Other,St. Mary Hospital,Psychiatry,Hypertention,2024-05-28 18:45:18.949904,15,PPO,7905.27,0,1.8,DOC9558,Stable
+PAT1109,56.0,Other,North Valley Hospital,Pediatrics,Infection,2024-05-30 18:45:18.949904,18,PPO,19344.14,0,1.3,DOC3897,Recovered
+PAT1110,91.0,Female,  City Health Clinic  ,Oncology,Asthma   ,2024-05-31 18:45:18.949904,33,Private Insurance,21016.25,0,4.5,DOC5041,Improved
+PAT1111,36.0,Female,Sunrise Medical Complex,Neurology,Asthma,2024-06-02 18:45:18.949904,6,PPO,37814.57,0,2.7,DOC3038,Improved
+PAT1112,56.0,Female,Sunrise Medical Complex,Surgery,Arthritis,2024-06-02 18:45:18.949904,27,HMO,-2098.6900931205796,0,3.0,DOC5270,Stable
+PAT1112,56.0,Female,Sunrise Medical Complex,Surgery,Arthritis,2024-06-02 18:45:18.949904,27,HMO,1523.23,0,3.0,DOC5270,Stable
+PAT1113,84.0,Male,Central Medical Center,Neurology,Fracture,2024-06-02 18:45:18.949904,23,HMO,13816.47,0,4.7,DOC5683,Improved
+PAT1115,30.0,Other,North Valley Hospital,Neurology,Arthritis,2024-06-03 18:45:18.949904,34,Medicare,13807.91,1,1.5,DOC8116,Recovered
+PAT1116,75.0,Male,City Health Clinic,Internal Medicine,Hypertension,2024-06-03 18:45:18.949904,-5,Medicare,31607.49,0,3.3,DOC2784,Recovered
+PAT1117,37.0,Male,  North Valley Hospital  ,Radiology,Fracture   ,2024-06-04 18:45:18.949904,14,PPO,24352.44,0,2.8,DOC4510,Stable
+PAT1118,89.0,Male,North Valley Hospital,Surgery,Fracture,2024-06-05 18:45:18.949904,36,HMO,,0,4.2,DOC4786,Stable
+PAT1119,78.0,Female,Regional General Hospital,Neurology,Migraine,2024-06-09 18:45:18.949904,8,HMO,47485.83,0,3.9,DOC6266,Improved
+PAT1120,56.0,Female,Central Medical Center,Radiology,Migraine,2024-06-13 18:45:18.949904,35,HMO,31791.9,0,3.8,DOC6428,Recovered
+PAT1121,18.0,Other,City Health Clinic,Emergency,Diabetes Type 2,2024-06-14 18:45:18.949904,-5,Private Insurance,6932.1,0,2.4,DOC7681,Stable
+PAT1122,20.0,Male,City Health Clinic,Pediatrics,Diabetes Type 2,2024-06-18 18:45:18.949904,30,HMO,28224.54,0,4.2,DOC7893,Stable
+PAT1123,94.0,Male,North Valley Hospital,Radiology,Heart Disease,2024-06-22 18:45:18.949904,14,Private Insurance,39146.23,1,1.2,DOC5658,Transferred
+PAT1124,79.0,Other,Central Medical Center,Pediatrics,Hypertension,2024-06-23 18:45:18.949904,20,Medicare,35570.24,0,1.6,DOC8082,Stable
+PAT1125,80.0,Male,Sunrise Medical Complex,Neurology,Pneumonia,2024-06-26 18:45:18.949904,25,medicare,9018.42,1,2.3,DOC7869,Improved
+PAT1126,42.0,Male,City Health Clinic,Psychiatry,Pneumonia,2024-06-29 18:45:18.949904,40,PPO,48634.79,0,1.3,DOC8607,Recovered
+PAT1127,73.0,Female,Sunrise Medical Complex,Radiology,Migraine,2024-06-30 18:45:18.949904,-1,Medicare,22716.28,1,1.9,DOC8669,Stable
+PAT1128,50.0,Other,Central Medical Center,Surgery,Migraine,2024-07-01 18:45:18.949904,14,PPO,8371.74,0,4.3,DOC7219,Transferred
+PAT1129,55.0,Other,Sunrise Medical Complex,Neurology,Migraine,2024-07-02 18:45:18.949904,26,Medicaid,9419.69,0,4.8,DOC5534,Recovered
+PAT1130,23.0,OTHER,St. Mary Hospital,oncology,Infection,2024-07-02 18:45:18.949904,38,Medicaid,5362.63,1,2.2,DOC6979,Stable
+PAT1131,75.0,Other,Regional General Hospital,Cardiology,Depression,2024-07-02 18:45:18.949904,23,Self-Pay,40274.15,0,2.1,DOC9890,Transferred
+PAT1132,0.0,Female,Downtown Medical Associates,Radiology,Diabetes Type 2,2024-07-03 18:45:18.949904,22,PPO,6540.51,1,2.1,DOC2312,Stable
+PAT1133,-5.0,Female,City Health Clinic,Surgery,Infection,2024-07-04 18:45:18.949904,19,Self-Pay,6693.7,0,2.1,DOC3962,Recovered
+PAT1134,49.0,Male,Veterans Health Center,Emergency,Asthma,2024-07-04 18:45:18.949904,3,Self-Pay,42598.34,0,1.1,DOC3938,Recovered
+PAT1135,62.0,Male,Regional General Hospital,Oncology,Fractur,2024-07-07 18:45:18.949904,42,Medicaid,17557.9,0,4.7,DOC4197,Recovered
+PAT1136,78.0,Male,Downtown Medical Associates,Emergency,Fracture,2024-07-08 18:45:18.949904,-10,PPO,2027.47,1,1.9,DOC6296,Improved
+PAT1137,200.0,Male,Sunrise Medical Complex,Neurology,Diabetes Type 2,2024-07-10 18:45:18.949904,9,Medicaid,3068.82,0,2.7,DOC8204,Stable
+PAT1138,38.0,Female,City Health Clinic,Cardiology,Arthritis,2024-07-13 18:45:18.949904,28,Self-Pay,7537.44,0,1.0,DOC6730,Improved
+PAT1139,92.0,Other,Sunrise Medical Complex,Radiology,Asthma,2024-07-13 18:45:18.949904,20,PPO,11062.97,0,4.4,DOC1126,Recovered
+PAT1140,53.0,Female,  St. Mary Hospital  ,Radiology,Diabetes Type 2   ,2024-07-14 18:45:18.949904,7,Self-Pay,33424.74,0,3.9,DOC6602,Transferred
+PAT1141,36.0,Male,Central Medical Center,Psychiatry,Infection,2024-07-15 18:45:18.949904,14,HMO,8287.65,0,6.0,DOC2191,Stable
+PAT1142,37.0,Female,City Health Clinic,Psychiatry,Hypertension,2024-07-16 18:45:18.949904,9,PPO,6384.28,0,4.1,DOC3639,Improved
+PAT1143,74.0,Other,Downtown Medical Associates,Neurology,Fracture,2024-07-18 18:45:18.949904,19,PPO,38353.6,0,2.3,DOC2366,Stable
+PAT1144,35.0,Other,Downtown Medical Associates,Neurology,Diabetes Type 2,2024-07-19 18:45:18.949904,14,Self-Pay,33717.24,0,2.0,DOC7453,Transferred
+PAT1145,64.0,Female,St. Mary Hospital,Cardiology,Depression,2024-07-20 18:45:18.949904,38,HMO,22048.55,0,3.8,DOC7671,Improved
+PAT1146,66.0,Female,St. Mary Hospital,Psychiatry,Migraine,2026-01-01 18:45:18.999752,36,Private Insurance,27690.83,1,2.5,DOC7683,Recovered
+PAT1147,31.0,Female,North Valley Hospital,Surgery,Migraine,2024-07-29 18:45:18.949904,40,Medicaid,15943.21,0,,DOC5539,Improved
+PAT1148,32.0,Male,City Health Clinic,Surgery,Fracture,2024-07-30 18:45:18.949904,17,Self-Pay,24383.77,0,1.0,DOC9876,Stable
+PAT1149,48.0,Female,Sunrise Medical Complex,cardiology,Infection,2024-07-30 18:45:18.949904,30,PPO,25580.3,0,1.2,DOC3887,Stable
+PAT1150,18.0,Female,Veterans Health Center,Surgery,Migraine,2024-08-01 18:45:18.949904,9,Medicaid,19668.24,0,3.1,DOC5086,Stable
+PAT1151,71.0,Female,Downtown Medical Associates,Card,Diabetes Type 2,2024-08-01 18:45:18.949904,33,Medicaid,45375.32,0,3.3,DOC3261,Stable
+PAT1152,20.0,F,Downtown Medical Associates,Pediatrics,Arthritis,2024-08-01 18:45:18.949904,25,Medicaid,1295.06,0,4.0,DOC5180,Recovered
+PAT1153,33.0,Other,St. Mary Hospital,Cardiology,Pneumonia,2024-08-04 18:45:18.949904,14,Private Insurance,-1199.4766010189978,0,1.5,DOC3841,Improved
+PAT1154,74.0,Male,Regional General Hospital,Cardiology,Pneumonia,2024-08-06 18:45:18.949904,11,PRIVATE,6656.95,1,3.1,DOC7040,Recovered
+PAT1155,92.0,Male,St. Mary Hospital,Orthopedics,Asthma,2024-08-06 18:45:18.949904,35,Self-Pay,39978.59,0,1.8,DOC4560,Recovered
+PAT1156,29.0,Other,Veterans Health Center,Oncology,Heart Disease,2024-08-06 18:45:18.949904,-1,Medicare,30987.64,1,1.4,DOC5758,Recovered
+PAT1157,91.0,Other,  Sunrise Medical Complex  ,Oncology,Hypertension   ,2024-08-07 18:45:18.949904,14,Medicare,42242.27,1,2.6,DOC1626,Stable
+PAT1158,33.0,Other,Sunrise Medical Complex,Internal Medicine,Fracture,2024-08-08 18:45:18.949904,30,Medicare,5326.96,0,1.7,DOC6014,Stable
+PAT1159,999.0,Female,Regional General Hospital,Psychiatry,Asthma,2024-08-11 18:45:18.949904,41,Medicaid,28169.54,0,1.9,DOC2375,Stable
+PAT1160,93.0,Female,Downtown Medical Associates,Neurology,Heart Disease,2024-08-12 18:45:18.949904,4,HMO,25303.85,0,2.3,DOC2181,Improved
+PAT1161,41.0,F,St. Mary Hospital,Neurology,Infection,2024-08-12 18:45:18.949904,4,Medicaid,35456.56,0,2.0,DOC6708,Transferred
+PAT1162,45.0,Female,North Valley Hospital,Emergency,Depression,2024-08-12 18:45:18.949904,28,Medicaid,26947.38,0,1.4,DOC1490,Stable
+PAT1163,25.0,Female,Sunrise Medical Complex,Internal Medicine,Depression,2024-08-14 18:45:18.949904,8,PPO,27266.36,0,1.4,DOC4729,Improved
+PAT1164,53.0,Male,Veterans Health Center,Cardiology,Hypertension,2026-03-14 18:45:18.976926,2,PPO,21765.0,0,1.8,DOC6974,Stable
+PAT1165,25.0,Other,City Health Clinic,Internal Medicine,Migraine,2024-08-15 18:45:18.949904,41,Medicare,15787.3,0,1.2,DOC4534,Stable
+PAT1166,75.0,Other,Central Medical Center,Internal Medicine,Diabetes Type 2,2024-08-18 18:45:18.949904,22,Medicaid,24372.09,0,3.5,DOC4296,Recovered
+PAT1167,77.0,Female,Central Medical Center,nan,Asthma,2024-08-22 18:45:18.949904,41,Medicare,6365.37,0,2.1,DOC2940,Recovered
+PAT1168,67.0,Other,Central Medical Center,Oncology,Asthma,2024-08-23 18:45:18.949904,16,PPO,48094.91,1,2.1,DOC6014,Recovered
+PAT1169,45.0,Male,North Valley Hospital,Internal Medicine,Fracture,2024-08-24 18:45:18.949904,29,HMO,35863.33,0,2.3,DOC2882,Improved
+PAT1170,58.0,Male,Downtown Medical Associates,Pediatrics,Fracture,2024-08-25 18:45:18.949904,30,Self-Pay,47647.12,0,3.7,DOC5908,Transferred
+PAT1171,81.0,Male,St. Mary Hospital,Neurology,Depression,2024-08-27 18:45:18.949904,12,Medicare,11723.01,0,4.5,DOC3987,Transferred
+PAT1172,44.0,Other,Regional General Hospital,Emergency,Depression,2024-08-28 18:45:18.949904,35,HMO,44027.38,0,4.0,DOC6585,Improved
+PAT1173,80.0,Other,North Valley Hospital,Pediatrics,Arthritis,2024-08-28 18:45:18.949904,11,None,40535.1,0,3.9,DOC4159,Stable
+PAT1174,34.0,Other,North Valley Hospital,Emergency,Arthritis,2024-09-02 18:45:18.949904,21,Private Insurance,34019.04,1,2.9,DOC5530,Improved
+PAT1175,90.0,OTHER,Sunrise Medical Complex,orthopedics,Migraine,2024-09-03 18:45:18.949904,21,Medicare,31438.94,0,3.8,DOC1681,Stable
+PAT1176,50.0,Other,City Health Clinic,Emergency,Arthritis,2024-09-03 18:45:18.949904,5,Medicare,16169.21,0,3.2,DOC6254,Improved
+PAT1177,94.0,Male,North Valley Hospital,Neurology,Diabetes Type 2,2024-09-04 18:45:18.949904,20,Private Insurance,40912.33,0,1.9,DOC2073,Improved
+PAT1178,46.0,Female,Veterans Health Center,Neurology,Diabetes Type 2,2024-09-04 18:45:18.949904,37,None,25325.02,1,1.8,DOC3387,Improved
+PAT1179,30.0,Male,City Health Clinic,Internal Medicine,Asthma,2024-09-04 18:45:18.949904,3,Medicare,4009.13,0,2.2,DOC3693,Transferred
+PAT1180,63.0,Other,Veterans Health Center,Radiology,Pneumonia,2024-09-06 18:45:18.949904,44,Private Insurance,15986.73,0,4.6,DOC5340,Recovered
+PAT1181,52.0,Male,Downtown Medical Associates,Orthopedics,Diabetes Type 2,2024-09-08 18:45:18.949904,33,Medicaid,46797.21,0,3.2,DOC3156,Improved
+PAT1182,23.0,Other,St. Mary Hospital,Cardiology,Heart Disease,2024-09-09 18:45:18.949904,-5,Self-Pay,42608.67,0,3.9,DOC8966,Transferred
+PAT1183,200.0,Other,Central Medical Center,Surgery,Depression,2024-09-13 18:45:18.949904,9,Self-Pay,49104.33,0,2.4,DOC3580,Recovered
+PAT1184,64.0,Male,North Valley Hospital,Emergency,Fracture,2024-09-14 18:45:18.949904,4,Self-Pay,31585.67,0,0.0,DOC8257,Recovered
+PAT1185,42.0,Other,St. Mary Hospital,Radiology,Arthritis,2024-09-18 18:45:18.949904,35,Medicaid,12751.75,1,1.5,DOC3159,Improved
+PAT1186,83.0,Female,Downtown Medical Associates,Onc.,Asthma,2024-09-19 18:45:18.949904,17,Private Insurance,8559.34,0,1.7,DOC7772,Stable
+PAT1187,27.0,Other,Regional General Hospital,Oncology,Hypertension,2024-09-20 18:45:18.949904,34,HMO,9752.26,0,4.3,DOC2627,Stable
+PAT1188,73.0,Female,Regional General Hospital,Cardiology,Fracture,2024-09-21 18:45:18.949904,24,Private Insurance,1479.89,0,3.3,DOC9219,Stable
+PAT1189,47.0,Female,nan,Psychiatry,Heart Disease,2024-09-21 18:45:18.949904,32,Medicare,19838.76,0,2.4,DOC8080,Improved
+PAT1190,22.0,Other,Veterans Health Center,Cardioogy,Arthritis,2024-09-22 18:45:18.949904,1,PPO,9975.67,0,4.2,DOC2985,Stable
+PAT1191,50.0,Male,Sunrise Medical Complex,Oncology,Heart Disease,2026-02-11 18:45:19.000313,8,Self-Pay,20876.95,0,2.0,DOC9488,Transferred
+PAT1192,82.0,Female,Sunrise Medical Complex,Orthopedics,Depression,2026-03-04 18:45:19.011177,23,Private Insurance,46782.22,1,4.9,DOC3181,Transferred
+PAT1193,35.0,Male,Veterans Health Center,Internal Medicine,Depression,2024-09-27 18:45:18.949904,40,HMO,21811.74,0,2.4,DOC3296,Transferred
+PAT1194,66.0,Female,Regional General Hospital,Cardiology,Migraine,2024-09-27 18:45:18.949904,12,Medicare,43960.23,0,2.3,DOC8164,Transferred
+PAT1195,28.0,Other,Regional General Hospital,Cardiology,Asma,2024-09-30 18:45:18.949904,12,Medicaid,30472.49,0,2.2,DOC3597,Recovered
+PAT1196,43.0,Other,North Valley Hospital,Cardiology,Fracture,2024-09-30 18:45:18.949904,15,Medicaid,12733.01,0,1.5,DOC1901,Transferred
+PAT1197,80.0,Female,Regional General Hospital,Orthopedics,Infection,2024-10-03 18:45:18.949904,41,HMO,18114.81,0,1.4,DOC7060,Stable
+PAT1198,76.0,Other,St. Mary Hospital,Ortho,Infection,2024-10-03 18:45:18.949904,19,Medicare,4654.02,0,3.6,DOC2677,Improved
+PAT1199,44.0,Female,Regional General Hospital,Psychiatry,Fracture,2024-10-04 18:45:18.949904,26,Self-Pay,17006.4,0,4.5,DOC3881,Stable
+PAT1200,66.0,Other,City Health Clinic,orthopedics,Hypertension,2024-10-05 18:45:18.949904,29,Private Insurance,34038.28,1,4.2,DOC6622,Transferred
+PAT1201,94.0,Male,  North Valley Hospital  ,Surgery,Asthma   ,2024-10-08 18:45:18.949904,22,Medicare,4069.5,0,1.6,DOC9052,Recovered
+PAT1202,50.0,Other,  Central Medical Center  ,Psychiatry,Heart Disease   ,2024-10-09 18:45:18.949904,40,Medicaid,10667.37,0,3.2,DOC2378,Transferred
+PAT1203,18.0,Male,Regional General Hospital,Neurology,Hypertension,2024-10-09 18:45:18.949904,21,HMO,19381.33,0,1.4,DOC2248,Improved
+PAT1204,38.0,Other,Veterans Health Center,Neuro,Pneumonia,2024-10-14 18:45:18.949904,38,HMO,49111.45,1,1.2,DOC6650,Stable
+PAT1205,72.0,Male,Central Medical Center,Orthopedics,Fracture,2024-10-16 18:45:18.949904,20,Private Insurance,39350.66,0,3.6,DOC7079,Improved
+PAT1206,23.0,Other,St. Mary Hospital,Oncology,Heart Disease,2024-10-18 18:45:18.949904,29,HMO,36807.59,0,3.1,DOC8036,Improved
+PAT1207,86.0,Male,Veterans Health Center,Psychiatry,Infection,2024-10-22 18:45:18.949904,4,HMO,6251.45,0,1.3,DOC7487,Improved
+PAT1208,22.0,Female,Central Medical Center,surgery,Diabetes Type 2,2024-10-24 18:45:18.949904,7,Medicare,39159.3,0,1.1,DOC2058,Stable
+PAT1209,20.0,Female,Veterans Health Center,Neurology,Migraine,2024-10-25 18:45:18.949904,28,Self-Pay,39370.81,0,5.0,DOC3048,Transferred
+PAT1210,70.0,Male,St. Mary Hospital,Emergency,Infection,2024-10-29 18:45:18.949904,-1,Private Insurance,30254.58,0,1.1,DOC7115,Improved
+PAT1211,40.0,Other,North Valley Hospital,Oncology,Asthma,2024-11-03 18:45:18.949904,4,Medicare,49522.91,0,2.8,DOC5248,Stable
+PAT1212,70.0,Male,City Health Clinic,Psychiatry,Depression,2024-11-03 18:45:18.949904,22,Self-Pay,16600.07,0,3.0,DOC3476,Recovered
+PAT1213,54.0,Other,St. Mary Hospital,Internal Medicine,Diabetes Type 2,2024-11-05 18:45:18.949904,12,Medicare,47092.99,0,1.5,DOC5603,Stable
+PAT1214,91.0,Female,St. Mary Hospital,Oncology,Migraine,2024-11-07 18:45:18.949904,3,PPO,45779.19,0,1.7,DOC4553,Recovered
+PAT1215,91.0,Other,Veterans Health Center,Neurology,Migraine,2024-11-10 18:45:18.949904,22,Medicare,1068.29,0,2.4,DOC1220,Stable
+PAT1215,91.0,Other,Veterans Health Center,Neurology,Migraine,2024-11-10 18:45:18.949904,22,Medicare,1068.29,0,2.4,DOC1220,Stable
+PAT1217,90.0,Other,Downtown Medical Associates,Pediatrics,Pneumonia,2024-11-12 18:45:18.949904,2,Self-Pay,48866.66,1,3.0,DOC8192,Improved
+PAT1218,18.0,Other,Sunrise Medical Complex,Radiology,Arthritis,2024-11-14 18:45:18.949904,24,Private Insurance,5604.51,0,3.6,DOC5623,Transferred
+PAT1219,68.0,Other,Regional General Hospital,Emergency,Infection,2024-11-15 18:45:18.949904,34,Private Insurance,27615.34,1,4.9,DOC8349,Stable
+PAT1220,62.0,Male,Regional General Hospital,Neurology,Infection,2024-11-20 18:45:18.949904,27,Self-Pay,48958.4,0,4.1,DOC6618,Improved
+PAT1221,94.0,Male,City Health Clinic,Oncology,Diabetus,2024-11-20 18:45:18.949904,41,HMO,27997.02,0,2.7,DOC8209,Recovered
+PAT1222,21.0,Female,City Health Clinic,Radiology,Arthritis,2024-11-25 18:45:18.949904,1,Medicaid,9895.86,1,2.8,DOC5576,Stable
+PAT1223,79.0,Female,Regional General Hospital,Radiology,Hypertension,2024-11-27 18:45:18.949904,8,Medicare,-2888.017652090202,0,3.5,DOC2871,Improved
+PAT1223,79.0,Female,Regional General Hospital,Radiology,Hypertension,2024-11-27 18:45:18.949904,8,Medicare,-2888.017652090202,0,3.5,DOC2871,Improved
+PAT1225,49.0,Female,Regional General Hospital,Internal Medicine,Diabetes Type 2,2024-11-27 18:45:18.949904,38,PPO,26225.36,0,3.0,DOC2462,Recovered
+PAT1226,51.0,Male,Downtown Medical Associates,Pediatrics,Asthma,2024-11-29 18:45:18.949904,6,Self-Pay,4165.09,0,,DOC6521,Transferred
+PAT1227,89.0,Other,Sunrise Medical Complex,Orthopedics,Migraine,2024-11-29 18:45:18.949904,22,Medicare,30471.39,0,1.1,DOC9536,Stable
+PAT1228,56.0,Female,City Health Clinic,Pediatrics,Pneumonia,2024-11-30 18:45:18.949904,25,Private Insurance,26081.1,0,2.7,DOC9236,Recovered
+PAT1229,43.0,Female,Central Medical Center,Oncology,Heart Disease,2024-12-01 18:45:18.949904,18,Medicaid,-3639.8157838713682,0,2.1,DOC8813,Improved
+PAT1230,51.0,Male,Veterans Health Center,Emergency,Depression,2024-12-03 18:45:18.949904,-5,PPO,31719.67,0,1.5,DOC3068,Recovered
+PAT1231,71.0,Female,Downtown Medical Associates,Orthopedics,Arthritis,2024-12-03 18:45:18.949904,12,Private Insurance,27705.51,0,1.4,DOC6753,Recovered
+PAT1232,20.0,Female,Downtown Medical Associates,Neurology,Diabetus,2024-12-05 18:45:18.949904,6,Self-Pay,34644.05,0,3.4,DOC8237,Transferred
+PAT1233,67.0,Other,North Valley Hospital,Pediatrics,Heart Disease,2024-12-05 18:45:18.949904,26,Medicare,7625.12,0,3.1,DOC8016,Transferred
+PAT1234,29.0,Female,City Health Clinic,Oncology,Asthma,2024-12-05 18:45:18.949904,-1,Self-Pay,29970.3,0,2.0,DOC7191,Improved
+PAT1235,82.0,Other,City Health Clinic,Pediatrics,Infection,2024-12-05 18:45:18.949904,8,Medicare,9019.47,1,2.9,DOC2514,Transferred
+PAT1236,71.0,Male,St. Mary Hospital,Orthopedics,Pneumonia,2024-12-07 18:45:18.949904,19,HMO,46313.35,0,3.0,DOC3598,Recovered
+PAT1237,22.0,Female,Downtown Medical Associates,Surgery,Pneumonia,2024-12-08 18:45:18.949904,42,Medicaid,3882.54,1,1.8,DOC2001,Recovered
+PAT1238,74.0,Other,St. Mary Hospital,Psychiatry,Pneumonia,2024-12-08 18:45:18.949904,1,HMO,21803.55,0,3.6,DOC2033,Transferred
+PAT1239,34.0,Male,St. Mary Hospital,Pediatrics,Infection,2024-12-09 18:45:18.949904,29,HMO,34941.98,0,4.1,DOC7899,Recovered
+PAT1240,64.0,Female,Veterans Health Center,Neurology,Fracture,2024-12-13 18:45:18.949904,35,Self-Pay,23172.1,0,4.2,DOC9465,Recovered
+PAT1241,40.0,Male,St. Mary Hospital,Neurology,Arthritis,2024-12-16 18:45:18.949904,40,Medicaid,5058.72,0,3.4,DOC6051,Improved
+PAT1242,31.0,Female,Sunrise Medical Complex,Cardiology,Heart Disease,2024-12-18 18:45:18.949904,14,Medicare,-4344.300173458245,0,3.0,DOC5476,Transferred
+PAT1243,83.0,Male,Regional General Hospital,Pediatrics,Infection,2024-12-24 18:45:18.949904,35,Medicare,32260.78,0,1.2,DOC1478,Recovered
+PAT1243,83.0,Male,Regional General Hospital,Pediatrics,Infection,2024-12-24 18:45:18.949904,35,Medicare,32260.78,0,1.2,DOC1478,Recovered
+PAT1245,68.0,Other,City Health Clinic,Internal Medicine,Arthritis,2024-12-29 18:45:18.949904,13,Private Insurance,18976.36,1,1.4,DOC2191,Improved
+PAT1246,55.0,Male,  Sunrise Medical Complex  ,Radiology,Asthma   ,2025-01-01 18:45:18.949904,38,PPO,28401.17,0,4.9,DOC7297,Transferred
+PAT1247,81.0,Female,Central Medical Center,Psychiatry,Arthritis,2025-01-01 18:45:18.949904,8,PPO,22808.98,0,1.5,DOC1271,Recovered
+PAT1248,150.0,Female,Downtown Medical Associates,Radiology,Fracture,2025-01-02 18:45:18.949904,43,Medicare,33766.77,0,1.6,DOC9334,Transferred
+PAT1249,67.0,Other,Downtown Medical Associates,Radiology,Depression,2025-01-03 18:45:18.949904,20,Self-Pay,29386.07,0,4.6,DOC8778,Recovered
+PAT1250,47.0,Female,Downtown Medical Associates,Surgery,Asthma,2025-01-05 18:45:18.949904,33,HMO,26524.93,0,4.8,DOC7008,Recovered
+PAT1251,68.0,Female,Sunrise Medical Complex,Cardiology,Infection,2025-01-07 18:45:18.949904,26,HMO,12851.46,0,4.1,DOC8987,Recovered
+PAT1252,80.0,Female,Sunrise Medical Complex,Psychiatry,Arthritis,2025-01-08 18:45:18.949904,39,HMO,599.92,1,1.0,DOC4332,Improved
+PAT1253,69.0,Male,City Health Clinic,Psychiatry,Pneumonia,2025-01-08 18:45:18.949904,21,Medicaid,9117.04,0,1.0,DOC1787,Transferred
+PAT1254,55.0,Male,Regional General Hospital,Surgery,Migraine,2025-01-13 18:45:18.949904,42,Medicare,6294.77,0,2.5,DOC7222,Improved
+PAT1255,47.0,Female,North Valley Hospital,Pediatrics,Pneumonia,2025-01-13 18:45:18.949904,43,Self-Pay,22729.69,0,1.6,DOC1622,Transferred
+PAT1256,68.0,Other,St. Mary Hospital,Pediatrics,Hypertension,2025-01-14 18:45:18.949904,41,Medicaid,30806.78,0,1.1,DOC4841,Improved
+PAT1257,22.0,Male,Downtown Medical Associates,Pediatrics,Depression,2025-01-14 18:45:18.949904,9,Private Insurance,11047.71,0,2.9,DOC4676,Stable
+PAT1258,46.0,Other,Veterans Health Center,Emergency,Depression,2025-01-14 18:45:18.949904,24,Self-Pay,46983.33,0,4.8,DOC3572,Recovered
+PAT1259,,Female,Regional General Hospital,Radiology,Pneumonia,2025-01-15 18:45:18.949904,37,PPO,830.77,0,2.3,DOC7915,Recovered
+PAT1260,27.0,Unknown,Veterans Health Center,Emergency,Heart Disease,2025-01-16 18:45:18.949904,41,Self-Pay,38728.9,0,3.6,DOC6033,Improved
+PAT1261,73.0,Male,City Health Clinic,Cardiology,Fracture,2025-01-16 18:45:18.949904,17,Self-Pay,31447.64,0,3.6,DOC8788,Stable
+PAT1262,34.0,Female,City Health Clinic,Surgery,Asthma,2025-01-18 18:45:18.949904,24,HMO,18990.96,0,2.0,DOC6214,Recovered
+PAT1263,91.0,Male,City Health Clinic,Psychiatry,Infection,2025-01-20 18:45:18.949904,21,Self-Pay,-2618.381688784469,0,3.6,DOC5712,Transferred
+PAT1264,34.0,Female,Central Medical Center,Radiology,Depression,2025-01-20 18:45:18.949904,39,PPO,31560.59,0,0.0,DOC1066,Improved
+PAT1265,86.0,Female,Veterans Health Center,Emergency,Pneumonia,2025-01-21 18:45:18.949904,41,PPO,19587.87,0,1.5,DOC8533,Recovered
+PAT1266,51.0,Male,Regional General Hospital,Emergency,Pneumonia,2025-01-21 18:45:18.949904,39,Medicare,46845.22,1,3.8,DOC5616,Recovered
+PAT1267,23.0,Male,North Valley Hospital,Oncology,Fracture,2025-01-21 18:45:18.949904,13,Self-Pay,27328.51,1,1.5,DOC2140,Improved
+PAT1268,70.0,Male,Regional General Hospital,Emergency,Fracture,2025-01-26 18:45:18.949904,11,HMO,47012.75,0,7.5,DOC6730,Improved
+PAT1268,70.0,Male,Regional General Hospital,Emergency,Fracture,2025-01-26 18:45:18.949904,11,HMO,47012.75,0,7.5,DOC6730,Improved
+PAT1270,94.0,Female,Sunrise Medical Complex,Psychiatry,Diabetes Type 2,2025-01-28 18:45:18.949904,11,Private Insurance,36423.43,0,3.4,DOC5471,Transferred
+PAT1271,60.0,Other,Downtown Medical Associates,Internal Medicine,Heart Disease,2025-01-29 18:45:18.949904,13,Private Insurance,31053.83,0,2.6,DOC4339,Recovered
+PAT1272,92.0,Male,North Valley Hospital,Ortho,Heart Disease,2025-01-29 18:45:18.949904,1,HMO,37100.71,1,1.5,DOC1548,Recovered
+PAT1272,92.0,Male,North Valley Hospital,Psychiatry,Heart Disease,2025-01-29 18:45:18.949904,1,HMO,37100.71,1,1.5,DOC1548,Recovered
+PAT1274,72.0,Female,City Health Clinic,Psychiatry,Heart Disease,2025-01-31 18:45:18.949904,44,Medicare,33417.23,1,3.5,DOC9264,Recovered
+PAT1275,92.0,Male,Regional General Hospital,Internal Medicine,Arthritis,2025-01-31 18:45:18.949904,19,PPO,25153.0,1,10.0,DOC1198,Recovered
+PAT1276,33.0,Other,Veterans Health Center,Psychiatry,Fracture,2025-02-01 18:45:18.949904,12,PPO,37269.84,0,4.4,DOC1571,Improved
+PAT1277,25.0,Male,City Health Clinic,Surgery,Fractur,2025-02-04 18:45:18.949904,8,Medicaid,16688.71,0,2.9,DOC1790,Recovered
+PAT1278,21.0,Other,Central Medical Center,Surgery,Arthritis,2025-02-04 18:45:18.949904,8,HMO,44557.82,0,4.1,DOC2174,Recovered
+PAT1279,21.0,Female,Sunrise Medical Complex,Cardiology,Asthma,2025-02-05 18:45:18.949904,12,Self-Pay,4672.92,1,3.7,DOC1178,Stable
+PAT1280,73.0,Other,  City Health Clinic  ,Psychiatry,Pneumonia   ,2025-02-08 18:45:18.949904,33,HMO,40455.87,0,3.9,DOC3244,Transferred
+PAT1281,42.0,Female,City Health Clinic,Oncology,Heart Disease,2025-02-11 18:45:18.949904,26,Medicaid,43135.32,1,3.0,DOC5086,Improved
+PAT1282,84.0,Male,Central Medical Center,Pediatrics,Pneumonia,2025-02-12 18:45:18.949904,39,PPO,40953.99,0,3.5,DOC1734,Stable
+PAT1283,84.0,Male,St. Mary Hospital,Neurology,Depression,2026-01-05 18:45:18.992482,28,HMO,25879.96,0,4.2,DOC7232,Transferred
+PAT1284,44.0,Male,Regional General Hospital,Surgery,Hypertension,2025-02-16 18:45:18.949904,5,HMO,22200.06,1,2.6,DOC1798,Transferred
+PAT1285,49.0,Other,Veterans Health Center,Orthopedics,Depression,2025-02-17 18:45:18.949904,0,PPO,49814.98,0,4.2,DOC8601,Transferred
+PAT1286,67.0,Female,Downtown Medical Associates,Pediatrics,Hypertension,2025-02-19 18:45:18.949904,25,Medicaid,11844.01,0,3.4,DOC9979,Stable
+PAT1287,78.0,Male,St. Mary Hospital,Radiology,Diabetes Type 2,2025-02-25 18:45:18.949904,27,PPO,27570.36,0,1.7,DOC3795,Stable
+PAT1288,68.0,Male,Sunrise Medical Complex,Psychiatry,Pneumonia,2025-03-01 18:45:18.949904,23,Medicare,33698.44,0,1.1,DOC5588,Transferred
+PAT1289,36.0,Female,City Health Clinic,Internal Medicine,Hypertension,2025-03-04 18:45:18.949904,30,Self-Pay,35192.95,0,2.5,DOC8297,Recovered
+PAT1290,38.0,Male,North Valley Hospital,Neurology,Migraine,2025-03-05 18:45:18.949904,23,PPO,10599.22,0,3.2,DOC4084,Recovered
+PAT1291,22.0,Female,Central Medical Center,Orthopedics,Arthritis,2025-03-07 18:45:18.949904,20,Medicaid,32872.71,1,4.4,DOC1731,Stable
+PAT1292,59.0,Female,Central Medical Center,Cardioogy,Hypertension,2025-03-08 18:45:18.949904,18,Private Insurance,41009.29,1,1.5,DOC2129,Stable
+PAT1293,78.0,Female,North Valley Hospital,Psychiatry,Hypertension,2025-03-11 18:45:18.949904,18,Medicare,2975.92,0,4.2,DOC2605,Stable
+PAT1294,39.0,Female,Regional General Hospital,Cardiology,Arthritis,2025-03-11 18:45:18.949904,-5,Private Insurance,45620.3,0,4.5,DOC3933,Transferred
+PAT1295,38.0,Female,St. Mary Hospital,Radiology,Pneumonia,2025-03-13 18:45:18.949904,4,PPO,1960.45,0,1.6,DOC9516,Recovered
+PAT1296,87.0,Other,Downtown Medical Associates,Neurology,Pneumonia,2025-03-16 18:45:18.949904,-10,Medicare,18120.57,0,4.4,DOC6074,Stable
+PAT1297,18.0,Male,Regional General Hospital,Oncology,Arthritis,2025-03-22 18:45:18.949904,33,Self-Pay,1282.75,1,5.0,DOC8099,Stable
+PAT1298,22.0,Other,North Valley Hospital,Cardiology,Depression,2025-03-22 18:45:18.949904,36,PPO,4318.69,0,3.9,DOC2490,Improved
+PAT1299,29.0,Male,City Health Clinic,Orthopedics,Migraine,2025-03-22 18:45:18.949904,18,Self-Pay,45602.83,0,4.1,DOC1893,Transferred
+PAT1300,63.0,Other,North Valley Hospital,Neurology,Cardias,2025-03-24 18:45:18.949904,37,HMO,18065.61,0,5.0,DOC2390,Improved
+PAT1301,51.0,Female,Regional General Hospital,Cardiology,Asthma,2025-03-25 18:45:18.949904,-5,Private Insurance,21526.19,0,3.4,DOC4389,Recovered
+PAT1302,66.0,Male,Veterans Health Center,Radiology,Migraine,2025-03-25 18:45:18.949904,28,Uninsured,11159.55,0,2.2,DOC5239,Improved
+PAT1303,62.0,Male,Central Medical Center,Oncology,Pneumonia,2025-03-28 18:45:18.949904,40,Self-Pay,30056.24,0,4.4,DOC5479,Improved
+PAT1304,44.0,Other,Central Medical Center,Cardiology,Infection,2025-03-29 18:45:18.949904,20,Medicaid,29942.76,0,3.5,DOC3263,Improved
+PAT1305,90.0,Other,Sunrise Medical Complex,Emergency,Diabetes Type 2,2025-03-29 18:45:18.949904,33,Self-Pay,18923.92,0,3.3,DOC4432,Transferred
+PAT1306,43.0,Male,Sunrise Medical Complex,Oncology,Heart Disease,2025-03-30 18:45:18.949904,12,Medicaid,16985.23,0,2.0,DOC3371,Recovered
+PAT1307,64.0,Other,North Valley Hospital,Orthopedics,Hypertension,2025-03-31 18:45:18.949904,15,PPO,44305.73,0,4.0,DOC5312,Improved
+PAT1308,73.0,Other,Downtown Medical Associates,Radiology,Arthritis,2025-03-31 18:45:18.949904,41,Medicare,19472.57,0,1.3,DOC2515,Transferred
+PAT1309,80.0,Other,City Health Clinic,Psychiatry,Arthritis,2025-04-02 18:45:18.949904,39,Self-Pay,24928.3,0,4.7,DOC7326,Recovered
+PAT1310,65.0,Female,Veterans Health Center,Internal Medicine,Diabetus,2025-04-05 18:45:18.949904,2,Self-Pay,14523.59,0,2.3,DOC8088,Stable
+PAT1311,78.0,Female,St. Mary Hospital,Ortho,Heart Disease,2025-04-08 18:45:18.949904,29,Medicare,39445.09,0,1.5,DOC6586,Improved
+PAT1312,43.0,Other,Regional General Hospital,Internal Medicine,Asthma,2025-04-09 18:45:18.949904,41,Self-Pay,20173.68,0,2.8,DOC3917,Recovered
+PAT1313,53.0,Other,Downtown Medical Associates,neurology,Heart Disease,2025-04-10 18:45:18.949904,10,Medicaid,25923.75,0,1.2,DOC6731,Improved
+PAT1314,18.0,Female,City Health Clinic,Orthopedics,Infection,2025-04-10 18:45:18.949904,2,Self-Pay,13041.18,1,3.7,DOC8686,Stable
+PAT1315,25.0,Female,Sunrise Medical Complex,Radiology,Heart Disease,2025-04-11 18:45:18.949904,11,Private Insurance,-4191.371549846515,1,4.6,DOC2167,Recovered
+PAT1316,69.0,Male,North Valley Hospital,Oncology,Infection,2025-04-11 18:45:18.949904,13,PPO,14929.04,0,4.3,DOC9302,Transferred
+PAT1316,69.0,Male,North Valley Hospital,Oncology,Infection,2025-04-11 18:45:18.949904,13,PPO,14929.04,0,4.3,DOC9302,Transferred
+PAT1318,73.0,Female,Sunrise Medical Complex,Orthopedics,Asthma,2025-04-12 18:45:18.949904,14,Medicaid,21661.03,0,1.5,DOC5327,Transferred
+PAT1319,31.0,Other,North Valley Hospital,Psychiatry,Asthma,2025-04-12 18:45:18.949904,18,Private Insurance,10707.76,0,4.3,DOC6810,Recovered
+PAT1320,45.0,Other,Regional General Hospital,Emergency,Pneumonia,2025-04-13 18:45:18.949904,9,PPO,40086.08,0,4.7,DOC4655,Transferred
+PAT1321,19.0,Other,St. Mary Hospital,Radiology,Hypertension,2026-02-10 18:45:18.999850,39,Medicare,17013.54,0,2.8,DOC4793,Stable
+PAT1322,43.0,Other,City Health Clinic,Internal Medicine,Asthma,2025-04-14 18:45:18.949904,28,Medicaid,43327.07,0,7.5,DOC7738,Stable
+PAT1323,31.0,Male,Regional General Hospital,Cardiology,Infection,2025-04-15 18:45:18.949904,3,HMO,45805.23,0,2.3,DOC2577,Stable
+PAT1324,76.0,Female,Veterans Health Center,Radiology,Asthma,2025-04-15 18:45:18.949904,20,PPO,43061.28,0,4.6,DOC3220,Recovered
+PAT1325,73.0,Other,Downtown Medical Associates,Surgery,Pneumonia,2025-04-15 18:45:18.949904,6,HMO,2232.89,0,3.6,DOC2030,Stable
+PAT1326,24.0,Male,Central Medical Center,Orthopedics,Arthritis,2025-04-19 18:45:18.949904,27,Medicare,39474.98,0,2.2,DOC7691,Improved
+PAT1327,20.0,Other,Veterans Health Center,Pediatrics,Infection,2026-01-06 18:45:18.976596,2,Medicare,20861.3,1,2.2,DOC4992,Stable
+PAT1328,40.0,Female,Veterans Health Center,Psychiatry,Pneumonia,2025-04-23 18:45:18.949904,29,Medicaid,43749.28,0,4.6,DOC1913,Transferred
+PAT1329,35.0,Male,Downtown Medical Associates,Emergency,Depression,2025-04-26 18:45:18.949904,38,Self-Pay,32078.74,0,1.1,DOC7358,Transferred
+PAT1330,55.0,Female,Central Medical Center,Psychiatry,Depression,2025-04-27 18:45:18.949904,3,Medicare,41765.34,0,2.3,DOC3181,Transferred
+PAT1331,32.0,Female,Veterans Health Center,Radiology,Diabetes Type 2,2025-04-28 18:45:18.949904,16,PPO,25221.87,0,,DOC4197,Recovered
+PAT1332,150.0,Male,Regional General Hospital,Pediatrics,Heart Disease,2025-04-28 18:45:18.949904,30,Self-Pay,26983.76,0,1.6,DOC7040,Improved
+PAT1333,45.0,Male,Regional General Hospital,Surgery,Hypertension,2026-01-06 18:45:18.991703,40,Private Insurance,7647.19,0,1.4,DOC2462,Stable
+PAT1334,91.0,Male,Regional General Hospital,Oncology,Fracture,2025-05-01 18:45:18.949904,2,HMO,39307.37,0,4.3,DOC8037,Improved
+PAT1335,56.0,Male,Central Medical Center,Cardiology,Migraine,2025-05-05 18:45:18.949904,17,Self-Pay,21259.79,0,4.6,DOC5994,Improved
+PAT1336,74.0,Male,Veterans Health Center,Pediatrics,Pneumonia,2025-05-05 18:45:18.949904,41,HMO,25253.97,0,4.3,DOC6308,Transferred
+PAT1337,34.0,Male,North Valley Hospital,Orthopedics,Arthritis,2025-05-05 18:45:18.949904,12,Self-Pay,39362.34,0,4.6,DOC7221,Transferred
+PAT1338,150.0,Male,Central Medical Center,Internal Medicine,Migraine,2025-05-07 18:45:18.949904,35,Private Insurance,30142.85,0,3.2,DOC8090,Transferred
+PAT1339,42.0,Other,Regional General Hospital,Surgery,Arthritis,2025-05-11 18:45:18.949904,43,Medicare,10454.39,0,4.2,DOC8769,Recovered
+PAT1340,34.0,Female,Downtown Medical Associates,Cardiology,Migraine,2025-05-11 18:45:18.949904,1,Private Insurance,29716.52,0,2.5,DOC1687,Improved
+PAT1341,30.0,Male,Veterans Health Center,Emergency,Pneumonia,2025-05-12 18:45:18.949904,15,Medicare,20677.83,0,3.7,DOC5661,Improved
+PAT1342,42.0,Other,Veterans Health Center,Internal Medicine,Fracture,2025-05-13 18:45:18.949904,26,Medicare,23741.51,1,5.0,DOC2894,Recovered
+PAT1343,85.0,Other,Sunrise Medical Complex,Radiology,Migraine,2025-05-14 18:45:18.949904,37,HMO,1901.41,1,1.9,DOC8389,Recovered
+PAT1344,27.0,Other,Sunrise Medical Complex,Pediatrics,Pneumonia,2025-05-14 18:45:18.949904,21,None,10896.45,1,2.6,DOC5922,Recovered
+PAT1345,84.0,Female,St. Mary Hospital,Cardiology,Asthma,2025-05-17 18:45:18.949904,31,Private Insurance,14411.39,0,2.9,DOC7322,Improved
+PAT1346,35.0,Male,North Valley Hospital,Neurology,Fracture,2025-05-18 18:45:18.949904,25,Self-Pay,35791.52,0,1.6,DOC4183,Improved
+PAT1347,51.0,Other,  North Valley Hospital  ,Oncology,Infection   ,2025-05-18 18:45:18.949904,23,Private Insurance,1068.88,0,1.3,DOC4797,Transferred
+PAT1348,25.0,Female,City Health Clinic,Oncology,Arthritis,2025-05-19 18:45:18.949904,24,HMO,20734.47,0,4.3,DOC6178,Transferred
+PAT1349,57.0,Female,North Valley Hospital,Surgery,Depression,2025-05-19 18:45:18.949904,-10,Medicare,46239.33,0,4.9,DOC4968,Improved
+PAT1349,57.0,Female,North Valley Hospital,Surgery,Depression,2025-05-19 18:45:18.949904,-10,Medicare,46239.33,0,4.9,DOC4968,Improved
+PAT1351,58.0,Other,Central Medical Center,Surgery,Depression,2025-05-20 18:45:18.949904,21,Medicaid,26063.01,1,1.4,DOC1190,Recovered
+PAT1352,23.0,Male,North Valley Hospital,nan,Fracture,2025-05-20 18:45:18.949904,43,Medicaid,39432.86,0,1.3,DOC2335,Stable
+PAT1353,69.0,Other,Sunrise Medical Complex,Orthopedics,Infection,2025-05-21 18:45:18.949904,18,Self-Pay,47155.3,1,4.6,DOC9181,Transferred
+PAT1354,-5.0,Other,St. Mary Hospital,Emergency,Arthritis,2025-05-24 18:45:18.949904,36,HMO,37465.44,0,2.9,DOC1378,Improved
+PAT1355,81.0,Male,Veterans Health Center,Psychiatry,Infection,2025-05-24 18:45:18.949904,35,Self-Pay,36167.99,0,2.3,DOC4829,Transferred
+PAT1356,76.0,Male,nan,Orthopedics,Migraine,2025-05-26 18:45:18.949904,9,Self-Pay,41411.16,0,2.9,DOC7380,Transferred
+PAT1357,73.0,Male,St. Mary Hospital,Emergency,Arthritis,2025-05-29 18:45:18.949904,38,Medicaid,22586.96,0,2.3,DOC1615,Transferred
+PAT1358,76.0,Female,Veterans Health Center,Emergency,Migraine,2025-05-30 18:45:18.949904,30,Self-Pay,40389.3,0,3.0,DOC3330,Stable
+PAT1359,87.0,Male,Downtown Medical Associates,Neurology,Pneumonia,2025-06-02 18:45:18.949904,44,Medicaid,894.24,0,4.4,DOC2754,Recovered
+PAT1360,,Other,Downtown Medical Associates,Radiology,Fracture,2025-06-02 18:45:18.949904,34,Medicare,46265.77,0,3.4,DOC1463,Improved
+PAT1361,70.0,Male,Veterans Health Center,Neurology,Pneumonia,2025-06-15 18:45:18.949904,32,HMO,22443.67,0,3.8,DOC5267,Stable
+PAT1362,39.0,Other,North Valley Hospital,Emergency,Diabetes Type 2,2026-03-11 18:45:19.011545,3,Self-Pay,27892.32,1,2.5,DOC4158,Improved
+PAT1363,38.0,Female,City Health Clinic,Cardiology,Infection,2025-06-24 18:45:18.949904,3,Medicaid,13116.67,0,4.0,DOC4624,Improved
+PAT1364,87.0,Other,Sunrise Medical Complex,Orthopedics,Migraine,2025-06-24 18:45:18.949904,28,Private Insurance,37255.28,1,3.7,DOC5938,Improved
+PAT1365,-5.0,Other,Central Medical Center,Neurology,Asthma,2025-06-28 18:45:18.949904,44,Self-Pay,4293.47,0,1.5,DOC6417,Stable
+PAT1366,21.0,Male,  Central Medical Center  ,Radiology,Pneumonia   ,2025-06-28 18:45:18.949904,15,PPO,43695.47,0,3.3,DOC7004,Recovered
+PAT1367,92.0,Male,Regional General Hospital,Pediatrics,Diabetes Type 2,2025-07-01 18:45:18.949904,41,Medicare,-3584.6844288860543,0,2.0,DOC9881,Improved
+PAT1368,79.0,Other,Veterans Health Center,Surgery,Hypertension,2025-07-03 18:45:18.949904,23,Medicare,11194.98,0,4.2,DOC6603,Recovered
+PAT1369,79.0,Male,Central Medical Center,Emergency,Depression,2025-07-03 18:45:18.949904,40,Private Insurance,40561.56,0,2.7,DOC3212,Recovered
+PAT1370,41.0,Female,North Valley Hospital,Psychiatry,Arthritis,2025-07-04 18:45:18.949904,11,Medicaid,39424.71,0,5.0,DOC7120,Transferred
+PAT1371,72.0,Female,nan,Pediatrics,Diabetes Type 2,2025-07-07 18:45:18.949904,32,Self-Pay,31794.72,0,1.4,DOC6818,Stable
+PAT1372,26.0,Male,Veterans Health Center,Oncology,Fracture,2025-07-08 18:45:18.949904,36,Medicaid,18989.25,0,4.1,DOC1382,Stable
+PAT1373,20.0,Female,City Health Clinic,Internal Medicine,Pneumonia,2025-07-09 18:45:18.949904,33,Medicare,13939.19,0,3.7,DOC3256,Transferred
+PAT1374,48.0,Male,North Valley Hospital,Radiology,Fracture,2025-07-10 18:45:18.949904,24,Medicaid,11973.29,0,4.1,DOC2412,Transferred
+PAT1375,57.0,Other,Central Medical Center,Psychiatry,Depression,2025-07-10 18:45:18.949904,39,Medicare,16271.14,0,2.2,DOC7146,Recovered
+PAT1376,53.0,Other,Central Medical Center,Internal Medicine,Asthma,2025-07-11 18:45:18.949904,34,Medicaid,45226.14,0,3.0,DOC1371,Improved
+PAT1377,41.0,Female,Regional General Hospital,Radiology,Infection,2025-07-11 18:45:18.949904,28,Private Insurance,4343.22,0,4.2,DOC6806,Stable
+PAT1378,23.0,Male,Central Medical Center,Cardiology,Infection,2025-07-12 18:45:18.949904,37,HMO,41529.13,0,1.9,DOC6565,Improved
+PAT1379,83.0,Male,Veterans Health Center,Surgery,Fracture,2025-07-13 18:45:18.949904,7,Private Insurance,17770.06,0,1.9,DOC9802,Improved
+PAT1380,92.0,Female,North Valley Hospital,Pediatrics,Migraine,2026-02-11 18:45:18.994485,4,Private Insurance,26319.17,0,3.2,DOC9307,Transferred
+PAT1381,21.0,Other,Downtown Medical Associates,Orthopedics,Asthma,2025-07-13 18:45:18.949904,37,HMO,39827.04,0,3.1,DOC8437,Improved
+PAT1382,23.0,Female,North Valley Hospital,Radiology,Infection,2025-07-14 18:45:18.949904,1,HMO,44276.64,0,2.1,DOC1446,Recovered
+PAT1383,68.0,Other,Veterans Health Center,Orthopedics,Asthma,2025-07-17 18:45:18.949904,-5,Self-Pay,17566.68,0,2.2,DOC2391,Transferred
+PAT1384,79.0,Male,Veterans Health Center,nan,Diabetes Type 2,2025-07-17 18:45:18.949904,20,Self-Pay,23361.25,0,2.1,DOC2340,Improved
+PAT1385,74.0,Other,Regional General Hospital,Emergency,Asthma,2025-07-19 18:45:18.949904,19,Private Insurance,21018.55,1,4.1,DOC3939,Transferred
+PAT1386,83.0,Female,Regional General Hospital,Oncology,Heart Disease,2025-07-19 18:45:18.949904,29,Private Insurance,1155.93,0,3.6,DOC6969,Recovered
+PAT1387,92.0,Male,Central Medical Center,Pediatrics,Depression,2025-07-21 18:45:18.949904,10,Medicare,15149.17,0,4.3,DOC5813,Recovered
+PAT1388,25.0,Female,  St. Mary Hospital  ,Surgery,Infection   ,2025-07-21 18:45:18.949904,18,Medicare,23229.87,0,4.9,DOC4569,Improved
+PAT1389,43.0,Female,North Valley Hospital,Surgery,Asthma,2025-07-22 18:45:18.949904,28,Self-Pay,20849.13,0,2.9,DOC6454,Transferred
+PAT1390,68.0,Other,North Valley Hospital,Cardiology,Fracture,2025-07-22 18:45:18.949904,35,PPO,36235.5,0,1.3,DOC4150,Improved
+PAT1391,62.0,Female,St. Mary Hospital,Internal Medicine,Hypertension,2025-07-25 18:45:18.949904,43,PPO,19547.78,0,1.2,DOC7414,Improved
+PAT1392,61.0,Other,Regional General Hospital,Oncology,Heart Disease,2025-07-27 18:45:18.949904,31,Self-Pay,24724.13,0,2.2,DOC5657,Transferred
+PAT1393,22.0,Male,Central Medical Center,Pediatrics,Heart Disease,2025-07-28 18:45:18.949904,27,Medicare,21765.63,0,4.7,DOC7947,Improved
+PAT1394,87.0,Other,St. Mary Hospital,Emergency,Migraine,2025-08-03 18:45:18.949904,11,Medicare,37160.99,0,3.1,DOC8943,Recovered
+PAT1394,87.0,Other,St. Mary Hospital,Emergency,Migraine,2025-08-03 18:45:18.949904,11,Medicare,37160.99,0,3.1,DOC8943,Recovered
+PAT1396,85.0,Other,Central Medical Center,Neurology,Migraine,2025-08-17 18:45:18.949904,5,Medicaid,26828.51,0,2.6,DOC5482,Transferred
+PAT1397,36.0,Female,Central Medical Center,Surgery,Migraine,2025-08-17 18:45:18.949904,8,Medicaid,39576.89,0,3.4,DOC5797,Transferred
+PAT1398,37.0,Other,Sunrise Medical Complex,Radiology,Hypertension,2025-08-20 18:45:18.949904,34,Medicare,15190.94,1,3.6,DOC6068,Transferred
+PAT1399,29.0,Other,Veterans Health Center,Cardiology,Diabetes Type 2,2025-08-23 18:45:18.949904,12,Medicaid,27297.8,0,1.6,DOC6480,Improved
+PAT1400,64.0,Male,Central Medical Center,Onc.,Asthma,2025-08-24 18:45:18.949904,38,HMO,17588.88,1,4.9,DOC9033,Improved
+PAT1401,18.0,Female,Sunrise Medical Complex,Emergency,Pneumonia,2025-08-24 18:45:18.949904,1,Self-Pay,21002.95,1,7.5,DOC1983,Recovered
+PAT1402,-5.0,Other,Regional General Hospital,Pediatrics,Infection,2025-08-25 18:45:18.949904,31,Self-Pay,36754.49,0,1.5,DOC6607,Stable
+PAT1403,81.0,Female,St. Mary Hospital,Neurology,Migraine,2025-08-25 18:45:18.949904,4,Medicare,44142.29,0,4.6,DOC9543,Stable
+PAT1404,55.0,Other,Veterans Health Center,Pediatrics,Depression,2025-08-26 18:45:18.949904,5,Private Insurance,6514.02,0,1.3,DOC2907,Recovered
+PAT1405,54.0,male,Downtown Medical Associates,Cardiology,Arthritis,2025-08-27 18:45:18.949904,30,PPO,31914.64,0,4.6,DOC7924,Stable
+PAT1406,28.0,Female,St. Mary Hospital,Radiology,Depression,2025-08-28 18:45:18.949904,24,Medicare,29316.12,0,5.0,DOC9737,Recovered
+PAT1407,94.0,Other,Veterans Health Center,Neurology,Hypertension,2025-08-29 18:45:18.949904,3,Medicaid,6361.54,0,3.8,DOC5174,Improved
+PAT1408,20.0,Female,Downtown Medical Associates,Neurology,Hypertension,2025-08-29 18:45:18.949904,11,PPO,10988.77,0,4.1,DOC8265,Transferred
+PAT1409,50.0,Other,St. Mary Hospital,Internal Medicine,Fracture,2025-08-29 18:45:18.949904,4,Private Insurance,15894.62,0,2.3,DOC2990,Transferred
+PAT1410,23.0,Male,Veterans Health Center,Oncology,Diabetes Type 2,2025-08-31 18:45:18.949904,26,Medicaid,8763.09,1,4.8,DOC6596,Improved
+PAT1411,67.0,Female,St. Mary Hospital,Neurology,Infection,2025-09-05 18:45:18.949904,27,HMO,12564.61,0,3.1,DOC4998,Transferred
+PAT1412,27.0,Other,St. Mary Hospital,Internal Medicine,Migraine,2025-09-05 18:45:18.949904,43,None,13746.24,0,3.9,DOC4775,Transferred
+PAT1413,22.0,Other,Downtown Medical Associates,Internal Medicine,Cardias,2025-09-09 18:45:18.949904,27,HMO,17115.85,0,4.7,DOC5645,Stable
+PAT1414,40.0,Male,St. Mary Hospital,Cardiology,Arthritis,2025-09-10 18:45:18.949904,42,PPO,37594.83,1,4.9,DOC3061,Improved
+PAT1415,27.0,Female,St. Mary Hospital,Orthopedics,Hypertension,2025-09-10 18:45:18.949904,6,HMO,28809.65,0,4.3,DOC5487,Stable
+PAT1416,61.0,Other,Downtown Medical Associates,Pediatrics,Hypertension,2025-09-11 18:45:18.949904,15,PPO,49319.21,0,2.2,DOC5435,Stable
+PAT1417,19.0,Male,Regional General Hospital,Radiology,Diabetes Type 2,2026-01-16 18:45:18.989007,30,PPO,21029.42,0,4.9,DOC3644,Transferred
+PAT1418,30.0,Other,Central Medical Center,nan,Arthritis,2025-09-13 18:45:18.949904,42,PPO,37816.32,0,3.5,DOC2045,Transferred
+PAT1419,57.0,Female,North Valley Hospital,Pediatrics,Arthritis,2025-09-18 18:45:18.949904,37,PPO,43637.69,0,4.7,DOC8951,Improved
+PAT1420,19.0,Other,City Health Clinic,Neurology,Diabetes Type 2,2025-09-19 18:45:18.949904,37,PPO,34109.44,1,3.7,DOC7449,Transferred
+PAT1421,82.0,Other,Sunrise Medical Complex,Radiology,Hypertension,2025-09-21 18:45:18.949904,42,Medicaid,20887.3,0,2.2,DOC3681,Transferred
+PAT1422,80.0,Other,City Health Clinic,Emergency,Infection,2025-09-23 18:45:18.949904,37,None,37802.93,0,2.5,DOC4199,Improved
+PAT1423,90.0,Other,City Health Clinic,Orthopedics,Asthma,2025-09-23 18:45:18.949904,35,Medicaid,10581.52,1,3.2,DOC7768,Transferred
+PAT1424,34.0,Male,Veterans Health Center,Emergency,Asthma,2025-09-24 18:45:18.949904,23,PPO,-4720.615641948565,0,4.2,DOC8440,Stable
+PAT1425,26.0,Male,Central Medical Center,Emergency,Diabetes Type 2,2025-09-25 18:45:18.949904,6,HMO,27560.92,0,2.3,DOC9633,Improved
+PAT1426,92.0,Female,Veterans Health Center,Oncology,Arthritis,2025-09-25 18:45:18.949904,4,None,28982.76,1,3.3,DOC3550,Transferred
+PAT1427,,Male,Central Medical Center,Pediatrics,Migraine,2025-09-25 18:45:18.949904,18,Private Insurance,1596.0,0,2.4,DOC5225,Recovered
+PAT1428,41.0,Male,Downtown Medical Associates,Psychiatry,Diabetes Type 2,2025-09-26 18:45:18.949904,9,PPO,47283.15,0,4.3,DOC1596,Improved
+PAT1429,55.0,Female,Downtown Medical Associates,Cardiology,Infection,2026-02-14 18:45:19.000531,29,PPO,34983.05,0,2.9,DOC7054,Improved
+PAT1430,52.0,Male,North Valley Hospital,psychiatry,Diabetes Type 2,2025-09-27 18:45:18.949904,13,HMO,25037.34,0,1.3,DOC2505,Recovered
+PAT1431,66.0,Male,Central Medical Center,Emergency,Heart Disease,2025-09-28 18:45:18.949904,17,Self-Pay,46689.8,0,1.7,DOC7468,Transferred
+PAT1432,86.0,Female,St. Mary Hospital,Neurology,Depression,2025-10-01 18:45:18.949904,32,HMO,22235.23,0,1.2,DOC8236,Transferred
+PAT1433,79.0,Female,Regional General Hospital,Orthopedics,Arthritis,2025-10-02 18:45:18.949904,22,Private Insurance,49031.56,0,3.0,DOC2551,Improved
+PAT1434,77.0,Female,North Valley Hospital,Surgery,Fracture,2025-10-03 18:45:18.949904,4,Self-Pay,25858.1,1,1.4,DOC7852,Improved
+PAT1435,67.0,Other,North Valley Hospital,Psychiatry,Fracture,2025-10-04 18:45:18.949904,5,Unknown,6157.15,0,1.5,DOC2449,Transferred
+PAT1436,92.0,Other,St. Mary Hospital,Emergency,Arthritis,2025-10-07 18:45:18.949904,37,None,38357.65,1,4.8,DOC6953,Transferred
+PAT1437,26.0,Female,Regional General Hospital,Orthopedics,Infection,2025-10-09 18:45:18.949904,41,Private Insurance,34105.44,0,4.5,DOC9456,Stable
+PAT1438,51.0,Female,Veterans Health Center,Radiology,Heart Disease,2025-10-10 18:45:18.949904,13,HMO,38762.84,0,2.8,DOC9042,Improved
+PAT1439,93.0,Female,Regional General Hospital,nan,Heart Disease,2025-10-11 18:45:18.949904,34,Medicaid,47596.38,0,4.9,DOC3659,Improved
+PAT1440,52.0,Other,Veterans Health Center,Internal Medicine,Hypertension,2025-10-11 18:45:18.949904,22,Private Insurance,38936.22,0,1.0,DOC8509,Recovered
+PAT1441,18.0,Other,Downtown Medical Associates,Oncology,Depression,2025-10-12 18:45:18.949904,23,None,30761.16,0,3.5,DOC8893,Stable
+PAT1442,57.0,Male,City Health Clinic,Psych,Asthma,2025-10-14 18:45:18.949904,3,Self-Pay,42936.79,1,3.5,DOC8445,Transferred
+PAT1443,81.0,Male,Downtown Medical Associates,Neurology,Pneumonia,2025-10-14 18:45:18.949904,42,PPO,33825.7,0,2.8,DOC3721,Stable
+PAT1444,39.0,Female,Downtown Medical Associates,Neurology,Infection,2025-10-14 18:45:18.949904,34,Medicare,20701.89,0,2.6,DOC3925,Transferred
+PAT1445,77.0,Other,City Health Clinic,Orthopedics,Pneumonia,2025-10-14 18:45:18.949904,32,Self-Pay,44338.18,0,2.8,DOC8104,Transferred
+PAT1446,81.0,Other,Regional General Hospital,Neurology,Pneumonia,2025-10-15 18:45:18.949904,21,Private Insurance,11484.07,0,2.7,DOC7240,Stable
+PAT1447,89.0,Other,North Valley Hospital,Pediatrics,Arthritis,2026-02-14 18:45:18.980405,44,Self-Pay,35874.74,0,3.9,DOC1512,Improved
+PAT1448,28.0,Female,Regional General Hospital,Neurology,Fracture,2025-10-18 18:45:18.949904,21,Private Insurance,44137.39,0,1.5,DOC1215,Transferred
+PAT1449,31.0,Male,Veterans Health Center,Psychiatry,Fracture,2025-10-19 18:45:18.949904,44,medicare,36700.17,0,1.8,DOC8299,Stable
+PAT1450,77.0,Female,St. Mary Hospital,Internal Medicine,Asthma,2025-10-19 18:45:18.949904,11,PPO,35015.13,0,1.7,DOC4153,Recovered
+PAT1451,47.0,Male,Veterans Health Center,Neurology,Arthritis,2025-10-19 18:45:18.949904,39,Medicare,37755.6,0,,DOC8450,Stable
+PAT1452,52.0,Male,St. Mary Hospital,Internal Medicine,Pneumonia,2025-10-20 18:45:18.949904,4,Self-Pay,23520.23,0,3.1,DOC2706,Recovered
+PAT1453,54.0,Female,Downtown Medical Associates,Emergency,Migraine,2025-10-25 18:45:18.949904,-5,Private Insurance,43771.45,0,1.4,DOC2567,Transferred
+PAT1454,22.0,Male,City Health Clinic,Cardiology,Fracture,2026-02-10 18:45:18.961273,28,HMO,10570.11,1,4.5,DOC2128,Stable
+PAT1455,43.0,Male,  Downtown Medical Associates  ,Pediatrics,Infection   ,2025-10-27 18:45:18.949904,24,Medicare,6805.63,0,2.2,DOC4510,Stable
+PAT1456,79.0,Other,Central Medical Center,Cardiology,Infection,2025-10-27 18:45:18.949904,35,Medicaid,14632.68,0,1.7,DOC8867,Recovered
+PAT1457,21.0,Male,Regional General Hospital,Emergency,Hypertension,2025-10-28 18:45:18.949904,13,Private Insurance,-433.3828390491815,0,3.7,DOC3365,Stable
+PAT1458,59.0,Female,St. Mary Hospital,Pediatrics,Diabetes Type 2,2025-10-30 18:45:18.949904,34,PPO,25772.81,0,1.2,DOC6583,Stable
+PAT1459,35.0,Female,Veterans Health Center,Orthopedics,Migraine,2025-10-30 18:45:18.949904,11,PPO,41119.64,1,3.5,DOC5897,Transferred
+PAT1460,57.0,Male,City Health Clinic,Orthopedics,Fracture,2025-11-01 18:45:18.949904,36,Medicaid,20526.15,0,3.8,DOC6718,Stable
+PAT1461,89.0,OTHER,St. Mary Hospital,internal medicine,Heart Disease,2025-11-05 18:45:18.949904,17,Medicaid,24475.05,0,1.9,DOC7001,Improved
+PAT1462,56.0,Other,Veterans Health Center,Emergency,Fracture,2025-11-06 18:45:18.949904,35,PPO,1161.7,0,1.2,DOC5567,Recovered
+PAT1463,31.0,Male,Regional General Hospital,Internal Medicine,Hypertension,2025-11-06 18:45:18.949904,18,Self-Pay,20782.09,0,2.5,DOC3741,Stable
+PAT1464,49.0,Male,Downtown Medical Associates,Oncology,Infection,2025-11-06 18:45:18.949904,40,Self-Pay,32564.82,0,1.4,DOC4020,Recovered
+PAT1465,68.0,Female,Regional General Hospital,Neurology,Pneumonia,2025-11-06 18:45:18.949904,22,Private Insurance,1267.66,0,-1.0,DOC7256,Recovered
+PAT1466,55.0,Male,Sunrise Medical Complex,Surgery,Heart Disease,2025-11-08 18:45:18.949904,24,HMO,14403.66,0,0.0,DOC1228,Recovered
+PAT1467,40.0,Other,Central Medical Center,Oncology,Arthritis,2025-11-08 18:45:18.949904,19,Private Insurance,10793.84,0,2.2,DOC9362,Stable
+PAT1468,80.0,Male,Sunrise Medical Complex,Neurology,Depression,2025-11-08 18:45:18.949904,37,HMO,2578.28,0,3.1,DOC1294,Stable
+PAT1469,32.0,Female,City Health Clinic,Pediatrics,Pneumonia,2025-11-09 18:45:18.949904,39,Medicaid,24223.37,1,3.7,DOC5284,Recovered
+PAT1470,42.0,Female,  St. Mary Hospital  ,Internal Medicine,Depression   ,2025-11-10 18:45:18.949904,21,Medicare,9495.3,0,3.4,DOC9617,Improved
+PAT1471,34.0,Female,City Health Clinic,Pediatrics,Migraine,2026-02-14 18:45:18.979870,8,Private Insurance,37282.54,0,1.6,DOC7801,Recovered
+PAT1472,83.0,Female,Downtown Medical Associates,Pediatrics,Diabetes Type 2,2025-11-12 18:45:18.949904,28,Private Insurance,42472.43,0,1.7,DOC1918,Improved
+PAT1473,70.0,Female,Veterans Health Center,Neurology,Heart Disease,2025-11-14 18:45:18.949904,-10,HMO,27506.47,1,4.5,DOC1498,Recovered
+PAT1474,68.0,Male,Regional General Hospital,Emergency,Asthma,2025-11-15 18:45:18.949904,17,Medicaid,49094.51,0,3.2,DOC3809,Transferred
+PAT1475,56.0,Male,Sunrise Medical Complex,Neurology,Heart Disease,2025-11-16 18:45:18.949904,37,Medicaid,22798.69,1,10.0,DOC5961,Recovered
+PAT1476,68.0,Male,North Valley Hospital,Radiology,Fracture,2025-11-16 18:45:18.949904,36,HMO,,0,2.5,DOC4779,Recovered
+PAT1477,87.0,Male,Sunrise Medical Complex,Orthopedics,Infection,2025-11-21 18:45:18.949904,19,Medicaid,49466.28,0,3.5,DOC3118,Stable
+PAT1478,23.0,Female,Downtown Medical Associates,Orthopedics,Fracture,2025-11-22 18:45:18.949904,27,PPO,-2355.612348149549,0,3.1,DOC7391,Improved
+PAT1479,84.0,Other,Sunrise Medical Complex,Oncology,Fracture,2025-11-23 18:45:18.949904,34,Self-Pay,47156.02,0,2.3,DOC1145,Transferred
+PAT1480,24.0,Male,Downtown Medical Associates,Neuro,Migraine,2025-11-23 18:45:18.949904,11,PPO,2620.46,0,2.9,DOC8942,Improved
+PAT1480,24.0,Male,Downtown Medical Associates,Orthopedics,Migraine,2025-11-23 18:45:18.949904,11,PPO,2620.46,0,2.9,DOC8942,Improved
+PAT1482,89.0,Male,City Health Clinic,Psychiatry,Asthma,2025-11-24 18:45:18.949904,21,Private Insurance,3965.17,0,1.8,DOC1192,Recovered
+PAT1483,59.0,Male,Regional General Hospital,Internal Medicine,Asthma,2026-01-28 18:45:18.992701,11,Medicare,36597.12,0,2.3,DOC6187,Stable
+PAT1484,999.0,Other,St. Mary Hospital,Neurology,Fracture,2025-11-26 18:45:18.949904,39,Private Insurance,30616.24,0,4.2,DOC7637,Stable
+PAT1485,32.0,Female,Veterans Health Center,Neurology,Depression,2025-11-27 18:45:18.949904,28,Self-Pay,35478.4,0,4.7,DOC9243,Improved
+PAT1486,46.0,Male,St. Mary Hospital,Surgery,Migraine,2025-11-28 18:45:18.949904,5,Medicaid,19036.78,0,-1.0,DOC3410,Stable
+PAT1487,50.0,Male,City Health Clinic,Onc.,Fracture,2025-11-30 18:45:18.949904,17,PPO,18789.36,0,2.2,DOC2820,Improved
+PAT1488,44.0,Male,Veterans Health Center,Radiology,Diabetes Type 2,2025-12-04 18:45:18.949904,20,HMO,2743.3,0,1.8,DOC3964,Improved
+PAT1489,53.0,Other,Sunrise Medical Complex,Orthopedics,Infection,2025-12-04 18:45:18.949904,41,PPO,17822.27,0,3.7,DOC3521,Transferred
+PAT1490,46.0,Female,North Valley Hospital,Internal Medicine,Pneumonia,2025-12-05 18:45:18.949904,12,Self-Pay,46499.78,1,2.3,DOC3568,Improved
+PAT1491,55.0,Other,North Valley Hospital,Orthopedics,Arthritis,2025-12-14 18:45:18.949904,6,Medicare,19271.71,0,5.0,DOC6882,Transferred
+PAT1492,74.0,Other,Central Medical Center,Oncology,Diabetes Type 2,2025-12-14 18:45:18.949904,17,HMO,41652.7,0,2.3,DOC2867,Stable
+PAT1493,44.0,Female,City Health Clinic,Internal Medicine,Depression,2025-12-19 18:45:18.949904,19,Medicaid,42195.11,0,7.5,DOC8465,Improved
+PAT1494,72.0,Other,City Health Clinic,Orthopedics,Cardias,2025-12-20 18:45:18.949904,26,Self-Pay,18975.44,1,3.4,DOC8602,Improved
+PAT1495,50.0,Female,Regional General Hospital,Radiology,Fractur,2025-12-21 18:45:18.949904,44,HMO,31783.44,0,4.2,DOC4199,Recovered
+PAT1496,85.0,Male,St. Mary Hospital,Psych,Diabetes Type 2,2025-12-21 18:45:18.949904,44,Self-Pay,5220.89,0,2.9,DOC7103,Improved
+PAT1497,83.0,Unknown,City Health Clinic,Pediatrics,Fracture,2025-12-22 18:45:18.949904,32,Self-Pay,5632.09,1,2.7,DOC1240,Improved
+PAT1497,83.0,Female,City Health Clinic,Pediatrics,Fracture,2025-12-22 18:45:18.949904,32,Self-Pay,5632.09,1,2.7,DOC1240,Improved
+PAT1499,22.0,Other,Sunrise Medical Complex,Radiology,Hypertension,2025-12-24 18:45:18.949904,36,Private Insurance,29260.25,0,1.0,DOC5631,Recovered

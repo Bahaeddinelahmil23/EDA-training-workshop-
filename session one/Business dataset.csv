@@ -1,0 +1,501 @@
+Date,Year,Month,Month_Name,Quarter,Day_of_Week,Order_ID,Customer_Name,Region,Product_Category,Sub_Category,Sales_Channel,Customer_Segment,Quantity,Unit_Price,Sales_Amount,Discount_Percent,Discount_Amount,Shipping_Cost,Revenue,Profit
+2023-01-01 00:00:00.000000000,2023,1,January,1,Sunday,ORD-1001,Customer_1,West,Sports,Footwear,Direct,SMB,12,190.09,2281.08,10,228.11,18.64,2052.97,1121.9
+2023-01-02 11:06:36.793587174,2023,1,January,1,Monday,ORD-1002,Customer_2,Central,Electronics,Laptops,Direct,SMB,17,43.4,737.8,5,36.89,18.05,700.91,387.74
+2023-01-03 22:13:13.587174348,2023,1,January,1,Tuesday,ORD-1003,Customer_3,East,Beauty,Makeup,Direct,Retail,8,22.65,181.2,15,27.18,30.35,154.02,51.19
+2023-01-05 09:19:50.380761523,2023,1,January,1,Thursday,ORD-1004,Customer_4,Central,Home & Garden,Outdoor,Direct,Retail,11,76.23,838.53,20,167.71,10.4,670.82,325.01
+2023-01-06 20:26:27.174348697,2023,1,January,1,Friday,ORD-1005,Customer_5,Central,Home & Garden,Furniture,Direct,SMB,3,481.93,1445.79,10,144.58,46.26,1301.21,676.63
+2023-01-08 07:33:03.967935871,2023,1,January,1,Sunday,ORD-1006,Customer_6,South,Electronics,Laptops,Online,SMB,6,279.27,1675.62,10,167.56,37.43,1508.06,800.38
+2023-01-09 18:39:40.761523046,2023,1,January,1,Monday,ORD-1007,Customer_7,East,Sports,Apparel,Direct,SMB,9,483.25,4349.25,10,434.92,23.07,3914.33,2151.56
+2023-01-11 05:46:17.555110220,2023,1,January,1,Wednesday,ORD-1008,Customer_8,East,Sports,Apparel,Online,Retail,6,221.92,1331.52,15,199.73,12.14,1131.79,587.04
+2023-01-12 16:52:54.348697394,2023,1,January,1,Thursday,ORD-1009,Customer_9,East,Beauty,Fragrance,Direct,Retail,9,162.79,1465.11,0,0.0,44.69,1465.11,834.38
+2023-01-14 03:59:31.142284569,2023,1,January,1,Saturday,ORD-1010,Customer_10,Central,Electronics,Accessories,Wholesale,Enterprise,7,258.01,1806.07,0,0.0,42.07,1806.07,1041.57
+2023-01-15 15:06:07.935871743,2023,1,January,1,Sunday,ORD-1011,Customer_11,West,Home & Garden,Decor,Retail,Enterprise,9,225.36,2028.24,5,101.41,37.48,1926.83,1078.05
+2023-01-17 02:12:44.729458917,2023,1,January,1,Tuesday,ORD-1012,Customer_12,East,Sports,Accessories,Online,SMB,18,61.78,1112.04,0,0.0,17.22,1112.04,650.0
+2023-01-18 13:19:21.523046092,2023,1,January,1,Wednesday,ORD-1013,Customer_13,Central,Electronics,Phones,Direct,Individual,12,324.0,3888.0,10,388.8,23.11,3499.2,1920.89
+2023-01-20 00:25:58.316633266,2023,1,January,1,Friday,ORD-1014,Customer_14,South,Sports,Equipment,Wholesale,Individual,8,115.86,926.88,10,92.69,9.62,834.19,453.82
+2023-01-21 11:32:35.110220440,2023,1,January,1,Saturday,ORD-1015,Customer_15,West,Sports,Apparel,Retail,Retail,8,313.6,2508.8,10,250.88,13.51,2257.92,1240.89
+2023-01-22 22:39:11.903807615,2023,1,January,1,Sunday,ORD-1016,Customer_16,South,Home & Garden,Decor,Online,Retail,18,328.6,5914.8,5,295.74,40.24,5619.06,3212.9
+2023-01-24 09:45:48.697394789,2023,1,January,1,Tuesday,ORD-1017,Customer_17,West,Clothing,Kids,Retail,Retail,15,84.49,1267.35,10,126.74,37.18,1140.61,596.49
+2023-01-25 20:52:25.490981963,2023,1,January,1,Wednesday,ORD-1018,Customer_18,Central,Beauty,Makeup,Wholesale,SMB,7,40.06,280.42,0,0.0,31.71,280.42,136.54
+2023-01-27 07:59:02.284569138,2023,1,January,1,Friday,ORD-1019,Customer_19,North,Beauty,Makeup,Online,Individual,11,392.57,4318.27,15,647.74,45.31,3670.53,1897.91
+2023-01-28 19:05:39.078156312,2023,1,January,1,Saturday,ORD-1020,Customer_20,West,Home & Garden,Kitchen,Retail,Enterprise,16,235.3,3764.8,15,564.72,31.25,3200.08,1662.91
+2023-01-30 06:12:15.871743487,2023,1,January,1,Monday,ORD-1021,Customer_21,South,Sports,Accessories,Direct,SMB,4,38.5,154.0,20,30.8,26.01,123.2,35.59
+2023-01-31 17:18:52.665330661,2023,1,January,1,Tuesday,ORD-1022,Customer_22,Central,Electronics,Tablets,Online,Enterprise,6,497.48,2984.88,0,0.0,20.32,2984.88,1770.61
+2023-02-02 04:25:29.458917835,2023,2,February,1,Thursday,ORD-1023,Customer_23,West,Sports,Equipment,Retail,Enterprise,3,38.31,114.93,10,11.49,47.32,103.44,10.15
+2023-02-03 15:32:06.252505010,2023,2,February,1,Friday,ORD-1024,Customer_24,North,Home & Garden,Kitchen,Wholesale,SMB,9,350.57,3155.13,15,473.27,8.72,2681.86,1411.09
+2023-02-05 02:38:43.046092184,2023,2,February,1,Sunday,ORD-1025,Customer_25,North,Beauty,Skincare,Wholesale,Enterprise,10,492.0,4920.0,0,0.0,46.89,4920.0,2905.11
+2023-02-06 13:45:19.839679358,2023,2,February,1,Monday,ORD-1026,Customer_26,East,Sports,Accessories,Online,Individual,14,127.2,1780.8,15,267.12,42.2,1513.68,759.16
+2023-02-08 00:51:56.633266533,2023,2,February,1,Wednesday,ORD-1027,Customer_27,East,Beauty,Haircare,Retail,Enterprise,11,79.7,876.7,10,87.67,10.85,789.03,427.5
+2023-02-09 11:58:33.426853707,2023,2,February,1,Thursday,ORD-1028,Customer_28,South,Electronics,Tablets,Online,Individual,18,69.48,1250.64,15,187.6,30.42,1063.04,532.36
+2023-02-10 23:05:10.220440881,2023,2,February,1,Friday,ORD-1029,Customer_29,West,Beauty,Fragrance,Online,Individual,12,158.6,1903.2,20,380.64,43.99,1522.56,717.29
+2023-02-12 10:11:47.014028056,2023,2,February,1,Sunday,ORD-1030,Customer_30,West,Beauty,Skincare,Retail,Individual,12,59.51,714.12,20,142.82,30.73,571.3,254.92
+2023-02-13 21:18:23.807615230,2023,2,February,1,Monday,ORD-1031,Customer_31,East,Clothing,Kids,Retail,Retail,13,349.16,4539.08,15,680.86,45.82,3858.22,1996.77
+2023-02-15 08:25:00.601202404,2023,2,February,1,Wednesday,ORD-1032,Customer_32,West,Clothing,Men,Direct,Enterprise,13,40.52,526.76,0,0.0,47.43,526.76,268.63
+2023-02-16 19:31:37.394789579,2023,2,February,1,Thursday,ORD-1033,Customer_33,West,Clothing,Kids,Retail,SMB,19,259.62,4932.78,0,0.0,24.01,4932.78,2935.66
+2023-02-18 06:38:14.188376753,2023,2,February,1,Saturday,ORD-1034,Customer_34,North,Beauty,Makeup,Wholesale,SMB,19,498.38,9469.22,0,0.0,21.98,9469.22,5659.55
+2023-02-19 17:44:50.981963927,2023,2,February,1,Sunday,ORD-1035,Customer_35,East,Home & Garden,Kitchen,Online,Enterprise,14,408.85,5723.9,15,858.58,47.13,4865.32,2528.63
+2023-02-21 04:51:27.775551102,2023,2,February,1,Tuesday,ORD-1036,Customer_36,Central,Beauty,Fragrance,Online,Retail,4,311.46,1245.84,0,0.0,35.38,1245.84,712.12
+2023-02-22 15:58:04.569138276,2023,2,February,1,Wednesday,ORD-1037,Customer_37,East,Home & Garden,Outdoor,Wholesale,Retail,13,160.06,2080.78,10,208.08,10.22,1872.7,1030.17
+2023-02-24 03:04:41.362725451,2023,2,February,1,Friday,ORD-1038,Customer_38,Central,Home & Garden,Furniture,Retail,Individual,8,315.71,2525.68,20,505.14,6.9,2020.54,1003.37
+2023-02-25 14:11:18.156312625,2023,2,February,1,Saturday,ORD-1039,Customer_39,North,Clothing,Kids,Wholesale,Enterprise,19,268.25,5096.75,10,509.68,30.41,4587.07,2517.96
+2023-02-27 01:17:54.949899799,2023,2,February,1,Monday,ORD-1040,Customer_40,South,Sports,Equipment,Wholesale,Enterprise,12,218.78,2625.36,0,0.0,46.86,2625.36,1528.36
+2023-02-28 12:24:31.743486974,2023,2,February,1,Tuesday,ORD-1041,Customer_41,West,Electronics,Laptops,Direct,SMB,18,74.05,1332.9,10,133.29,42.99,1199.61,623.46
+2023-03-01 23:31:08.537074148,2023,3,March,1,Wednesday,ORD-1042,Customer_42,North,Clothing,Women,Wholesale,Enterprise,6,444.44,2666.64,0,0.0,35.41,2666.64,1564.57
+2023-03-03 10:37:45.330661322,2023,3,March,1,Friday,ORD-1043,Customer_43,West,Clothing,Women,Online,Retail,18,230.39,4147.02,15,622.05,11.26,3524.97,1854.9
+2023-03-04 21:44:22.124248497,2023,3,March,1,Saturday,ORD-1044,Customer_44,South,Sports,Accessories,Wholesale,Enterprise,19,105.37,2002.03,10,200.2,16.44,1801.83,984.58
+2023-03-06 08:50:58.917835671,2023,3,March,1,Monday,ORD-1045,Customer_45,South,Electronics,Laptops,Online,SMB,5,190.2,951.0,15,142.65,44.4,808.35,383.55
+2023-03-07 19:57:35.711422845,2023,3,March,1,Tuesday,ORD-1046,Customer_46,North,Beauty,Fragrance,Online,Individual,9,212.92,1916.28,15,287.44,13.23,1628.84,849.1
+2023-03-09 07:04:12.505010020,2023,3,March,1,Thursday,ORD-1047,Customer_47,South,Beauty,Haircare,Online,SMB,3,415.49,1246.47,5,62.32,17.53,1184.15,668.03
+2023-03-10 18:10:49.298597194,2023,3,March,1,Friday,ORD-1048,Customer_48,Central,Clothing,Men,Retail,SMB,10,369.47,3694.7,0,0.0,10.83,3694.7,2205.99
+2023-03-12 05:17:26.092184368,2023,3,March,1,Sunday,ORD-1049,Customer_49,South,Electronics,Laptops,Direct,Individual,19,386.96,7352.24,20,1470.45,35.42,5881.79,2905.47
+2023-03-13 16:24:02.885771543,2023,3,March,1,Monday,ORD-1050,Customer_50,West,Clothing,Kids,Online,SMB,3,15.41,46.23,0,0.0,47.48,46.23,-19.74
+2023-03-15 03:30:39.679358717,2023,3,March,1,Wednesday,ORD-1051,Customer_51,West,Home & Garden,Kitchen,Online,SMB,15,213.92,3208.8,20,641.76,17.1,2567.04,1266.42
+2023-03-16 14:37:16.472945892,2023,3,March,1,Thursday,ORD-1052,Customer_52,West,Clothing,Accessories,Retail,Enterprise,1,245.86,245.86,0,0.0,26.39,245.86,121.13
+2023-03-18 01:43:53.266533066,2023,3,March,1,Saturday,ORD-1053,Customer_53,West,Clothing,Accessories,Online,Enterprise,7,19.4,135.8,15,20.37,33.55,115.43,27.56
+2023-03-19 12:50:30.060120240,2023,3,March,1,Sunday,ORD-1054,Customer_54,Central,Beauty,Haircare,Wholesale,Individual,12,137.31,1647.72,10,164.77,49.98,1482.95,773.88
+2023-03-20 23:57:06.853707415,2023,3,March,1,Monday,ORD-1055,Customer_55,East,Beauty,Fragrance,Wholesale,Enterprise,17,382.54,6503.18,10,650.32,9.72,5852.86,3241.87
+2023-03-22 11:03:43.647294589,2023,3,March,1,Wednesday,ORD-1056,Customer_56,North,Beauty,Haircare,Direct,Enterprise,5,77.18,385.9,5,19.3,27.44,366.6,184.8
+2023-03-23 22:10:20.440881763,2023,3,March,1,Thursday,ORD-1057,Customer_57,West,Home & Garden,Furniture,Online,SMB,4,272.3,1089.2,20,217.84,22.33,871.36,413.35
+2023-03-25 09:16:57.234468938,2023,3,March,1,Saturday,ORD-1058,Customer_58,South,Beauty,Skincare,Retail,Retail,12,115.45,1385.4,20,277.08,43.96,1108.32,510.2
+2023-03-26 20:23:34.028056112,2023,3,March,1,Sunday,ORD-1059,Customer_59,West,Electronics,Phones,Wholesale,Enterprise,18,15.94,286.92,20,57.38,26.42,229.54,88.35
+2023-03-28 07:30:10.821643286,2023,3,March,1,Tuesday,ORD-1060,Customer_60,South,Sports,Equipment,Retail,Retail,17,128.19,2179.23,15,326.88,9.99,1852.35,970.67
+2023-03-29 18:36:47.615230461,2023,3,March,1,Wednesday,ORD-1061,Customer_61,South,Electronics,Tablets,Retail,Enterprise,19,488.18,9275.42,20,1855.08,33.55,7420.34,3676.62
+2023-03-31 05:43:24.408817635,2023,3,March,1,Friday,ORD-1062,Customer_62,West,Electronics,Accessories,Wholesale,Enterprise,9,402.75,3624.75,10,362.48,39.69,3262.27,1772.68
+2023-04-01 16:50:01.202404809,2023,4,April,2,Saturday,ORD-1063,Customer_63,Central,Beauty,Makeup,Retail,Individual,4,480.19,1920.76,15,288.11,5.13,1632.65,859.22
+2023-04-03 03:56:37.995991984,2023,4,April,2,Monday,ORD-1064,Customer_64,South,Sports,Accessories,Wholesale,Individual,2,249.05,498.1,0,0.0,43.65,498.1,255.21
+2023-04-04 15:03:14.789579158,2023,4,April,2,Tuesday,ORD-1065,Customer_65,South,Sports,Footwear,Retail,Individual,4,63.77,255.08,20,51.02,13.37,204.06,88.66
+2023-04-06 02:09:51.583166332,2023,4,April,2,Thursday,ORD-1066,Customer_66,West,Sports,Equipment,Wholesale,Retail,2,278.5,557.0,20,111.4,29.84,445.6,192.96
+2023-04-07 13:16:28.376753507,2023,4,April,2,Friday,ORD-1067,Customer_67,South,Home & Garden,Decor,Online,SMB,15,232.64,3489.6,0,0.0,23.71,3489.6,2070.05
+2023-04-09 00:23:05.170340681,2023,4,April,2,Sunday,ORD-1068,Customer_68,South,Beauty,Haircare,Direct,Enterprise,2,423.73,847.46,20,169.49,37.38,677.97,301.61
+2023-04-10 11:29:41.963927855,2023,4,April,2,Monday,ORD-1069,Customer_69,West,Sports,Apparel,Wholesale,Enterprise,4,58.06,232.24,0,0.0,21.7,232.24,117.64
+2023-04-11 22:36:18.757515030,2023,4,April,2,Tuesday,ORD-1070,Customer_70,West,Home & Garden,Decor,Wholesale,Enterprise,6,249.24,1495.44,15,224.32,44.14,1271.12,628.8
+2023-04-13 09:42:55.551102204,2023,4,April,2,Thursday,ORD-1071,Customer_71,North,Clothing,Men,Direct,Retail,7,83.52,584.64,10,58.46,37.87,526.18,254.45
+2023-04-14 20:49:32.344689378,2023,4,April,2,Friday,ORD-1072,Customer_72,Central,Clothing,Kids,Wholesale,Individual,10,169.09,1690.9,0,0.0,34.15,1690.9,980.39
+2023-04-16 07:56:09.138276552,2023,4,April,2,Sunday,ORD-1073,Customer_73,Central,Home & Garden,Outdoor,Wholesale,SMB,19,371.3,7054.7,5,352.74,40.83,6701.96,3839.25
+2023-04-17 19:02:45.931863728,2023,4,April,2,Monday,ORD-1074,Customer_74,South,Home & Garden,Decor,Retail,Retail,19,243.25,4621.75,0,0.0,38.93,4621.75,2734.12
+2023-04-19 06:09:22.725450902,2023,4,April,2,Wednesday,ORD-1075,Customer_75,Central,Beauty,Makeup,Direct,Individual,12,194.19,2330.28,20,466.06,6.62,1864.22,925.49
+2023-04-20 17:15:59.519038076,2023,4,April,2,Thursday,ORD-1076,Customer_76,South,Beauty,Fragrance,Online,Retail,3,203.29,609.87,15,91.48,22.76,518.39,251.68
+2023-04-22 04:22:36.312625250,2023,4,April,2,Saturday,ORD-1077,Customer_77,North,Clothing,Kids,Wholesale,SMB,13,235.13,3056.69,15,458.5,46.89,2598.19,1328.62
+2023-04-23 15:29:13.106212424,2023,4,April,2,Sunday,ORD-1078,Customer_78,West,Sports,Apparel,Direct,Individual,18,394.66,7103.88,0,0.0,10.66,7103.88,4251.67
+2023-04-25 02:35:49.899799598,2023,4,April,2,Tuesday,ORD-1079,Customer_79,West,Clothing,Women,Retail,Retail,8,447.12,3576.96,10,357.7,38.17,3219.26,1750.31
+2023-04-26 13:42:26.693386774,2023,4,April,2,Wednesday,ORD-1080,Customer_80,West,Sports,Apparel,Online,SMB,15,478.11,7171.65,5,358.58,48.86,6813.07,3895.55
+2023-04-28 00:49:03.486973948,2023,4,April,2,Friday,ORD-1081,Customer_81,Central,Sports,Footwear,Direct,Enterprise,1,395.58,395.58,15,59.34,7.35,336.24,170.66
+2023-04-29 11:55:40.280561122,2023,4,April,2,Saturday,ORD-1082,Customer_82,North,Beauty,Haircare,Online,SMB,3,164.55,493.65,20,98.73,35.7,394.92,161.76
+2023-04-30 23:02:17.074148296,2023,4,April,2,Sunday,ORD-1083,Customer_83,Central,Electronics,Accessories,Online,Enterprise,8,347.19,2777.52,20,555.5,26.07,2222.02,1084.94
+2023-05-02 10:08:53.867735470,2023,5,May,2,Tuesday,ORD-1084,Customer_84,Central,Electronics,Tablets,Online,Retail,4,224.43,897.72,10,89.77,31.06,807.95,417.8
+2023-05-03 21:15:30.661322644,2023,5,May,2,Wednesday,ORD-1085,Customer_85,North,Home & Garden,Kitchen,Wholesale,Individual,16,134.79,2156.64,15,323.5,8.84,1833.14,961.64
+2023-05-05 08:22:07.454909820,2023,5,May,2,Friday,ORD-1086,Customer_86,North,Beauty,Skincare,Wholesale,Individual,10,422.03,4220.3,0,0.0,6.94,4220.3,2525.24
+2023-05-06 19:28:44.248496994,2023,5,May,2,Saturday,ORD-1087,Customer_87,North,Sports,Accessories,Retail,Retail,12,28.83,345.96,20,69.19,35.01,276.77,103.38
+2023-05-08 06:35:21.042084168,2023,5,May,2,Monday,ORD-1088,Customer_88,North,Electronics,Phones,Retail,Individual,14,451.86,6326.04,10,632.6,42.05,5693.44,3120.97
+2023-05-09 17:41:57.835671342,2023,5,May,2,Tuesday,ORD-1089,Customer_89,West,Sports,Footwear,Direct,Individual,14,236.12,3305.68,15,495.85,40.19,2809.83,1447.37
+2023-05-11 04:48:34.629258516,2023,5,May,2,Thursday,ORD-1090,Customer_90,East,Electronics,Phones,Retail,Enterprise,2,322.23,644.46,15,96.67,29.47,547.79,260.54
+2023-05-12 15:55:11.422845690,2023,5,May,2,Friday,ORD-1091,Customer_91,East,Electronics,Phones,Online,Retail,5,333.08,1665.4,15,249.81,9.49,1415.59,739.94
+2023-05-14 03:01:48.216432866,2023,5,May,2,Sunday,ORD-1092,Customer_92,North,Electronics,Laptops,Online,SMB,5,448.61,2243.05,15,336.46,35.96,1906.59,973.41
+2023-05-15 14:08:25.010020040,2023,5,May,2,Monday,ORD-1093,Customer_93,East,Beauty,Haircare,Wholesale,Enterprise,6,321.97,1931.82,15,289.77,15.88,1642.05,853.44
+2023-05-17 01:15:01.803607214,2023,5,May,2,Wednesday,ORD-1094,Customer_94,East,Clothing,Accessories,Online,Retail,13,310.83,4040.79,20,808.16,46.0,3232.63,1570.31
+2023-05-18 12:21:38.597194388,2023,5,May,2,Thursday,ORD-1095,Customer_95,North,Sports,Footwear,Direct,Enterprise,9,42.66,383.94,10,38.39,42.72,345.55,149.25
+2023-05-19 23:28:15.390781562,2023,5,May,2,Friday,ORD-1096,Customer_96,East,Beauty,Makeup,Online,SMB,15,264.02,3960.3,15,594.04,36.92,3366.26,1745.22
+2023-05-21 10:34:52.184368736,2023,5,May,2,Sunday,ORD-1097,Customer_97,Central,Beauty,Fragrance,Online,SMB,14,83.58,1170.12,5,58.51,47.7,1111.61,595.86
+2023-05-22 21:41:28.977955912,2023,5,May,2,Monday,ORD-1098,Customer_98,South,Beauty,Haircare,Direct,Retail,7,371.34,2599.38,5,129.97,6.41,2469.41,1423.25
+2023-05-24 08:48:05.771543086,2023,5,May,2,Wednesday,ORD-1099,Customer_99,South,Beauty,Makeup,Retail,SMB,2,260.99,521.98,10,52.2,38.13,469.78,222.86
+2023-05-25 19:54:42.565130260,2023,5,May,2,Thursday,ORD-1100,Customer_100,North,Beauty,Makeup,Retail,Enterprise,7,343.31,2403.17,0,0.0,19.86,2403.17,1422.04
+2023-05-27 07:01:19.358717434,2023,5,May,2,Saturday,ORD-1101,Customer_101,West,Home & Garden,Furniture,Direct,SMB,6,30.42,182.52,0,0.0,45.77,182.52,63.74
+2023-05-28 18:07:56.152304608,2023,5,May,2,Sunday,ORD-1102,Customer_102,North,Sports,Equipment,Wholesale,Enterprise,17,51.55,876.35,0,0.0,17.0,876.35,508.81
+2023-05-30 05:14:32.945891784,2023,5,May,2,Tuesday,ORD-1103,Customer_103,West,Beauty,Skincare,Online,Enterprise,2,361.0,722.0,5,36.1,37.62,685.9,359.48
+2023-05-31 16:21:09.739478958,2023,5,May,2,Wednesday,ORD-1104,Customer_104,South,Sports,Apparel,Direct,SMB,3,45.32,135.96,0,0.0,44.49,135.96,37.09
+2023-06-02 03:27:46.533066132,2023,6,June,2,Friday,ORD-1105,Customer_105,North,Home & Garden,Kitchen,Online,Retail,5,44.92,224.6,20,44.92,6.87,179.68,82.97
+2023-06-03 14:34:23.326653306,2023,6,June,2,Saturday,ORD-1106,Customer_106,Central,Home & Garden,Furniture,Wholesale,Individual,5,15.93,79.65,15,11.95,22.89,67.7,12.95
+2023-06-05 01:41:00.120240480,2023,6,June,2,Monday,ORD-1107,Customer_107,East,Sports,Footwear,Online,SMB,1,478.69,478.69,5,23.93,39.3,454.76,223.98
+2023-06-06 12:47:36.913827654,2023,6,June,2,Tuesday,ORD-1108,Customer_108,West,Electronics,Laptops,Direct,Enterprise,8,371.38,2971.04,10,297.1,25.47,2673.94,1460.05
+2023-06-07 23:54:13.707414830,2023,6,June,2,Wednesday,ORD-1109,Customer_109,East,Clothing,Accessories,Online,Enterprise,12,183.09,2197.08,10,219.71,17.03,1977.37,1081.51
+2023-06-09 11:00:50.501002004,2023,6,June,2,Friday,ORD-1110,Customer_110,East,Electronics,Accessories,Retail,SMB,4,155.3,621.2,15,93.18,14.89,528.02,264.65
+2023-06-10 22:07:27.294589178,2023,6,June,2,Saturday,ORD-1111,Customer_111,North,Electronics,Laptops,Wholesale,Retail,13,181.35,2357.55,5,117.88,10.92,2239.67,1285.73
+2023-06-12 09:14:04.088176352,2023,6,June,2,Monday,ORD-1112,Customer_112,East,Electronics,Phones,Wholesale,Retail,15,389.58,5843.7,0,0.0,43.57,5843.7,3462.65
+2023-06-13 20:20:40.881763526,2023,6,June,2,Tuesday,ORD-1113,Customer_113,Central,Beauty,Skincare,Wholesale,Enterprise,11,334.07,3674.77,0,0.0,30.89,3674.77,2173.97
+2023-06-15 07:27:17.675350700,2023,6,June,2,Thursday,ORD-1114,Customer_114,East,Home & Garden,Furniture,Direct,Enterprise,10,100.75,1007.5,20,201.5,8.44,806.0,394.56
+2023-06-16 18:33:54.468937876,2023,6,June,2,Friday,ORD-1115,Customer_115,North,Electronics,Phones,Wholesale,Retail,3,95.31,285.93,20,57.19,22.22,228.74,92.15
+2023-06-18 05:40:31.262525050,2023,6,June,2,Sunday,ORD-1116,Customer_116,Central,Home & Garden,Outdoor,Retail,Individual,14,58.21,814.94,0,0.0,21.55,814.94,467.41
+2023-06-19 16:47:08.056112224,2023,6,June,2,Monday,ORD-1117,Customer_117,South,Sports,Footwear,Direct,SMB,16,333.55,5336.8,10,533.68,13.18,4803.12,2655.22
+2023-06-21 03:53:44.849699398,2023,6,June,2,Wednesday,ORD-1118,Customer_118,East,Clothing,Men,Retail,Enterprise,10,384.54,3845.4,10,384.54,24.6,3460.86,1898.1
+2023-06-22 15:00:21.643286572,2023,6,June,2,Thursday,ORD-1119,Customer_119,North,Sports,Apparel,Online,Enterprise,10,139.87,1398.7,20,279.74,19.94,1118.96,539.54
+2023-06-24 02:06:58.436873746,2023,6,June,2,Saturday,ORD-1120,Customer_120,South,Sports,Equipment,Online,Retail,12,20.26,243.12,15,36.47,20.38,206.65,89.02
+2023-06-25 13:13:35.230460922,2023,6,June,2,Sunday,ORD-1121,Customer_121,South,Beauty,Makeup,Online,SMB,9,50.26,452.34,0,0.0,38.26,452.34,233.14
+2023-06-27 00:20:12.024048096,2023,6,June,2,Tuesday,ORD-1122,Customer_122,West,Clothing,Kids,Online,Retail,1,484.25,484.25,20,96.85,15.05,387.4,178.65
+2023-06-28 11:26:48.817635270,2023,6,June,2,Wednesday,ORD-1123,Customer_123,Central,Sports,Footwear,Retail,SMB,5,154.77,773.85,20,154.77,33.88,619.08,275.66
+2023-06-29 22:33:25.611222444,2023,6,June,2,Thursday,ORD-1124,Customer_124,East,Sports,Accessories,Direct,SMB,8,386.92,3095.36,0,0.0,30.68,3095.36,1826.54
+2023-07-01 09:40:02.404809618,2023,7,July,3,Saturday,ORD-1125,Customer_125,North,Clothing,Women,Direct,SMB,11,316.09,3476.99,0,0.0,30.56,3476.99,2055.63
+2023-07-02 20:46:39.198396792,2023,7,July,3,Sunday,ORD-1126,Customer_126,West,Clothing,Women,Wholesale,Enterprise,12,197.15,2365.8,10,236.58,34.84,2129.22,1148.06
+2023-07-04 07:53:15.991983968,2023,7,July,3,Tuesday,ORD-1127,Customer_127,Central,Sports,Accessories,Retail,Individual,1,110.79,110.79,15,16.62,29.68,94.17,20.17
+2023-07-05 18:59:52.785571142,2023,7,July,3,Wednesday,ORD-1128,Customer_128,West,Clothing,Accessories,Online,Retail,11,69.48,764.28,15,114.64,44.57,649.64,299.36
+2023-07-07 06:06:29.579158316,2023,7,July,3,Friday,ORD-1129,Customer_129,Central,Sports,Apparel,Retail,Individual,5,311.36,1556.8,0,0.0,35.4,1556.8,898.68
+2023-07-08 17:13:06.372745490,2023,7,July,3,Saturday,ORD-1130,Customer_130,Central,Sports,Accessories,Wholesale,Retail,15,389.57,5843.55,5,292.18,29.61,5551.37,3184.34
+2023-07-10 04:19:43.166332664,2023,7,July,3,Monday,ORD-1131,Customer_131,East,Beauty,Haircare,Wholesale,SMB,5,325.51,1627.55,20,325.51,42.34,1302.04,608.68
+2023-07-11 15:26:19.959919840,2023,7,July,3,Tuesday,ORD-1132,Customer_132,Central,Electronics,Laptops,Retail,Enterprise,12,269.85,3238.2,20,647.64,32.28,2590.56,1263.0
+2023-07-13 02:32:56.753507014,2023,7,July,3,Thursday,ORD-1133,Customer_133,West,Sports,Footwear,Retail,Individual,5,30.56,152.8,0,0.0,18.1,152.8,73.58
+2023-07-14 13:39:33.547094188,2023,7,July,3,Friday,ORD-1134,Customer_134,Central,Home & Garden,Outdoor,Retail,Enterprise,17,484.56,8237.52,5,411.88,14.32,7825.64,4516.31
+2023-07-16 00:46:10.340681362,2023,7,July,3,Sunday,ORD-1135,Customer_135,East,Electronics,Phones,Direct,Retail,17,401.37,6823.29,10,682.33,11.85,6140.96,3399.79
+2023-07-17 11:52:47.134268536,2023,7,July,3,Monday,ORD-1136,Customer_136,East,Electronics,Phones,Online,Enterprise,12,153.48,1841.76,0,0.0,45.48,1841.76,1059.58
+2023-07-18 22:59:23.927855710,2023,7,July,3,Tuesday,ORD-1137,Customer_137,West,Electronics,Tablets,Retail,Enterprise,15,490.19,7352.85,0,0.0,36.96,7352.85,4374.75
+2023-07-20 10:06:00.721442886,2023,7,July,3,Thursday,ORD-1138,Customer_138,South,Beauty,Makeup,Retail,Individual,15,304.92,4573.8,20,914.76,47.18,3659.04,1782.34
+2023-07-21 21:12:37.515030060,2023,7,July,3,Friday,ORD-1139,Customer_139,South,Sports,Accessories,Retail,SMB,6,295.39,1772.34,0,0.0,32.15,1772.34,1031.25
+2023-07-23 08:19:14.308617234,2023,7,July,3,Sunday,ORD-1140,Customer_140,Central,Beauty,Haircare,Wholesale,Enterprise,12,376.56,4518.72,0,0.0,26.3,4518.72,2684.93
+2023-07-24 19:25:51.102204408,2023,7,July,3,Monday,ORD-1141,Customer_141,North,Sports,Apparel,Wholesale,SMB,18,407.77,7339.86,0,0.0,7.69,7339.86,4396.23
+2023-07-26 06:32:27.895791582,2023,7,July,3,Wednesday,ORD-1142,Customer_142,Central,Beauty,Skincare,Direct,Retail,14,331.67,4643.38,20,928.68,35.22,3714.7,1822.13
+2023-07-27 17:39:04.689378756,2023,7,July,3,Thursday,ORD-1143,Customer_143,West,Beauty,Skincare,Online,Enterprise,2,72.77,145.54,10,14.55,31.2,130.99,41.57
+2023-07-29 04:45:41.482965932,2023,7,July,3,Saturday,ORD-1144,Customer_144,West,Home & Garden,Outdoor,Direct,Individual,9,175.75,1581.75,10,158.18,49.56,1423.57,741.31
+2023-07-30 15:52:18.276553104,2023,7,July,3,Sunday,ORD-1145,Customer_145,West,Beauty,Makeup,Online,Retail,5,464.76,2323.8,0,0.0,15.76,2323.8,1378.52
+2023-08-01 02:58:55.070140280,2023,8,August,3,Tuesday,ORD-1146,Customer_146,West,Clothing,Accessories,Wholesale,Retail,1,120.06,120.06,20,24.01,28.88,96.05,19.15
+2023-08-02 14:05:31.863727456,2023,8,August,3,Wednesday,ORD-1147,Customer_147,West,Home & Garden,Kitchen,Wholesale,Individual,3,192.36,577.08,10,57.71,34.29,519.37,254.25
+2023-08-04 01:12:08.657314628,2023,8,August,3,Friday,ORD-1148,Customer_148,East,Beauty,Skincare,Wholesale,Enterprise,6,221.72,1330.32,10,133.03,34.01,1197.29,631.15
+2023-08-05 12:18:45.450901804,2023,8,August,3,Saturday,ORD-1149,Customer_149,South,Electronics,Tablets,Direct,Enterprise,5,225.31,1126.55,10,112.66,30.26,1013.89,533.01
+2023-08-06 23:25:22.244488976,2023,8,August,3,Sunday,ORD-1150,Customer_150,West,Clothing,Women,Retail,Retail,5,310.34,1551.7,20,310.34,39.96,1241.36,580.72
+2023-08-08 10:31:59.038076152,2023,8,August,3,Tuesday,ORD-1151,Customer_151,North,Clothing,Accessories,Retail,Enterprise,1,472.11,472.11,20,94.42,14.22,377.69,174.63
+2023-08-09 21:38:35.831663324,2023,8,August,3,Wednesday,ORD-1152,Customer_152,North,Clothing,Accessories,Wholesale,SMB,17,127.94,2174.98,0,0.0,37.65,2174.98,1267.34
+2023-08-11 08:45:12.625250500,2023,8,August,3,Friday,ORD-1153,Customer_153,North,Home & Garden,Outdoor,Retail,Individual,19,69.54,1321.26,15,198.19,32.89,1123.07,561.68
+2023-08-12 19:51:49.418837676,2023,8,August,3,Saturday,ORD-1154,Customer_154,North,Beauty,Haircare,Retail,SMB,14,106.76,1494.64,10,149.46,45.32,1345.18,702.0
+2023-08-14 06:58:26.212424848,2023,8,August,3,Monday,ORD-1155,Customer_155,East,Beauty,Skincare,Direct,Enterprise,12,444.59,5335.08,15,800.26,43.12,4534.82,2357.67
+2023-08-15 18:05:03.006012024,2023,8,August,3,Tuesday,ORD-1156,Customer_156,North,Electronics,Tablets,Online,Retail,10,326.45,3264.5,20,652.9,19.18,2611.6,1286.62
+2023-08-17 05:11:39.799599196,2023,8,August,3,Thursday,ORD-1157,Customer_157,West,Electronics,Tablets,Wholesale,Individual,18,150.09,2701.62,20,540.32,17.43,2161.3,1063.22
+2023-08-18 16:18:16.593186372,2023,8,August,3,Friday,ORD-1158,Customer_158,Central,Clothing,Women,Wholesale,Enterprise,11,409.81,4507.91,20,901.58,49.17,3606.33,1754.0
+2023-08-20 03:24:53.386773548,2023,8,August,3,Sunday,ORD-1159,Customer_159,North,Electronics,Phones,Direct,Enterprise,2,432.07,864.14,15,129.62,28.73,734.52,360.13
+2023-08-21 14:31:30.180360720,2023,8,August,3,Monday,ORD-1160,Customer_160,East,Home & Garden,Decor,Direct,Retail,18,424.79,7646.22,20,1529.24,45.79,6116.98,3012.7
+2023-08-23 01:38:06.973947896,2023,8,August,3,Wednesday,ORD-1161,Customer_161,East,Beauty,Skincare,Retail,Retail,7,460.27,3221.89,0,0.0,12.37,3221.89,1920.76
+2023-08-24 12:44:43.767535068,2023,8,August,3,Thursday,ORD-1162,Customer_162,North,Clothing,Men,Wholesale,SMB,15,133.6,2004.0,20,400.8,33.93,1603.2,767.67
+2023-08-25 23:51:20.561122244,2023,8,August,3,Friday,ORD-1163,Customer_163,Central,Electronics,Phones,Online,Individual,11,379.97,4179.67,5,208.98,41.44,3970.69,2257.38
+2023-08-27 10:57:57.354709420,2023,8,August,3,Sunday,ORD-1164,Customer_164,North,Home & Garden,Decor,Direct,Individual,18,235.66,4241.88,15,636.28,47.63,3605.6,1861.22
+2023-08-28 22:04:34.148296592,2023,8,August,3,Monday,ORD-1165,Customer_165,East,Home & Garden,Furniture,Online,Retail,12,422.58,5070.96,5,253.55,20.18,4817.41,2768.85
+2023-08-30 09:11:10.941883768,2023,8,August,3,Wednesday,ORD-1166,Customer_166,South,Electronics,Accessories,Online,SMB,6,366.96,2201.76,20,440.35,37.62,1761.41,843.09
+2023-08-31 20:17:47.735470940,2023,8,August,3,Thursday,ORD-1167,Customer_167,West,Beauty,Skincare,Wholesale,Individual,13,390.46,5075.98,0,0.0,29.25,5075.98,3016.34
+2023-09-02 07:24:24.529058116,2023,9,September,3,Saturday,ORD-1168,Customer_168,East,Electronics,Laptops,Wholesale,Retail,16,331.52,5304.32,10,530.43,7.73,4773.89,2644.43
+2023-09-03 18:31:01.322645288,2023,9,September,3,Sunday,ORD-1169,Customer_169,North,Clothing,Men,Direct,Enterprise,18,96.94,1744.92,20,348.98,36.05,1395.94,661.92
+2023-09-05 05:37:38.116232464,2023,9,September,3,Tuesday,ORD-1170,Customer_170,West,Electronics,Phones,Wholesale,Individual,10,277.06,2770.6,0,0.0,36.05,2770.6,1626.31
+2023-09-06 16:44:14.909819640,2023,9,September,3,Wednesday,ORD-1171,Customer_171,North,Home & Garden,Outdoor,Wholesale,SMB,8,492.49,3939.92,15,590.99,46.88,3348.93,1726.08
+2023-09-08 03:50:51.703406812,2023,9,September,3,Friday,ORD-1172,Customer_172,North,Electronics,Laptops,Wholesale,SMB,18,469.32,8447.76,5,422.39,27.38,8025.37,4618.89
+2023-09-09 14:57:28.496993988,2023,9,September,3,Saturday,ORD-1173,Customer_173,South,Beauty,Makeup,Online,SMB,1,31.16,31.16,5,1.56,15.36,29.6,1.78
+2023-09-11 02:04:05.290581160,2023,9,September,3,Monday,ORD-1174,Customer_174,West,Sports,Footwear,Direct,Enterprise,8,90.76,726.08,5,36.3,7.01,689.78,392.34
+2023-09-12 13:10:42.084168336,2023,9,September,3,Tuesday,ORD-1175,Customer_175,West,Electronics,Tablets,Retail,Individual,6,74.55,447.3,15,67.1,23.7,380.2,177.58
+2023-09-14 00:17:18.877755512,2023,9,September,3,Thursday,ORD-1176,Customer_176,South,Beauty,Skincare,Online,Individual,5,365.73,1828.65,0,0.0,18.59,1828.65,1078.6
+2023-09-15 11:23:55.671342684,2023,9,September,3,Friday,ORD-1177,Customer_177,East,Beauty,Haircare,Wholesale,Enterprise,15,410.71,6160.65,15,924.1,39.25,5236.55,2733.04
+2023-09-16 22:30:32.464929860,2023,9,September,3,Saturday,ORD-1178,Customer_178,North,Home & Garden,Outdoor,Online,Individual,15,114.62,1719.3,5,85.96,20.94,1633.34,924.68
+2023-09-18 09:37:09.258517032,2023,9,September,3,Monday,ORD-1179,Customer_179,Central,Beauty,Haircare,Wholesale,Enterprise,2,257.87,515.74,20,103.15,47.71,412.59,158.58
+2023-09-19 20:43:46.052104208,2023,9,September,3,Tuesday,ORD-1180,Customer_180,North,Beauty,Haircare,Wholesale,Enterprise,1,421.94,421.94,10,42.19,48.3,379.75,162.67
+2023-09-21 07:50:22.845691380,2023,9,September,3,Thursday,ORD-1181,Customer_181,North,Beauty,Fragrance,Online,Enterprise,11,369.07,4059.77,15,608.97,32.94,3450.8,1793.95
+2023-09-22 18:56:59.639278556,2023,9,September,3,Friday,ORD-1182,Customer_182,East,Beauty,Skincare,Direct,SMB,10,275.7,2757.0,15,413.55,46.79,2343.45,1193.86
+2023-09-24 06:03:36.432865732,2023,9,September,3,Sunday,ORD-1183,Customer_183,North,Clothing,Men,Wholesale,Individual,18,299.27,5386.86,0,0.0,39.24,5386.86,3192.88
+2023-09-25 17:10:13.226452904,2023,9,September,3,Monday,ORD-1184,Customer_184,South,Clothing,Accessories,Direct,Enterprise,18,259.1,4663.8,0,0.0,29.61,4663.8,2768.67
+2023-09-27 04:16:50.020040080,2023,9,September,3,Wednesday,ORD-1185,Customer_185,South,Home & Garden,Outdoor,Retail,Individual,17,155.8,2648.6,15,397.29,13.11,2251.31,1178.76
+2023-09-28 15:23:26.813627252,2023,9,September,3,Thursday,ORD-1186,Customer_186,West,Electronics,Accessories,Wholesale,SMB,8,286.86,2294.88,5,114.74,25.64,2180.14,1236.55
+2023-09-30 02:30:03.607214428,2023,9,September,3,Saturday,ORD-1187,Customer_187,Central,Beauty,Haircare,Direct,Enterprise,15,347.55,5213.25,10,521.33,30.24,4691.92,2576.38
+2023-10-01 13:36:40.400801604,2023,10,October,4,Sunday,ORD-1188,Customer_188,North,Electronics,Accessories,Direct,Retail,8,437.93,3503.44,0,0.0,43.88,3503.44,2058.18
+2023-10-03 00:43:17.194388776,2023,10,October,4,Tuesday,ORD-1189,Customer_189,North,Electronics,Phones,Retail,SMB,17,321.78,5470.26,5,273.51,26.66,5196.75,2981.99
+2023-10-04 11:49:53.987975952,2023,10,October,4,Wednesday,ORD-1190,Customer_190,East,Home & Garden,Kitchen,Direct,Retail,12,382.95,4595.4,20,919.08,45.4,3676.32,1792.76
+2023-10-05 22:56:30.781563124,2023,10,October,4,Thursday,ORD-1191,Customer_191,South,Beauty,Skincare,Direct,Individual,8,88.44,707.52,0,0.0,35.35,707.52,389.16
+2023-10-07 10:03:07.575150300,2023,10,October,4,Saturday,ORD-1192,Customer_192,Central,Beauty,Skincare,Retail,Individual,14,236.16,3306.24,5,165.31,11.16,3140.93,1807.27
+2023-10-08 21:09:44.368737472,2023,10,October,4,Sunday,ORD-1193,Customer_193,West,Sports,Equipment,Wholesale,SMB,4,14.57,58.28,5,2.91,49.77,55.37,-17.71
+2023-10-10 08:16:21.162324648,2023,10,October,4,Tuesday,ORD-1194,Customer_194,South,Electronics,Tablets,Direct,Individual,1,130.87,130.87,10,13.09,28.73,117.78,36.7
+2023-10-11 19:22:57.955911824,2023,10,October,4,Wednesday,ORD-1195,Customer_195,West,Electronics,Phones,Direct,Retail,1,365.97,365.97,10,36.6,22.63,329.37,160.35
+2023-10-13 06:29:34.749498996,2023,10,October,4,Friday,ORD-1196,Customer_196,East,Clothing,Accessories,Direct,Enterprise,19,495.99,9423.81,20,1884.76,34.66,7539.05,3734.87
+2023-10-14 17:36:11.543086172,2023,10,October,4,Saturday,ORD-1197,Customer_197,East,Sports,Accessories,Online,Enterprise,16,58.6,937.6,5,46.88,9.9,890.72,505.78
+2023-10-16 04:42:48.336673344,2023,10,October,4,Monday,ORD-1198,Customer_198,North,Clothing,Men,Retail,Enterprise,14,206.73,2894.22,5,144.71,33.64,2749.51,1558.18
+2023-10-17 15:49:25.130260520,2023,10,October,4,Tuesday,ORD-1199,Customer_199,Central,Clothing,Men,Online,SMB,16,402.03,6432.48,10,643.25,27.42,5789.23,3188.82
+2023-10-19 02:56:01.923847696,2023,10,October,4,Thursday,ORD-1200,Customer_200,West,Clothing,Kids,Retail,Individual,5,109.98,549.9,0,0.0,23.3,549.9,306.64
+2023-10-20 14:02:38.717434868,2023,10,October,4,Friday,ORD-1201,Customer_201,South,Home & Garden,Decor,Wholesale,Retail,9,281.99,2537.91,0,0.0,47.89,2537.91,1474.86
+2023-10-22 01:09:15.511022044,2023,10,October,4,Sunday,ORD-1202,Customer_202,East,Home & Garden,Outdoor,Wholesale,Individual,2,369.2,738.4,15,110.76,28.51,627.64,303.77
+2023-10-23 12:15:52.304609216,2023,10,October,4,Monday,ORD-1203,Customer_203,North,Clothing,Kids,Direct,Individual,18,311.83,5612.94,10,561.29,14.86,5051.65,2791.61
+2023-10-24 23:22:29.098196392,2023,10,October,4,Tuesday,ORD-1204,Customer_204,North,Sports,Accessories,Retail,Individual,6,102.13,612.78,15,91.92,25.65,520.86,250.1
+2023-10-26 10:29:05.891783568,2023,10,October,4,Thursday,ORD-1205,Customer_205,West,Electronics,Laptops,Wholesale,Enterprise,9,184.14,1657.26,10,165.73,46.37,1491.53,782.26
+2023-10-27 21:35:42.685370740,2023,10,October,4,Friday,ORD-1206,Customer_206,East,Sports,Accessories,Retail,Retail,1,394.06,394.06,20,78.81,12.92,315.25,144.71
+2023-10-29 08:42:19.478957916,2023,10,October,4,Sunday,ORD-1207,Customer_207,Central,Beauty,Makeup,Wholesale,Retail,9,281.57,2534.13,5,126.71,14.63,2407.42,1379.14
+2023-10-30 19:48:56.272545088,2023,10,October,4,Monday,ORD-1208,Customer_208,East,Home & Garden,Decor,Online,Individual,16,12.56,200.96,20,40.19,5.59,160.77,74.8
+2023-11-01 06:55:33.066132264,2023,11,November,4,Wednesday,ORD-1209,Customer_209,West,Electronics,Laptops,Wholesale,Enterprise,13,382.89,4977.57,10,497.76,5.64,4479.81,2483.14
+2023-11-02 18:02:09.859719436,2023,11,November,4,Thursday,ORD-1210,Customer_210,West,Electronics,Phones,Online,Enterprise,9,27.3,245.7,5,12.28,42.32,233.42,92.82
+2023-11-04 05:08:46.653306612,2023,11,November,4,Saturday,ORD-1211,Customer_211,East,Beauty,Makeup,Wholesale,Retail,13,375.41,4880.33,0,0.0,37.95,4880.33,2890.25
+2023-11-05 16:15:23.446893788,2023,11,November,4,Sunday,ORD-1212,Customer_212,West,Beauty,Haircare,Direct,Enterprise,9,109.22,982.98,0,0.0,20.98,982.98,568.81
+2023-11-07 03:22:00.240480960,2023,11,November,4,Tuesday,ORD-1213,Customer_213,East,Clothing,Accessories,Online,Enterprise,11,479.46,5274.06,15,791.11,36.42,4482.95,2336.91
+2023-11-08 14:28:37.034068136,2023,11,November,4,Wednesday,ORD-1214,Customer_214,South,Home & Garden,Furniture,Wholesale,Enterprise,4,190.29,761.16,10,76.12,22.78,685.04,357.8
+2023-11-10 01:35:13.827655308,2023,11,November,4,Friday,ORD-1215,Customer_215,East,Home & Garden,Furniture,Direct,SMB,2,170.2,340.4,10,34.04,47.88,306.36,122.32
+2023-11-11 12:41:50.621242484,2023,11,November,4,Saturday,ORD-1216,Customer_216,East,Sports,Equipment,Online,Individual,6,82.96,497.76,0,0.0,48.52,497.76,250.14
+2023-11-12 23:48:27.414829660,2023,11,November,4,Sunday,ORD-1217,Customer_217,West,Clothing,Men,Direct,Retail,14,159.75,2236.5,20,447.3,22.68,1789.2,871.92
+2023-11-14 10:55:04.208416832,2023,11,November,4,Tuesday,ORD-1218,Customer_218,West,Clothing,Men,Retail,Retail,4,439.56,1758.24,5,87.91,43.44,1670.33,923.59
+2023-11-15 22:01:41.002004008,2023,11,November,4,Wednesday,ORD-1219,Customer_219,North,Clothing,Women,Retail,SMB,6,498.2,2989.2,20,597.84,39.79,2391.36,1155.89
+2023-11-17 09:08:17.795591180,2023,11,November,4,Friday,ORD-1220,Customer_220,North,Clothing,Kids,Online,Individual,19,190.47,3618.93,20,723.79,18.95,2895.14,1428.62
+2023-11-18 20:14:54.589178356,2023,11,November,4,Saturday,ORD-1221,Customer_221,South,Home & Garden,Furniture,Wholesale,Retail,6,229.82,1378.92,0,0.0,15.44,1378.92,811.91
+2023-11-20 07:21:31.382765528,2023,11,November,4,Monday,ORD-1222,Customer_222,North,Home & Garden,Kitchen,Online,Enterprise,2,363.81,727.62,0,0.0,25.62,727.62,410.95
+2023-11-21 18:28:08.176352704,2023,11,November,4,Tuesday,ORD-1223,Customer_223,East,Clothing,Kids,Direct,Retail,18,444.24,7996.32,0,0.0,40.16,7996.32,4757.63
+2023-11-23 05:34:44.969939880,2023,11,November,4,Thursday,ORD-1224,Customer_224,West,Sports,Apparel,Wholesale,Enterprise,13,300.59,3907.67,15,586.15,48.21,3321.52,1710.24
+2023-11-24 16:41:21.763527052,2023,11,November,4,Friday,ORD-1225,Customer_225,North,Electronics,Laptops,Retail,SMB,9,201.85,1816.65,20,363.33,39.36,1453.32,687.3
+2023-11-26 03:47:58.557114228,2023,11,November,4,Sunday,ORD-1226,Customer_226,North,Electronics,Phones,Wholesale,Enterprise,19,212.18,4031.42,10,403.14,43.48,3628.28,1972.23
+2023-11-27 14:54:35.350701400,2023,11,November,4,Monday,ORD-1227,Customer_227,South,Sports,Equipment,Retail,Retail,13,350.85,4561.05,5,228.05,32.14,4333.0,2476.44
+2023-11-29 02:01:12.144288576,2023,11,November,4,Wednesday,ORD-1228,Customer_228,South,Clothing,Women,Wholesale,Retail,11,11.58,127.38,15,19.11,42.59,108.27,14.73
+2023-11-30 13:07:48.937875752,2023,11,November,4,Thursday,ORD-1229,Customer_229,East,Home & Garden,Kitchen,Wholesale,Retail,1,313.6,313.6,10,31.36,40.3,282.24,116.5
+2023-12-02 00:14:25.731462924,2023,12,December,4,Saturday,ORD-1230,Customer_230,West,Electronics,Laptops,Wholesale,SMB,7,184.19,1289.33,20,257.87,21.96,1031.46,493.77
+2023-12-03 11:21:02.525050100,2023,12,December,4,Sunday,ORD-1231,Customer_231,South,Beauty,Fragrance,Direct,SMB,15,399.16,5987.4,0,0.0,29.84,5987.4,3562.6
+2023-12-04 22:27:39.318637272,2023,12,December,4,Monday,ORD-1232,Customer_232,North,Beauty,Haircare,Direct,Individual,1,55.57,55.57,20,11.11,41.21,44.46,-18.98
+2023-12-06 09:34:16.112224448,2023,12,December,4,Wednesday,ORD-1233,Customer_233,West,Sports,Accessories,Online,Retail,12,298.22,3578.64,5,178.93,7.07,3399.71,1961.18
+2023-12-07 20:40:52.905811624,2023,12,December,4,Thursday,ORD-1234,Customer_234,West,Clothing,Kids,Online,Enterprise,7,245.68,1719.76,15,257.96,41.36,1461.8,732.54
+2023-12-09 07:47:29.699398796,2023,12,December,4,Saturday,ORD-1235,Customer_235,North,Electronics,Phones,Retail,SMB,15,324.74,4871.1,15,730.66,13.0,4140.44,2179.0
+2023-12-10 18:54:06.492985972,2023,12,December,4,Sunday,ORD-1236,Customer_236,South,Clothing,Men,Direct,Retail,19,41.78,793.82,5,39.69,28.16,754.13,408.44
+2023-12-12 06:00:43.286573144,2023,12,December,4,Tuesday,ORD-1237,Customer_237,North,Electronics,Tablets,Retail,Retail,1,294.19,294.19,10,29.42,41.37,264.77,105.72
+2023-12-13 17:07:20.080160320,2023,12,December,4,Wednesday,ORD-1238,Customer_238,West,Sports,Apparel,Online,SMB,17,285.13,4847.21,10,484.72,16.42,4362.49,2407.19
+2023-12-15 04:13:56.873747492,2023,12,December,4,Friday,ORD-1239,Customer_239,Central,Sports,Equipment,Retail,Individual,17,284.72,4840.24,15,726.04,16.06,4114.2,2162.04
+2023-12-16 15:20:33.667334668,2023,12,December,4,Saturday,ORD-1240,Customer_240,Central,Beauty,Skincare,Online,SMB,3,305.71,917.13,15,137.57,23.12,779.56,389.59
+2023-12-18 02:27:10.460921844,2023,12,December,4,Monday,ORD-1241,Customer_241,East,Clothing,Kids,Direct,SMB,12,341.47,4097.64,0,0.0,45.26,4097.64,2413.32
+2023-12-19 13:33:47.254509016,2023,12,December,4,Tuesday,ORD-1242,Customer_242,North,Beauty,Skincare,Wholesale,Enterprise,6,404.44,2426.64,10,242.66,5.02,2183.98,1208.3
+2023-12-21 00:40:24.048096192,2023,12,December,4,Thursday,ORD-1243,Customer_243,North,Clothing,Kids,Direct,Enterprise,11,142.21,1564.31,5,78.22,45.56,1486.09,814.81
+2023-12-22 11:47:00.841683364,2023,12,December,4,Friday,ORD-1244,Customer_244,East,Beauty,Skincare,Retail,Individual,3,414.27,1242.81,10,124.28,11.92,1118.53,609.49
+2023-12-23 22:53:37.635270540,2023,12,December,4,Saturday,ORD-1245,Customer_245,East,Home & Garden,Outdoor,Retail,Retail,8,254.15,2033.2,0,0.0,49.55,2033.2,1170.37
+2023-12-25 10:00:14.428857716,2023,12,December,4,Monday,ORD-1246,Customer_246,East,Home & Garden,Decor,Direct,SMB,14,47.76,668.64,15,100.3,47.97,568.34,252.91
+2023-12-26 21:06:51.222444888,2023,12,December,4,Tuesday,ORD-1247,Customer_247,West,Home & Garden,Outdoor,Direct,Individual,14,38.69,541.66,15,81.25,27.26,460.41,216.49
+2023-12-28 08:13:28.016032064,2023,12,December,4,Thursday,ORD-1248,Customer_248,North,Home & Garden,Kitchen,Online,Enterprise,10,173.78,1737.8,0,0.0,28.07,1737.8,1014.61
+2023-12-29 19:20:04.809619236,2023,12,December,4,Friday,ORD-1249,Customer_249,West,Electronics,Accessories,Retail,SMB,2,394.6,789.2,5,39.46,26.67,749.74,407.39
+2023-12-31 06:26:41.603206412,2023,12,December,4,Sunday,ORD-1250,Customer_250,East,Home & Garden,Kitchen,Retail,Retail,14,356.76,4994.64,15,749.2,33.59,4245.44,2213.99
+2024-01-01 17:33:18.396793584,2024,1,January,1,Monday,ORD-1251,Customer_251,North,Sports,Equipment,Direct,Enterprise,9,396.42,3567.78,20,713.56,9.08,2854.22,1418.03
+2024-01-03 04:39:55.190380760,2024,1,January,1,Wednesday,ORD-1252,Customer_252,West,Sports,Equipment,Wholesale,Enterprise,3,263.46,790.38,15,118.56,6.47,671.82,349.2
+2024-01-04 15:46:31.983967936,2024,1,January,1,Thursday,ORD-1253,Customer_253,West,Electronics,Tablets,Retail,Enterprise,8,225.7,1805.6,20,361.12,7.6,1444.48,714.64
+2024-01-06 02:53:08.777555108,2024,1,January,1,Saturday,ORD-1254,Customer_254,East,Home & Garden,Outdoor,Wholesale,Individual,16,82.25,1316.0,0,0.0,25.0,1316.0,764.6
+2024-01-07 13:59:45.571142284,2024,1,January,1,Sunday,ORD-1255,Customer_255,North,Home & Garden,Furniture,Direct,Retail,2,170.81,341.62,0,0.0,17.4,341.62,187.57
+2024-01-09 01:06:22.364729456,2024,1,January,1,Tuesday,ORD-1256,Customer_256,East,Home & Garden,Decor,Direct,SMB,6,222.67,1336.02,15,200.4,32.99,1135.62,568.22
+2024-01-10 12:12:59.158316632,2024,1,January,1,Wednesday,ORD-1257,Customer_257,North,Beauty,Skincare,Online,Individual,12,53.41,640.92,10,64.09,49.66,576.83,270.8
+2024-01-11 23:19:35.951903808,2024,1,January,1,Thursday,ORD-1258,Customer_258,Central,Clothing,Women,Retail,Individual,5,118.1,590.5,20,118.1,22.38,472.4,213.82
+2024-01-13 10:26:12.745490980,2024,1,January,1,Saturday,ORD-1259,Customer_259,South,Beauty,Fragrance,Wholesale,Individual,2,303.13,606.26,5,30.31,30.82,575.95,302.63
+2024-01-14 21:32:49.539078156,2024,1,January,1,Sunday,ORD-1260,Customer_260,South,Clothing,Women,Online,Enterprise,16,370.47,5927.52,15,889.13,23.7,5038.39,2643.68
+2024-01-16 08:39:26.332665328,2024,1,January,1,Tuesday,ORD-1261,Customer_261,South,Home & Garden,Decor,Retail,Retail,5,499.19,2495.95,5,124.8,43.13,2371.15,1329.64
+2024-01-17 19:46:03.126252504,2024,1,January,1,Wednesday,ORD-1262,Customer_262,East,Home & Garden,Decor,Online,Individual,15,467.23,7008.45,15,1051.27,45.6,5957.18,3108.2
+2024-01-19 06:52:39.919839680,2024,1,January,1,Friday,ORD-1263,Customer_263,Central,Beauty,Makeup,Direct,SMB,12,324.86,3898.32,10,389.83,44.48,3508.49,1904.68
+2024-01-20 17:59:16.713426852,2024,1,January,1,Saturday,ORD-1264,Customer_264,North,Beauty,Skincare,Retail,Retail,4,216.41,865.64,10,86.56,48.85,779.08,383.97
+2024-01-22 05:05:53.507014028,2024,1,January,1,Monday,ORD-1265,Customer_265,West,Clothing,Women,Online,SMB,15,321.73,4825.95,10,482.6,6.24,4343.35,2406.73
+2024-01-23 16:12:30.300601200,2024,1,January,1,Tuesday,ORD-1266,Customer_266,North,Sports,Equipment,Online,Retail,11,394.97,4344.67,10,434.47,42.79,3910.2,2129.54
+2024-01-25 03:19:07.094188376,2024,1,January,1,Thursday,ORD-1267,Customer_267,West,Clothing,Women,Wholesale,SMB,16,67.98,1087.68,0,0.0,38.83,1087.68,613.78
+2024-01-26 14:25:43.887775548,2024,1,January,1,Friday,ORD-1268,Customer_268,North,Beauty,Haircare,Online,Enterprise,6,210.85,1265.1,0,0.0,15.29,1265.1,743.77
+2024-01-28 01:32:20.681362724,2024,1,January,1,Sunday,ORD-1269,Customer_269,Central,Beauty,Fragrance,Retail,Individual,14,421.5,5901.0,20,1180.2,48.03,4720.8,2312.37
+2024-01-29 12:38:57.474949900,2024,1,January,1,Monday,ORD-1270,Customer_270,West,Electronics,Phones,Retail,SMB,18,198.08,3565.44,5,178.27,11.67,3387.17,1949.32
+2024-01-30 23:45:34.268537072,2024,1,January,1,Tuesday,ORD-1271,Customer_271,East,Beauty,Haircare,Wholesale,Retail,12,290.22,3482.64,15,522.4,35.58,2960.24,1531.6
+2024-02-01 10:52:11.062124248,2024,2,February,1,Thursday,ORD-1272,Customer_272,North,Electronics,Phones,Retail,Individual,11,298.01,3278.11,15,491.72,15.12,2786.39,1460.03
+2024-02-02 21:58:47.855711420,2024,2,February,1,Friday,ORD-1273,Customer_273,North,Sports,Apparel,Direct,Individual,13,100.39,1305.07,0,0.0,24.41,1305.07,758.63
+2024-02-04 09:05:24.649298596,2024,2,February,1,Sunday,ORD-1274,Customer_274,West,Clothing,Women,Retail,Retail,11,187.5,2062.5,15,309.38,37.36,1753.12,890.76
+2024-02-05 20:12:01.442885772,2024,2,February,1,Monday,ORD-1275,Customer_275,East,Clothing,Kids,Retail,SMB,16,173.91,2782.56,0,0.0,30.35,2782.56,1639.19
+2024-02-07 07:18:38.236472944,2024,2,February,1,Wednesday,ORD-1276,Customer_276,East,Electronics,Accessories,Online,Enterprise,15,22.84,342.6,20,68.52,24.24,274.08,112.8
+2024-02-08 18:25:15.030060120,2024,2,February,1,Thursday,ORD-1277,Customer_277,Central,Clothing,Kids,Online,Enterprise,15,21.85,327.75,5,16.39,19.69,311.36,160.57
+2024-02-10 05:31:51.823647292,2024,2,February,1,Saturday,ORD-1278,Customer_278,East,Beauty,Fragrance,Retail,SMB,4,417.53,1670.12,20,334.02,42.78,1336.1,625.27
+2024-02-11 16:38:28.617234468,2024,2,February,1,Sunday,ORD-1279,Customer_279,East,Home & Garden,Decor,Wholesale,Individual,11,143.8,1581.8,10,158.18,11.47,1423.62,779.43
+2024-02-13 03:45:05.410821640,2024,2,February,1,Tuesday,ORD-1280,Customer_280,East,Electronics,Laptops,Online,Individual,19,263.86,5013.34,10,501.33,24.35,4512.01,2482.32
+2024-02-14 14:51:42.204408816,2024,2,February,1,Wednesday,ORD-1281,Customer_281,South,Clothing,Women,Wholesale,Individual,15,156.38,2345.7,10,234.57,45.67,2111.13,1127.18
+2024-02-16 01:58:18.997995992,2024,2,February,1,Friday,ORD-1282,Customer_282,Central,Electronics,Accessories,Retail,Individual,4,470.93,1883.72,20,376.74,43.06,1506.98,710.43
+2024-02-17 13:04:55.791583164,2024,2,February,1,Saturday,ORD-1283,Customer_283,North,Electronics,Tablets,Retail,SMB,13,137.06,1781.78,15,267.27,23.04,1514.51,778.76
+2024-02-19 00:11:32.585170340,2024,2,February,1,Monday,ORD-1284,Customer_284,West,Home & Garden,Decor,Direct,Individual,19,220.53,4190.07,5,209.5,39.34,3980.57,2265.2
+2024-02-20 11:18:09.378757512,2024,2,February,1,Tuesday,ORD-1285,Customer_285,North,Beauty,Haircare,Online,Retail,2,437.64,875.28,10,87.53,42.04,787.75,395.6
+2024-02-21 22:24:46.172344688,2024,2,February,1,Wednesday,ORD-1286,Customer_286,Central,Electronics,Tablets,Retail,Individual,14,422.55,5915.7,10,591.57,45.0,5324.13,2912.85
+2024-02-23 09:31:22.965931864,2024,2,February,1,Friday,ORD-1287,Customer_287,West,Clothing,Kids,Direct,Enterprise,4,101.19,404.76,10,40.48,29.5,364.28,172.88
+2024-02-24 20:37:59.759519040,2024,2,February,1,Saturday,ORD-1288,Customer_288,Central,Sports,Apparel,Online,Individual,16,403.3,6452.8,5,322.64,14.2,6130.16,3534.84
+2024-02-26 07:44:36.553106208,2024,2,February,1,Monday,ORD-1289,Customer_289,East,Electronics,Tablets,Retail,SMB,14,234.51,3283.14,10,328.31,16.49,2954.83,1625.08
+2024-02-27 18:51:13.346693384,2024,2,February,1,Tuesday,ORD-1290,Customer_290,West,Electronics,Tablets,Retail,Enterprise,15,246.65,3699.75,5,184.99,18.31,3514.76,2016.55
+2024-02-29 05:57:50.140280560,2024,2,February,1,Thursday,ORD-1291,Customer_291,East,Home & Garden,Decor,Online,SMB,3,75.41,226.23,10,22.62,31.72,203.61,81.4
+2024-03-01 17:04:26.933867736,2024,3,March,1,Friday,ORD-1292,Customer_292,North,Beauty,Haircare,Online,SMB,8,49.49,395.92,20,79.18,6.48,316.74,151.89
+2024-03-03 04:11:03.727454912,2024,3,March,1,Sunday,ORD-1293,Customer_293,North,Sports,Apparel,Online,Enterprise,16,366.69,5867.04,20,1173.41,33.62,4693.63,2313.19
+2024-03-04 15:17:40.521042080,2024,3,March,1,Monday,ORD-1294,Customer_294,West,Clothing,Accessories,Retail,SMB,10,253.27,2532.7,5,126.64,21.4,2406.06,1371.58
+2024-03-06 02:24:17.314629256,2024,3,March,1,Wednesday,ORD-1295,Customer_295,West,Sports,Accessories,Retail,SMB,4,224.06,896.24,20,179.25,18.29,716.99,340.2
+2024-03-07 13:30:54.108216432,2024,3,March,1,Thursday,ORD-1296,Customer_296,Central,Clothing,Accessories,Direct,Individual,18,367.46,6614.28,5,330.71,44.58,6283.57,3593.28
+2024-03-09 00:37:30.901803608,2024,3,March,1,Saturday,ORD-1297,Customer_297,Central,Beauty,Haircare,Wholesale,Retail,2,385.1,770.2,20,154.04,25.7,616.16,282.38
+2024-03-10 11:44:07.695390784,2024,3,March,1,Sunday,ORD-1298,Customer_298,East,Clothing,Men,Online,SMB,17,87.87,1493.79,20,298.76,9.28,1195.03,588.23
+2024-03-11 22:50:44.488977952,2024,3,March,1,Monday,ORD-1299,Customer_299,West,Home & Garden,Furniture,Retail,SMB,13,309.01,4017.13,5,200.86,42.2,3816.27,2167.22
+2024-03-13 09:57:21.282565128,2024,3,March,1,Wednesday,ORD-1300,Customer_300,North,Home & Garden,Kitchen,Retail,SMB,4,76.32,305.28,15,45.79,7.14,259.49,130.24
+2024-03-14 21:03:58.076152304,2024,3,March,1,Thursday,ORD-1301,Customer_301,Central,Home & Garden,Furniture,Online,Individual,11,378.17,4159.87,20,831.97,37.7,3327.9,1626.25
+2024-03-16 08:10:34.869739480,2024,3,March,1,Saturday,ORD-1302,Customer_302,Central,Home & Garden,Decor,Wholesale,Retail,7,331.91,2323.37,10,232.34,39.83,2091.03,1121.85
+2024-03-17 19:17:11.663326648,2024,3,March,1,Sunday,ORD-1303,Customer_303,North,Sports,Equipment,Online,Enterprise,12,478.74,5744.88,15,861.73,20.87,4883.15,2564.33
+2024-03-19 06:23:48.456913824,2024,3,March,1,Tuesday,ORD-1304,Customer_304,Central,Beauty,Haircare,Wholesale,Individual,10,43.79,437.9,5,21.9,42.12,416.0,198.72
+2024-03-20 17:30:25.250501000,2024,3,March,1,Wednesday,ORD-1305,Customer_305,East,Clothing,Kids,Retail,Individual,7,37.96,265.72,15,39.86,28.2,225.86,91.37
+2024-03-22 04:37:02.044088176,2024,3,March,1,Friday,ORD-1306,Customer_306,West,Clothing,Women,Wholesale,Retail,13,148.27,1927.51,0,0.0,25.85,1927.51,1130.66
+2024-03-23 15:43:38.837675352,2024,3,March,1,Saturday,ORD-1307,Customer_307,North,Home & Garden,Outdoor,Direct,Retail,7,138.24,967.68,0,0.0,7.04,967.68,573.57
+2024-03-25 02:50:15.631262520,2024,3,March,1,Monday,ORD-1308,Customer_308,West,Home & Garden,Kitchen,Retail,Individual,17,131.02,2227.34,20,445.47,18.05,1781.87,872.88
+2024-03-26 13:56:52.424849696,2024,3,March,1,Tuesday,ORD-1309,Customer_309,Central,Electronics,Phones,Direct,Enterprise,10,454.06,4540.6,20,908.12,46.9,3632.48,1769.34
+2024-03-28 01:03:29.218436872,2024,3,March,1,Thursday,ORD-1310,Customer_310,Central,Beauty,Skincare,Online,Individual,10,132.28,1322.8,10,132.28,22.63,1190.52,638.77
+2024-03-29 12:10:06.012024048,2024,3,March,1,Friday,ORD-1311,Customer_311,North,Sports,Equipment,Online,Retail,4,143.26,573.04,15,85.96,29.6,487.08,228.26
+2024-03-30 23:16:42.805611224,2024,3,March,1,Saturday,ORD-1312,Customer_312,East,Clothing,Women,Online,Enterprise,4,382.11,1528.44,0,0.0,28.94,1528.44,888.12
+2024-04-01 10:23:19.599198392,2024,4,April,2,Monday,ORD-1313,Customer_313,South,Electronics,Phones,Wholesale,Retail,7,230.37,1612.59,20,322.52,31.57,1290.07,613.46
+2024-04-02 21:29:56.392785568,2024,4,April,2,Tuesday,ORD-1314,Customer_314,North,Electronics,Tablets,Retail,Enterprise,1,390.59,390.59,15,58.59,7.76,332.0,168.0
+2024-04-04 08:36:33.186372744,2024,4,April,2,Thursday,ORD-1315,Customer_315,South,Clothing,Men,Online,SMB,12,42.03,504.36,20,100.87,21.3,403.49,180.45
+2024-04-05 19:43:09.979959920,2024,4,April,2,Friday,ORD-1316,Customer_316,South,Sports,Apparel,Online,Retail,13,248.91,3235.83,20,647.17,37.54,2588.66,1256.79
+2024-04-07 06:49:46.773547096,2024,4,April,2,Sunday,ORD-1317,Customer_317,East,Electronics,Laptops,Retail,Retail,10,26.47,264.7,0,0.0,14.03,264.7,144.79
+2024-04-08 17:56:23.567134264,2024,4,April,2,Monday,ORD-1318,Customer_318,South,Electronics,Phones,Online,Individual,15,40.7,610.5,0,0.0,14.16,610.5,352.14
+2024-04-10 05:03:00.360721440,2024,4,April,2,Wednesday,ORD-1319,Customer_319,South,Beauty,Skincare,Direct,Retail,13,454.15,5903.95,20,1180.79,5.45,4723.16,2356.13
+2024-04-11 16:09:37.154308616,2024,4,April,2,Thursday,ORD-1320,Customer_320,East,Sports,Accessories,Retail,Retail,9,78.23,704.07,5,35.2,24.69,668.87,362.55
+2024-04-13 03:16:13.947895792,2024,4,April,2,Saturday,ORD-1321,Customer_321,South,Electronics,Tablets,Retail,SMB,9,270.89,2438.01,20,487.6,44.72,1950.41,930.49
+2024-04-14 14:22:50.741482968,2024,4,April,2,Sunday,ORD-1322,Customer_322,South,Sports,Equipment,Retail,Retail,15,211.44,3171.6,20,634.32,7.34,2537.28,1261.3
+2024-04-16 01:29:27.535070136,2024,4,April,2,Tuesday,ORD-1323,Customer_323,South,Clothing,Accessories,Direct,SMB,10,180.2,1802.0,10,180.2,13.6,1621.8,887.4
+2024-04-17 12:36:04.328657312,2024,4,April,2,Wednesday,ORD-1324,Customer_324,North,Home & Garden,Furniture,Retail,SMB,10,450.92,4509.2,10,450.92,18.95,4058.28,2235.65
+2024-04-18 23:42:41.122244488,2024,4,April,2,Thursday,ORD-1325,Customer_325,North,Electronics,Laptops,Direct,SMB,8,20.69,165.52,10,16.55,37.93,148.97,44.83
+2024-04-20 10:49:17.915831664,2024,4,April,2,Saturday,ORD-1326,Customer_326,North,Beauty,Fragrance,Retail,SMB,16,335.26,5364.16,5,268.21,33.83,5095.95,2916.46
+2024-04-21 21:55:54.709418840,2024,4,April,2,Sunday,ORD-1327,Customer_327,East,Clothing,Men,Wholesale,Enterprise,17,482.06,8195.02,5,409.75,23.72,7785.27,4483.54
+2024-04-23 09:02:31.503006008,2024,4,April,2,Tuesday,ORD-1328,Customer_328,Central,Sports,Equipment,Online,Individual,5,284.48,1422.4,20,284.48,39.16,1137.92,529.8
+2024-04-24 20:09:08.296593184,2024,4,April,2,Wednesday,ORD-1329,Customer_329,South,Clothing,Kids,Wholesale,Enterprise,4,469.04,1876.16,10,187.62,32.43,1688.54,905.65
+2024-04-26 07:15:45.090180360,2024,4,April,2,Friday,ORD-1330,Customer_330,South,Electronics,Accessories,Online,Retail,18,35.61,640.98,5,32.05,45.32,608.93,307.22
+2024-04-27 18:22:21.883767536,2024,4,April,2,Saturday,ORD-1331,Customer_331,East,Sports,Accessories,Direct,Enterprise,19,215.21,4088.99,0,0.0,41.81,4088.99,2411.58
+2024-04-29 05:28:58.677354704,2024,4,April,2,Monday,ORD-1332,Customer_332,South,Home & Garden,Decor,Wholesale,Enterprise,4,137.48,549.92,20,109.98,16.38,439.94,203.59
+2024-04-30 16:35:35.470941880,2024,4,April,2,Tuesday,ORD-1333,Customer_333,North,Clothing,Men,Retail,Retail,7,368.1,2576.7,15,386.5,17.21,2190.2,1142.31
+2024-05-02 03:42:12.264529056,2024,5,May,2,Thursday,ORD-1334,Customer_334,Central,Electronics,Tablets,Online,Retail,10,490.84,4908.4,20,981.68,10.64,3926.72,1952.72
+2024-05-03 14:48:49.058116232,2024,5,May,2,Friday,ORD-1335,Customer_335,West,Beauty,Skincare,Online,Retail,18,135.7,2442.6,15,366.39,20.16,2076.21,1079.01
+2024-05-05 01:55:25.851703408,2024,5,May,2,Sunday,ORD-1336,Customer_336,South,Sports,Equipment,Wholesale,Enterprise,19,330.55,6280.45,10,628.04,49.98,5652.41,3090.25
+2024-05-06 13:02:02.645290576,2024,5,May,2,Monday,ORD-1337,Customer_337,North,Clothing,Women,Direct,Enterprise,4,107.07,428.28,15,64.24,23.26,364.04,169.47
+2024-05-08 00:08:39.438877752,2024,5,May,2,Wednesday,ORD-1338,Customer_338,West,Clothing,Men,Wholesale,Retail,10,287.01,2870.1,10,287.01,14.92,2583.09,1420.13
+2024-05-09 11:15:16.232464928,2024,5,May,2,Thursday,ORD-1339,Customer_339,Central,Home & Garden,Kitchen,Direct,Individual,1,237.33,237.33,0,0.0,39.31,237.33,103.09
+2024-05-10 22:21:53.026052104,2024,5,May,2,Friday,ORD-1340,Customer_340,West,Home & Garden,Kitchen,Direct,Individual,18,486.28,8753.04,15,1312.96,29.41,7440.08,3909.45
+2024-05-12 09:28:29.819639280,2024,5,May,2,Sunday,ORD-1341,Customer_341,North,Beauty,Makeup,Online,SMB,5,308.18,1540.9,20,308.18,11.73,1232.72,604.63
+2024-05-13 20:35:06.613226448,2024,5,May,2,Monday,ORD-1342,Customer_342,West,Beauty,Skincare,Wholesale,Retail,15,181.26,2718.9,10,271.89,22.13,2447.01,1337.32
+2024-05-15 07:41:43.406813624,2024,5,May,2,Wednesday,ORD-1343,Customer_343,East,Electronics,Tablets,Wholesale,SMB,17,65.91,1120.47,20,224.09,23.65,896.38,424.54
+2024-05-16 18:48:20.200400800,2024,5,May,2,Thursday,ORD-1344,Customer_344,West,Electronics,Laptops,Direct,Individual,3,84.11,252.33,5,12.62,38.92,239.71,99.86
+2024-05-18 05:54:56.993987976,2024,5,May,2,Saturday,ORD-1345,Customer_345,South,Beauty,Skincare,Wholesale,SMB,12,120.41,1444.92,10,144.49,5.93,1300.43,716.53
+2024-05-19 17:01:33.787575152,2024,5,May,2,Sunday,ORD-1346,Customer_346,South,Beauty,Skincare,Retail,Retail,2,132.97,265.94,15,39.89,17.11,226.05,102.56
+2024-05-21 04:08:10.581162320,2024,5,May,2,Tuesday,ORD-1347,Customer_347,East,Sports,Apparel,Retail,Retail,1,426.8,426.8,10,42.68,28.29,384.12,185.11
+2024-05-22 15:14:47.374749496,2024,5,May,2,Wednesday,ORD-1348,Customer_348,North,Home & Garden,Furniture,Wholesale,Retail,17,285.0,4845.0,20,969.0,17.1,3876.0,1920.9
+2024-05-24 02:21:24.168336672,2024,5,May,2,Friday,ORD-1349,Customer_349,South,Electronics,Tablets,Wholesale,Enterprise,16,266.46,4263.36,0,0.0,33.28,4263.36,2524.74
+2024-05-25 13:28:00.961923848,2024,5,May,2,Saturday,ORD-1350,Customer_350,Central,Home & Garden,Furniture,Direct,SMB,5,66.24,331.2,10,33.12,26.68,298.08,138.92
+2024-05-27 00:34:37.755511024,2024,5,May,2,Monday,ORD-1351,Customer_351,South,Home & Garden,Kitchen,Retail,Individual,15,431.47,6472.05,15,970.81,21.28,5501.24,2891.14
+2024-05-28 11:41:14.549098192,2024,5,May,2,Tuesday,ORD-1352,Customer_352,South,Beauty,Skincare,Retail,Individual,3,364.18,1092.54,5,54.63,47.71,1037.91,553.18
+2024-05-29 22:47:51.342685368,2024,5,May,2,Wednesday,ORD-1353,Customer_353,North,Sports,Footwear,Online,Individual,7,43.16,302.12,0,0.0,33.45,302.12,147.82
+2024-05-31 09:54:28.136272544,2024,5,May,2,Friday,ORD-1354,Customer_354,West,Clothing,Kids,Direct,Enterprise,11,356.84,3925.24,5,196.26,10.85,3728.98,2148.03
+2024-06-01 21:01:04.929859720,2024,6,June,2,Saturday,ORD-1355,Customer_355,South,Sports,Equipment,Online,Enterprise,10,276.33,2763.3,10,276.33,30.2,2486.97,1351.45
+2024-06-03 08:07:41.723446896,2024,6,June,2,Monday,ORD-1356,Customer_356,East,Sports,Equipment,Retail,Retail,9,50.05,450.45,20,90.09,40.13,360.36,140.05
+2024-06-04 19:14:18.517034064,2024,6,June,2,Tuesday,ORD-1357,Customer_357,West,Home & Garden,Kitchen,Direct,Individual,14,234.57,3283.98,20,656.8,36.88,2627.18,1276.71
+2024-06-06 06:20:55.310621240,2024,6,June,2,Thursday,ORD-1358,Customer_358,Central,Sports,Accessories,Wholesale,Enterprise,13,247.5,3217.5,15,482.62,12.74,2734.88,1435.14
+2024-06-07 17:27:32.104208416,2024,6,June,2,Friday,ORD-1359,Customer_359,North,Electronics,Phones,Direct,Retail,2,91.23,182.46,20,36.49,48.76,145.97,24.23
+2024-06-09 04:34:08.897795592,2024,6,June,2,Sunday,ORD-1360,Customer_360,Central,Home & Garden,Outdoor,Wholesale,Individual,3,473.39,1420.17,0,0.0,25.2,1420.17,826.9
+2024-06-10 15:40:45.691382760,2024,6,June,2,Monday,ORD-1361,Customer_361,West,Electronics,Accessories,Wholesale,SMB,7,426.49,2985.43,20,597.09,12.16,2388.34,1182.01
+2024-06-12 02:47:22.484969936,2024,6,June,2,Wednesday,ORD-1362,Customer_362,West,Clothing,Men,Direct,Retail,18,337.82,6080.76,15,912.11,13.11,5168.65,2723.24
+2024-06-13 13:53:59.278557112,2024,6,June,2,Thursday,ORD-1363,Customer_363,West,Home & Garden,Decor,Wholesale,Enterprise,3,236.52,709.56,10,70.96,9.42,638.6,345.36
+2024-06-15 01:00:36.072144288,2024,6,June,2,Saturday,ORD-1364,Customer_364,Central,Clothing,Accessories,Online,Enterprise,10,211.77,2117.7,10,211.77,41.16,1905.93,1017.69
+2024-06-16 12:07:12.865731464,2024,6,June,2,Sunday,ORD-1365,Customer_365,West,Home & Garden,Furniture,Retail,Retail,7,328.98,2302.86,20,460.57,10.49,1842.29,910.66
+2024-06-17 23:13:49.659318632,2024,6,June,2,Monday,ORD-1366,Customer_366,Central,Beauty,Fragrance,Wholesale,Retail,9,277.26,2495.34,5,124.77,10.63,2370.57,1361.8
+2024-06-19 10:20:26.452905808,2024,6,June,2,Wednesday,ORD-1367,Customer_367,West,Sports,Accessories,Online,Enterprise,17,40.51,688.67,10,68.87,43.27,619.8,301.06
+2024-06-20 21:27:03.246492984,2024,6,June,2,Thursday,ORD-1368,Customer_368,East,Beauty,Skincare,Wholesale,SMB,11,261.13,2872.43,20,574.49,20.51,2297.94,1128.46
+2024-06-22 08:33:40.040080160,2024,6,June,2,Saturday,ORD-1369,Customer_369,West,Clothing,Men,Retail,Individual,7,405.14,2835.98,15,425.4,6.39,2410.58,1269.8
+2024-06-23 19:40:16.833667336,2024,6,June,2,Sunday,ORD-1370,Customer_370,Central,Sports,Equipment,Online,SMB,14,235.03,3290.42,20,658.08,7.34,2632.34,1308.83
+2024-06-25 06:46:53.627254504,2024,6,June,2,Tuesday,ORD-1371,Customer_371,South,Home & Garden,Decor,Retail,Retail,19,35.46,673.74,10,67.37,11.4,606.37,325.47
+2024-06-26 17:53:30.420841680,2024,6,June,2,Wednesday,ORD-1372,Customer_372,West,Sports,Accessories,Retail,SMB,4,395.28,1581.12,15,237.17,14.6,1343.95,696.9
+2024-06-28 05:00:07.214428856,2024,6,June,2,Friday,ORD-1373,Customer_373,South,Electronics,Laptops,Online,Enterprise,6,108.67,652.02,20,130.4,34.93,521.62,225.88
+2024-06-29 16:06:44.008016032,2024,6,June,2,Saturday,ORD-1374,Customer_374,East,Sports,Footwear,Online,Retail,10,136.72,1367.2,0,0.0,12.08,1367.2,808.24
+2024-07-01 03:13:20.801603208,2024,7,July,3,Monday,ORD-1375,Customer_375,North,Electronics,Accessories,Online,Individual,7,90.71,634.97,15,95.25,10.35,539.72,275.38
+2024-07-02 14:19:57.595190376,2024,7,July,3,Tuesday,ORD-1376,Customer_376,East,Sports,Footwear,Direct,Enterprise,13,171.81,2233.53,0,0.0,39.41,2233.53,1300.71
+2024-07-04 01:26:34.388777552,2024,7,July,3,Thursday,ORD-1377,Customer_377,West,Electronics,Phones,Online,Enterprise,14,380.81,5331.34,5,266.57,35.2,5064.77,2897.03
+2024-07-05 12:33:11.182364728,2024,7,July,3,Friday,ORD-1378,Customer_378,South,Clothing,Men,Online,Individual,4,264.5,1058.0,15,158.7,24.59,899.3,451.51
+2024-07-06 23:39:47.975951904,2024,7,July,3,Saturday,ORD-1379,Customer_379,South,Beauty,Haircare,Online,Individual,8,110.39,883.12,0,0.0,29.72,883.12,500.15
+2024-07-08 10:46:24.769539080,2024,7,July,3,Monday,ORD-1380,Customer_380,Central,Home & Garden,Decor,Online,SMB,5,440.14,2200.7,10,220.07,19.04,1980.63,1081.31
+2024-07-09 21:53:01.563126248,2024,7,July,3,Tuesday,ORD-1381,Customer_381,South,Sports,Equipment,Wholesale,Retail,1,441.0,441.0,10,44.1,26.71,396.9,193.79
+2024-07-11 08:59:38.356713424,2024,7,July,3,Thursday,ORD-1382,Customer_382,Central,Beauty,Haircare,Direct,Individual,4,436.58,1746.32,5,87.32,27.8,1659.0,932.67
+2024-07-12 20:06:15.150300600,2024,7,July,3,Friday,ORD-1383,Customer_383,North,Home & Garden,Kitchen,Retail,Individual,3,127.01,381.03,15,57.15,22.43,323.88,149.04
+2024-07-14 07:12:51.943887776,2024,7,July,3,Sunday,ORD-1384,Customer_384,West,Home & Garden,Decor,Online,Retail,9,231.11,2079.99,15,312.0,45.8,1767.99,890.19
+2024-07-15 18:19:28.737474944,2024,7,July,3,Monday,ORD-1385,Customer_385,Central,Electronics,Laptops,Wholesale,Individual,8,492.64,3941.12,15,591.17,5.72,3349.95,1767.78
+2024-07-17 05:26:05.531062120,2024,7,July,3,Wednesday,ORD-1386,Customer_386,North,Clothing,Men,Wholesale,Individual,1,388.29,388.29,5,19.41,40.2,368.88,173.36
+2024-07-18 16:32:42.324649296,2024,7,July,3,Thursday,ORD-1387,Customer_387,South,Clothing,Kids,Wholesale,SMB,6,23.31,139.86,15,20.98,10.6,118.88,52.34
+2024-07-20 03:39:19.118236472,2024,7,July,3,Saturday,ORD-1388,Customer_388,South,Beauty,Haircare,Retail,Enterprise,9,41.95,377.55,10,37.76,40.89,339.79,147.88
+2024-07-21 14:45:55.911823648,2024,7,July,3,Sunday,ORD-1389,Customer_389,North,Clothing,Kids,Online,Enterprise,7,237.33,1661.31,0,0.0,32.72,1661.31,964.07
+2024-07-23 01:52:32.705410816,2024,7,July,3,Tuesday,ORD-1390,Customer_390,South,Sports,Equipment,Direct,Enterprise,4,455.52,1822.08,10,182.21,42.95,1639.87,868.09
+2024-07-24 12:59:09.498997992,2024,7,July,3,Wednesday,ORD-1391,Customer_391,North,Clothing,Women,Direct,Enterprise,13,273.96,3561.48,10,356.15,9.39,3205.33,1771.35
+2024-07-26 00:05:46.292585168,2024,7,July,3,Friday,ORD-1392,Customer_392,Central,Beauty,Makeup,Wholesale,Individual,17,253.93,4316.81,0,0.0,30.15,4316.81,2559.94
+2024-07-27 11:12:23.086172344,2024,7,July,3,Saturday,ORD-1393,Customer_393,Central,Clothing,Men,Retail,Retail,2,61.68,123.36,10,12.34,27.55,111.02,34.13
+2024-07-28 22:18:59.879759520,2024,7,July,3,Sunday,ORD-1394,Customer_394,North,Sports,Accessories,Retail,Retail,5,331.82,1659.1,5,82.96,36.78,1576.14,875.72
+2024-07-30 09:25:36.673346688,2024,7,July,3,Tuesday,ORD-1395,Customer_395,Central,Electronics,Phones,Retail,SMB,12,412.83,4953.96,0,0.0,29.04,4953.96,2943.34
+2024-07-31 20:32:13.466933864,2024,7,July,3,Wednesday,ORD-1396,Customer_396,Central,Beauty,Haircare,Direct,SMB,8,196.41,1571.28,10,157.13,29.33,1414.15,756.31
+2024-08-02 07:38:50.260521040,2024,8,August,3,Friday,ORD-1397,Customer_397,Central,Electronics,Accessories,Wholesale,Individual,6,390.05,2340.3,20,468.06,24.33,1872.24,911.79
+2024-08-03 18:45:27.054108216,2024,8,August,3,Saturday,ORD-1398,Customer_398,East,Electronics,Accessories,Online,Retail,8,482.59,3860.72,10,386.07,18.9,3474.65,1911.46
+2024-08-05 05:52:03.847695392,2024,8,August,3,Monday,ORD-1399,Customer_399,West,Electronics,Phones,Direct,Retail,18,109.85,1977.3,5,98.86,26.7,1878.44,1060.82
+2024-08-06 16:58:40.641282560,2024,8,August,3,Tuesday,ORD-1400,Customer_400,South,Home & Garden,Outdoor,Wholesale,Enterprise,3,266.43,799.29,15,119.89,10.33,679.4,349.35
+2024-08-08 04:05:17.434869736,2024,8,August,3,Thursday,ORD-1401,Customer_401,East,Home & Garden,Outdoor,Wholesale,Individual,12,150.7,1808.4,10,180.84,48.27,1627.56,855.93
+2024-08-09 15:11:54.228456912,2024,8,August,3,Friday,ORD-1402,Customer_402,Central,Electronics,Phones,Online,Individual,3,398.5,1195.5,15,179.32,37.15,1016.18,500.83
+2024-08-11 02:18:31.022044088,2024,8,August,3,Sunday,ORD-1403,Customer_403,North,Beauty,Makeup,Online,Enterprise,6,293.02,1758.12,20,351.62,47.86,1406.5,655.39
+2024-08-12 13:25:07.815631264,2024,8,August,3,Monday,ORD-1404,Customer_404,Central,Sports,Accessories,Online,Individual,2,320.95,641.9,10,64.19,15.2,577.71,305.75
+2024-08-14 00:31:44.609218432,2024,8,August,3,Wednesday,ORD-1405,Customer_405,West,Sports,Footwear,Retail,Individual,12,400.98,4811.76,0,0.0,44.57,4811.76,2842.49
+2024-08-15 11:38:21.402805608,2024,8,August,3,Thursday,ORD-1406,Customer_406,Central,Clothing,Men,Online,SMB,2,204.03,408.06,15,61.21,41.4,346.85,142.23
+2024-08-16 22:44:58.196392784,2024,8,August,3,Friday,ORD-1407,Customer_407,North,Beauty,Fragrance,Wholesale,Retail,6,458.39,2750.34,20,550.07,35.47,2200.27,1064.66
+2024-08-18 09:51:34.989979960,2024,8,August,3,Sunday,ORD-1408,Customer_408,West,Home & Garden,Outdoor,Online,Individual,17,271.18,4610.06,0,0.0,33.13,4610.06,2732.91
+2024-08-19 20:58:11.783567136,2024,8,August,3,Monday,ORD-1409,Customer_409,Central,Electronics,Tablets,Wholesale,SMB,3,87.4,262.2,0,0.0,19.24,262.2,138.08
+2024-08-21 08:04:48.577154304,2024,8,August,3,Wednesday,ORD-1410,Customer_410,West,Clothing,Accessories,Direct,Retail,2,350.99,701.98,0,0.0,41.74,701.98,379.45
+2024-08-22 19:11:25.370741480,2024,8,August,3,Thursday,ORD-1411,Customer_411,South,Sports,Accessories,Retail,Enterprise,8,398.7,3189.6,0,0.0,27.57,3189.6,1886.19
+2024-08-24 06:18:02.164328656,2024,8,August,3,Saturday,ORD-1412,Customer_412,South,Home & Garden,Furniture,Direct,SMB,12,165.21,1982.52,10,198.25,8.19,1784.27,983.07
+2024-08-25 17:24:38.957915832,2024,8,August,3,Sunday,ORD-1413,Customer_413,Central,Home & Garden,Furniture,Direct,SMB,4,430.02,1720.08,10,172.01,19.08,1548.07,840.96
+2024-08-27 04:31:15.751503000,2024,8,August,3,Tuesday,ORD-1414,Customer_414,West,Electronics,Laptops,Wholesale,Retail,5,454.01,2270.05,10,227.0,47.09,2043.05,1087.94
+2024-08-28 15:37:52.545090176,2024,8,August,3,Wednesday,ORD-1415,Customer_415,North,Sports,Apparel,Direct,Enterprise,13,145.68,1893.84,20,378.77,43.28,1515.07,714.25
+2024-08-30 02:44:29.338677352,2024,8,August,3,Friday,ORD-1416,Customer_416,Central,Beauty,Makeup,Wholesale,SMB,15,491.93,7378.95,20,1475.79,49.19,5903.16,2902.39
+2024-08-31 13:51:06.132264528,2024,8,August,3,Saturday,ORD-1417,Customer_417,South,Home & Garden,Furniture,Online,Individual,16,78.95,1263.2,20,252.64,33.26,1010.56,472.02
+2024-09-02 00:57:42.925851704,2024,9,September,3,Monday,ORD-1418,Customer_418,South,Electronics,Laptops,Online,Individual,10,108.99,1089.9,5,54.5,16.14,1035.4,583.3
+2024-09-03 12:04:19.719438872,2024,9,September,3,Tuesday,ORD-1419,Customer_419,Central,Beauty,Makeup,Wholesale,Individual,16,100.27,1604.32,20,320.86,12.33,1283.46,629.4
+2024-09-04 23:10:56.513026048,2024,9,September,3,Wednesday,ORD-1420,Customer_420,West,Sports,Footwear,Online,Enterprise,12,448.05,5376.6,10,537.66,13.41,4838.94,2674.89
+2024-09-06 10:17:33.306613224,2024,9,September,3,Friday,ORD-1421,Customer_421,South,Home & Garden,Outdoor,Retail,SMB,17,330.6,5620.2,10,562.02,5.89,5058.18,2804.21
+2024-09-07 21:24:10.100200400,2024,9,September,3,Saturday,ORD-1422,Customer_422,West,Beauty,Fragrance,Direct,Individual,16,84.53,1352.48,5,67.62,22.58,1284.86,721.29
+2024-09-09 08:30:46.893787576,2024,9,September,3,Monday,ORD-1423,Customer_423,South,Beauty,Skincare,Retail,Enterprise,12,225.76,2709.12,5,135.46,13.61,2573.66,1476.4
+2024-09-10 19:37:23.687374744,2024,9,September,3,Tuesday,ORD-1424,Customer_424,South,Beauty,Haircare,Direct,Individual,8,311.5,2492.0,20,498.4,23.52,1993.6,973.28
+2024-09-12 06:44:00.480961920,2024,9,September,3,Thursday,ORD-1425,Customer_425,East,Home & Garden,Decor,Online,Retail,3,50.9,152.7,15,22.9,47.07,129.8,21.65
+2024-09-13 17:50:37.274549096,2024,9,September,3,Friday,ORD-1426,Customer_426,South,Home & Garden,Furniture,Retail,SMB,16,442.38,7078.08,5,353.9,24.37,6724.18,3868.58
+2024-09-15 04:57:14.068136272,2024,9,September,3,Sunday,ORD-1427,Customer_427,North,Clothing,Kids,Online,SMB,13,403.77,5249.01,0,0.0,44.51,5249.01,3104.9
+2024-09-16 16:03:50.861723448,2024,9,September,3,Monday,ORD-1428,Customer_428,Central,Sports,Footwear,Direct,Enterprise,19,257.55,4893.45,10,489.34,32.25,4404.11,2414.48
+2024-09-18 03:10:27.655310616,2024,9,September,3,Wednesday,ORD-1429,Customer_429,Central,Electronics,Tablets,Wholesale,Enterprise,8,483.89,3871.12,0,0.0,16.12,3871.12,2306.55
+2024-09-19 14:17:04.448897792,2024,9,September,3,Thursday,ORD-1430,Customer_430,West,Beauty,Makeup,Wholesale,SMB,5,214.7,1073.5,10,107.35,21.01,966.15,515.74
+2024-09-21 01:23:41.242484968,2024,9,September,3,Saturday,ORD-1431,Customer_431,South,Clothing,Women,Retail,Individual,8,492.21,3937.68,10,393.77,8.78,3543.91,1960.06
+2024-09-22 12:30:18.036072144,2024,9,September,3,Sunday,ORD-1432,Customer_432,North,Electronics,Accessories,Online,Individual,12,337.28,4047.36,5,202.37,20.01,3844.99,2206.04
+2024-09-23 23:36:54.829659320,2024,9,September,3,Monday,ORD-1433,Customer_433,West,Clothing,Accessories,Online,Retail,1,320.99,320.99,5,16.05,35.49,304.94,141.05
+2024-09-25 10:43:31.623246488,2024,9,September,3,Wednesday,ORD-1434,Customer_434,East,Home & Garden,Kitchen,Retail,Individual,6,91.32,547.92,0,0.0,8.24,547.92,320.51
+2024-09-26 21:50:08.416833664,2024,9,September,3,Thursday,ORD-1435,Customer_435,West,Beauty,Haircare,Wholesale,Enterprise,18,442.14,7958.52,10,795.85,14.24,7162.67,3965.02
+2024-09-28 08:56:45.210420840,2024,9,September,3,Saturday,ORD-1436,Customer_436,West,Electronics,Phones,Direct,Enterprise,8,219.47,1755.76,0,0.0,22.16,1755.76,1031.3
+2024-09-29 20:03:22.004008016,2024,9,September,3,Sunday,ORD-1437,Customer_437,South,Electronics,Accessories,Retail,Individual,7,89.49,626.43,15,93.96,49.19,532.47,232.71
+2024-10-01 07:09:58.797595192,2024,10,October,4,Tuesday,ORD-1438,Customer_438,East,Electronics,Tablets,Direct,Enterprise,1,16.18,16.18,0,0.0,40.32,16.18,-30.61
+2024-10-02 18:16:35.591182360,2024,10,October,4,Wednesday,ORD-1439,Customer_439,West,Electronics,Accessories,Wholesale,SMB,16,284.28,4548.48,20,909.7,38.01,3638.78,1781.38
+2024-10-04 05:23:12.384769536,2024,10,October,4,Friday,ORD-1440,Customer_440,North,Electronics,Accessories,Online,SMB,12,268.43,3221.16,0,0.0,10.23,3221.16,1922.47
+2024-10-05 16:29:49.178356712,2024,10,October,4,Saturday,ORD-1441,Customer_441,North,Clothing,Kids,Wholesale,Individual,6,362.48,2174.88,20,434.98,40.14,1739.9,829.81
+2024-10-07 03:36:25.971943888,2024,10,October,4,Monday,ORD-1442,Customer_442,Central,Beauty,Makeup,Retail,SMB,2,446.23,892.46,20,178.49,40.34,713.97,316.65
+2024-10-08 14:43:02.765531056,2024,10,October,4,Tuesday,ORD-1443,Customer_443,East,Home & Garden,Kitchen,Online,SMB,14,48.91,684.74,20,136.95,32.05,547.79,241.84
+2024-10-10 01:49:39.559118232,2024,10,October,4,Thursday,ORD-1444,Customer_444,East,Home & Garden,Kitchen,Retail,Retail,4,368.43,1473.72,15,221.06,49.57,1252.66,613.6
+2024-10-11 12:56:16.352705408,2024,10,October,4,Friday,ORD-1445,Customer_445,Central,Home & Garden,Outdoor,Retail,Retail,1,101.83,101.83,0,0.0,19.64,101.83,41.46
+2024-10-13 00:02:53.146292584,2024,10,October,4,Sunday,ORD-1446,Customer_446,West,Home & Garden,Kitchen,Wholesale,SMB,18,430.51,7749.18,0,0.0,47.36,7749.18,4602.15
+2024-10-14 11:09:29.939879760,2024,10,October,4,Monday,ORD-1447,Customer_447,East,Clothing,Women,Retail,Individual,13,411.34,5347.42,15,802.11,46.16,4545.31,2360.18
+2024-10-15 22:16:06.733466928,2024,10,October,4,Tuesday,ORD-1448,Customer_448,North,Sports,Footwear,Wholesale,Retail,2,274.99,549.98,10,55.0,5.52,494.98,269.47
+2024-10-17 09:22:43.527054104,2024,10,October,4,Thursday,ORD-1449,Customer_449,North,Beauty,Makeup,Online,Enterprise,9,358.02,3222.18,5,161.11,25.26,3061.07,1746.94
+2024-10-18 20:29:20.320641280,2024,10,October,4,Friday,ORD-1450,Customer_450,South,Electronics,Phones,Wholesale,Enterprise,2,164.03,328.06,0,0.0,48.97,328.06,147.87
+2024-10-20 07:35:57.114228456,2024,10,October,4,Sunday,ORD-1451,Customer_451,East,Sports,Accessories,Online,Enterprise,9,240.87,2167.83,5,108.39,9.64,2059.44,1182.67
+2024-10-21 18:42:33.907815632,2024,10,October,4,Monday,ORD-1452,Customer_452,West,Home & Garden,Furniture,Wholesale,Individual,1,412.6,412.6,15,61.89,29.65,350.71,156.02
+2024-10-23 05:49:10.701402800,2024,10,October,4,Wednesday,ORD-1453,Customer_453,Central,Sports,Equipment,Direct,SMB,11,235.04,2585.44,10,258.54,49.05,2326.9,1243.67
+2024-10-24 16:55:47.494989976,2024,10,October,4,Thursday,ORD-1454,Customer_454,Central,Beauty,Fragrance,Direct,Enterprise,3,185.32,555.96,10,55.6,30.0,500.36,247.98
+2024-10-26 04:02:24.288577152,2024,10,October,4,Saturday,ORD-1455,Customer_455,West,Electronics,Tablets,Retail,Individual,4,252.16,1008.64,10,100.86,13.54,907.78,490.78
+2024-10-27 15:09:01.082164328,2024,10,October,4,Sunday,ORD-1456,Customer_456,South,Electronics,Accessories,Wholesale,Retail,18,415.84,7485.12,15,1122.77,31.2,6362.35,3337.1
+2024-10-29 02:15:37.875751504,2024,10,October,4,Tuesday,ORD-1457,Customer_457,Central,Beauty,Makeup,Wholesale,SMB,6,174.25,1045.5,20,209.1,14.2,836.4,404.0
+2024-10-30 13:22:14.669338672,2024,10,October,4,Wednesday,ORD-1458,Customer_458,East,Beauty,Skincare,Online,Retail,3,95.14,285.42,20,57.08,28.39,228.34,85.78
+2024-11-01 00:28:51.462925848,2024,11,November,4,Friday,ORD-1459,Customer_459,South,Home & Garden,Outdoor,Retail,Individual,11,358.89,3947.79,5,197.39,8.33,3750.4,2162.95
+2024-11-02 11:35:28.256513024,2024,11,November,4,Saturday,ORD-1460,Customer_460,East,Electronics,Tablets,Wholesale,Enterprise,15,414.73,6220.95,20,1244.19,32.25,4976.76,2456.13
+2024-11-03 22:42:05.050100200,2024,11,November,4,Sunday,ORD-1461,Customer_461,North,Sports,Accessories,Retail,Enterprise,5,59.31,296.55,20,59.31,28.26,237.24,90.36
+2024-11-05 09:48:41.843687376,2024,11,November,4,Tuesday,ORD-1462,Customer_462,South,Clothing,Men,Direct,Individual,10,127.54,1275.4,10,127.54,38.31,1147.86,599.39
+2024-11-06 20:55:18.637274544,2024,11,November,4,Wednesday,ORD-1463,Customer_463,Central,Clothing,Accessories,Wholesale,Enterprise,12,79.57,954.84,10,95.48,33.38,859.36,444.04
+2024-11-08 08:01:55.430861720,2024,11,November,4,Friday,ORD-1464,Customer_464,South,Beauty,Fragrance,Wholesale,SMB,15,180.49,2707.35,5,135.37,29.73,2571.98,1459.31
+2024-11-09 19:08:32.224448896,2024,11,November,4,Saturday,ORD-1465,Customer_465,South,Home & Garden,Furniture,Retail,Individual,17,230.67,3921.39,0,0.0,36.04,3921.39,2316.79
+2024-11-11 06:15:09.018036072,2024,11,November,4,Monday,ORD-1466,Customer_466,South,Clothing,Women,Wholesale,Retail,10,376.92,3769.2,5,188.46,11.48,3580.74,2061.58
+2024-11-12 17:21:45.811623248,2024,11,November,4,Tuesday,ORD-1467,Customer_467,South,Electronics,Phones,Retail,Individual,6,329.06,1974.36,5,98.72,31.79,1875.64,1054.11
+2024-11-14 04:28:22.605210416,2024,11,November,4,Thursday,ORD-1468,Customer_468,East,Beauty,Skincare,Wholesale,SMB,18,314.25,5656.5,15,848.48,12.74,4808.02,2532.68
+2024-11-15 15:34:59.398797592,2024,11,November,4,Friday,ORD-1469,Customer_469,North,Sports,Accessories,Online,SMB,13,182.66,2374.58,15,356.19,46.65,2018.39,1021.91
+2024-11-17 02:41:36.192384768,2024,11,November,4,Sunday,ORD-1470,Customer_470,West,Beauty,Skincare,Retail,Individual,3,422.31,1266.93,5,63.35,8.08,1203.58,688.73
+2024-11-18 13:48:12.985971944,2024,11,November,4,Monday,ORD-1471,Customer_471,South,Sports,Apparel,Wholesale,Individual,10,240.93,2409.3,5,120.46,24.37,2288.84,1300.75
+2024-11-20 00:54:49.779559112,2024,11,November,4,Wednesday,ORD-1472,Customer_472,Central,Beauty,Haircare,Direct,Enterprise,14,489.76,6856.64,5,342.83,36.31,6513.81,3734.84
+2024-11-21 12:01:26.573146288,2024,11,November,4,Thursday,ORD-1473,Customer_473,South,Beauty,Fragrance,Wholesale,SMB,6,320.73,1924.38,20,384.88,25.61,1539.5,744.14
+2024-11-22 23:08:03.366733464,2024,11,November,4,Friday,ORD-1474,Customer_474,Central,Beauty,Makeup,Direct,Individual,3,71.87,215.61,15,32.34,9.14,183.27,87.89
+2024-11-24 10:14:40.160320640,2024,11,November,4,Sunday,ORD-1475,Customer_475,East,Sports,Accessories,Direct,Individual,16,341.33,5461.28,5,273.06,29.9,5188.22,2973.81
+2024-11-25 21:21:16.953907816,2024,11,November,4,Monday,ORD-1476,Customer_476,Central,Sports,Equipment,Online,SMB,7,169.3,1185.1,10,118.51,33.87,1066.59,558.68
+2024-11-27 08:27:53.747494984,2024,11,November,4,Wednesday,ORD-1477,Customer_477,West,Beauty,Haircare,Retail,Individual,14,346.3,4848.2,10,484.82,36.67,4363.38,2387.43
+2024-11-28 19:34:30.541082160,2024,11,November,4,Thursday,ORD-1478,Customer_478,North,Clothing,Men,Wholesale,Enterprise,9,44.12,397.08,20,79.42,21.8,317.66,137.03
+2024-11-30 06:41:07.334669336,2024,11,November,4,Saturday,ORD-1479,Customer_479,Central,Home & Garden,Kitchen,Online,SMB,15,95.69,1435.35,20,287.07,30.36,1148.28,543.78
+2024-12-01 17:47:44.128256512,2024,12,December,4,Sunday,ORD-1480,Customer_480,Central,Home & Garden,Outdoor,Wholesale,Enterprise,3,429.31,1287.93,0,0.0,25.28,1287.93,747.48
+2024-12-03 04:54:20.921843688,2024,12,December,4,Tuesday,ORD-1481,Customer_481,North,Home & Garden,Outdoor,Direct,Enterprise,2,121.32,242.64,0,0.0,35.24,242.64,110.34
+2024-12-04 16:00:57.715430856,2024,12,December,4,Wednesday,ORD-1482,Customer_482,West,Sports,Equipment,Retail,Enterprise,2,420.15,840.3,0,0.0,31.26,840.3,472.92
+2024-12-06 03:07:34.509018032,2024,12,December,4,Friday,ORD-1483,Customer_483,South,Sports,Footwear,Wholesale,Enterprise,3,146.85,440.55,20,88.11,28.66,352.44,147.56
+2024-12-07 14:14:11.302605208,2024,12,December,4,Saturday,ORD-1484,Customer_484,Central,Clothing,Kids,Wholesale,SMB,18,325.01,5850.18,20,1170.04,16.23,4680.14,2323.84
+2024-12-09 01:20:48.096192384,2024,12,December,4,Monday,ORD-1485,Customer_485,North,Home & Garden,Outdoor,Direct,Enterprise,14,350.13,4901.82,20,980.36,5.09,3921.46,1955.64
+2024-12-10 12:27:24.889779560,2024,12,December,4,Tuesday,ORD-1486,Customer_486,East,Home & Garden,Furniture,Wholesale,Enterprise,18,261.2,4701.6,10,470.16,12.83,4231.44,2337.97
+2024-12-11 23:34:01.683366728,2024,12,December,4,Wednesday,ORD-1487,Customer_487,North,Beauty,Haircare,Wholesale,Individual,10,159.6,1596.0,20,319.2,10.27,1276.8,628.13
+2024-12-13 10:40:38.476953904,2024,12,December,4,Friday,ORD-1488,Customer_488,East,Sports,Accessories,Direct,SMB,2,114.2,228.4,10,22.84,25.21,205.56,88.99
+2024-12-14 21:47:15.270541080,2024,12,December,4,Saturday,ORD-1489,Customer_489,West,Home & Garden,Decor,Online,SMB,1,26.26,26.26,0,0.0,32.55,26.26,-16.79
+2024-12-16 08:53:52.064128256,2024,12,December,4,Monday,ORD-1490,Customer_490,South,Clothing,Men,Direct,Retail,4,158.93,635.72,0,0.0,14.59,635.72,366.84
+2024-12-17 20:00:28.857715432,2024,12,December,4,Tuesday,ORD-1491,Customer_491,North,Clothing,Women,Online,SMB,14,330.05,4620.7,0,0.0,47.26,4620.7,2725.16
+2024-12-19 07:07:05.651302600,2024,12,December,4,Thursday,ORD-1492,Customer_492,Central,Home & Garden,Furniture,Retail,SMB,1,469.77,469.77,5,23.49,5.3,446.28,253.07
+2024-12-20 18:13:42.444889776,2024,12,December,4,Friday,ORD-1493,Customer_493,West,Sports,Accessories,Online,Retail,14,436.89,6116.46,5,305.82,39.75,5810.64,3324.31
+2024-12-22 05:20:19.238476952,2024,12,December,4,Sunday,ORD-1494,Customer_494,North,Clothing,Kids,Online,SMB,16,385.37,6165.92,15,924.89,33.13,5241.03,2741.53
+2024-12-23 16:26:56.032064128,2024,12,December,4,Monday,ORD-1495,Customer_495,Central,Beauty,Haircare,Retail,SMB,14,396.34,5548.76,15,832.31,21.81,4716.45,2475.14
+2024-12-25 03:33:32.825651304,2024,12,December,4,Wednesday,ORD-1496,Customer_496,North,Clothing,Kids,Online,SMB,3,335.84,1007.52,15,151.13,7.27,856.39,446.11
+2024-12-26 14:40:09.619238472,2024,12,December,4,Thursday,ORD-1497,Customer_497,East,Electronics,Laptops,Direct,SMB,3,137.54,412.62,5,20.63,33.24,391.99,193.7
+2024-12-28 01:46:46.412825648,2024,12,December,4,Saturday,ORD-1498,Customer_498,North,Electronics,Accessories,Online,Retail,9,454.53,4090.77,5,204.54,22.35,3886.23,2227.57
+2024-12-29 12:53:23.206412824,2024,12,December,4,Sunday,ORD-1499,Customer_499,North,Sports,Apparel,Retail,SMB,6,338.66,2031.96,15,304.79,47.13,1727.17,867.26
+2024-12-31 00:00:00.000000000,2024,12,December,4,Tuesday,ORD-1500,Customer_500,North,Home & Garden,Outdoor,Direct,SMB,13,284.62,3700.06,15,555.01,29.39,3145.05,1635.64
